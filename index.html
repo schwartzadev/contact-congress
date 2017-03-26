@@ -14,27 +14,27 @@ title: Contact Congress
 <section class="congress">
   <h1 class="title">Find Your Official</h1>
   <h3 class="text-center">PUT SEARCH THING HERE</h3>
-  <h3 class="text-center">ADD noscript SECTION<h3>
+  <h3 class="text-center">ADD noscript SECTION</h3>
   <table class="table main-content">
   <thead>
+    <td><b>Title</b></td>
     <td><b>Name</b></td>
     <td><b>State</b></td>
     <td><b>Address</b></td>
     <td><b>Special Role(s)</b></td>
   </thead>
-  {% for admins in site.admins %}
+  {% for senator in site.data.senators %}
   <tr>
-    <td>{{ admins.firstname }} {{ admins.name }}</td>
+    <td>Senator</td>
+    <td>{{ senator.firstname }} {{ senator.name }}</td>
     <td>
-      <i class="fa fa-slack" aria-hidden="true"></i>  
-      {{ admins.location }}
+      {{ senator.location }}
     </td>
     <td>
-      <i class="fa fa-map" aria-hidden="true"></i>  
-      {{ admins.address }}
+      {{ senator.address }}
     </td>
-    {% if admins.special %}
-    <td>{{ admins.special }}</td>
+    {% if senator.special %}
+    <td>{{ senator.special }}</td>
     {% else %}
     <td></td>
     {% endif %}
