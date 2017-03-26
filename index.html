@@ -50,7 +50,16 @@ title: Contact Congress
         <td>Senator</td>
         <td><a href="{{ senator.website }}">{{ senator.last }}, {{ senator.firstname }}</a></td>
         <td>{{ senator.location }}</td>
+
+        {% if senator.party == "R" %}
+        <td class="republican">Rep.</td>
+        {% elsif senator.party == "D" %}
+        <td class="democrat">Dem.</td>
+        {% else %}
         <td>{{ senator.party }}</td>
+        {% endif %}
+
+
         <td>{{ senator.address }}</td>
         <td>{{ senator.phone }}</td>
         {% if senator.special %}
@@ -65,7 +74,16 @@ title: Contact Congress
         <td>Congressperson</td>
         <td>{{ rep.name }}</a></td>
         <td>{{ rep.state }} ({{ rep.district }})</td>
+
+
+        {% if rep.party == "R" %}
+        <td class="republican">Rep.</td>
+        {% elsif rep.party == "D" %}
+        <td class="democrat">Dem.</td>
+        {% else %}
         <td>{{ rep.party }}</td>
+        {% endif %}        
+
         <td>{{ rep.room }}</td>
         <td>{{ rep.phone }}</td>
         <td>{{ rep.special }}</td>
