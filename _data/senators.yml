@@ -1,0 +1,995 @@
+    - name: Alexander (R-TN)
+      last: Alexander
+      firstname: Lamar
+      party: R
+      location: TN
+      address: 455 Dirksen Senate Office Building Washington DC 20510
+      phone: (202) 224-4944
+      contact: http://www.alexander.senate.gov/public/index.cfm?p=Email
+      website: http://www.alexander.senate.gov/      
+
+    - name: Barrasso (R-WY)
+      last: Barrasso
+      firstname: John
+      party: R
+      location: WY
+      address: 307 Dirksen Senate Office Building Washington DC 20510
+      phone: (202) 224-6441
+      contact: https://www.barrasso.senate.gov/public/index.cfm/contact-form
+      website: http://www.barrasso.senate.gov      
+
+    - name:  Bennet (D-CO)
+      last: Bennet
+      firstname: Michael F.
+      party: D
+      location: CO
+      address: 261 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-5852
+      contact: https://www.bennet.senate.gov/?p=contact
+      website: http://www.bennet.senate.gov      
+
+    - name:  Blumenthal (D-CT)
+      last: Blumenthal
+      firstname: Richard
+      party: D
+      location: CT
+      address: 706 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-2823
+      contact: https://www.blumenthal.senate.gov/contact/
+      website: http://www.blumenthal.senate.gov      
+
+    - name:  Blunt (R-MO)
+      last: Blunt
+      firstname: Roy
+      party: R
+      location: MO
+      address: 260 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-5721
+      contact: https://www.blunt.senate.gov/public/index.cfm/contact-roy
+      website: http://www.blunt.senate.gov      
+
+    - name:  Booker (D-NJ)
+      last: Booker
+      firstname: Cory A.
+      party: D
+      location: NJ
+      address: 359 Dirksen Senate Office Building Washington DC 20510
+      phone: (202) 224-3224
+      contact: https://www.booker.senate.gov/?p=contact
+      website: http://www.booker.senate.gov      
+
+    - name:  Boozman (R-AR)
+      last: Boozman
+      firstname: John
+      party: R
+      location: AR
+      address: 141 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-4843
+      contact: https://www.boozman.senate.gov/public/index.cfm/contact
+      website: http://www.boozman.senate.gov/      
+
+    - name:  Brown (D-OH)
+      last: Brown
+      firstname: Sherrod
+      party: D
+      location: OH
+      address: 713 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-2315
+      contact: http://www.brown.senate.gov/contact/
+      website: http://www.brown.senate.gov/      
+
+    - name:  Burr (R-NC)
+      last: Burr
+      firstname: Richard
+      party: R
+      location: NC
+      address: 217 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-3154
+      contact: https://www.burr.senate.gov/contact/email
+      website: http://www.burr.senate.gov      
+
+    - name:  Cantwell (D-WA)
+      last: Cantwell
+      firstname: Maria
+      party: D
+      location: WA
+      address: 511 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-3441
+      contact: http://www.cantwell.senate.gov/public/index.cfm/email-maria
+      website: http://www.cantwell.senate.gov      
+
+    - name:  Capito (R-WV)
+      last: Capito
+      firstname: Shelley Moore
+      party: R
+      location: WV
+      address: 172 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-6472
+      contact: https://www.capito.senate.gov/contact/contact-shelley
+      website: http://www.capito.senate.gov      
+
+    - name:  Cardin (D-MD)
+      last: Cardin
+      firstname: Benjamin L.
+      party: D
+      location: MD
+      address: 509 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-4524
+      contact: http://www.cardin.senate.gov/contact/
+      website: http://www.cardin.senate.gov/      
+
+    - name:  Carper (D-DE)
+      last: Carper
+      firstname: Thomas R.
+      party: D
+      location: DE
+      address: 513 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-2441
+      contact: http://www.carper.senate.gov/public/index.cfm/email-senator-carper
+      website: http://www.carper.senate.gov      
+
+    - name:  Casey (D-PA)
+      last: Casey
+      firstname: Robert P., Jr.
+      party: D
+      location: PA
+      address: 393 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-6324
+      contact: https://www.casey.senate.gov/contact/
+      website: http://www.casey.senate.gov/      
+
+    - name:  Cassidy (R-LA)
+      last: Cassidy
+      firstname: Bill
+      party: R
+      location: LA
+      address: 520 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-5824
+      contact: https://www.cassidy.senate.gov/contact
+      website: http://www.cassidy.senate.gov      
+
+    - name:  Cochran (R-MS)
+      last: Cochran
+      firstname: Thad
+      party: R
+      location: MS
+      address: 113 Dirksen Senate Office Building Washington DC 20510
+      phone: (202) 224-5054
+      contact: https://www.cochran.senate.gov/public/index.cfm/email-me
+      website: http://www.cochran.senate.gov      
+
+    - name:  Collins (R-ME)
+      last: Collins
+      firstname: Susan M.
+      party: R
+      location: ME
+      address: 413 Dirksen Senate Office Building Washington DC 20510
+      phone: (202) 224-2523
+      contact: http://www.collins.senate.gov/contact
+      website: http://www.collins.senate.gov      
+
+    - name:  Coons (D-DE)
+      last: Coons
+      firstname: Christopher A.
+      party: D
+      location: DE
+      address: 127A Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-5042
+      contact: https://www.coons.senate.gov/contact
+      website: http://www.coons.senate.gov/      
+
+    - name:  Corker (R-TN)
+      last: Corker
+      firstname: Bob
+      party: R
+      location: TN
+      address: 425 Dirksen Senate Office Building Washington DC 20510
+      phone: (202) 224-3344
+      contact: https://www.corker.senate.gov/public/index.cfm/emailme
+      website: http://www.corker.senate.gov/      
+
+    - name:  Cornyn (R-TX)
+      last: Cornyn
+      firstname: John
+      party: R
+      location: TX
+      address: 517 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-2934
+      contact: https://www.cornyn.senate.gov/contact
+      website: http://www.cornyn.senate.gov/
+      special: Assistant Majority Leader      
+
+    - name:  Cortez Masto (D-NV)
+      last: Cortez Masto
+      firstname: Catherine
+      party: D
+      location: NV
+      address: 204 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-3542
+      contact: https://www.cortezmasto.senate.gov/content/contact-senator
+      website: http://www.cortezmasto.senate.gov      
+
+    - name:  Cotton (R-AR)
+      last: Cotton
+      firstname: Tom
+      party: R
+      location: AR
+      address: 124 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-2353
+      contact: http://www.cotton.senate.gov/?p=contact
+      website: http://www.cotton.senate.gov      
+
+    - name:  Crapo (R-ID)
+      last: Crapo
+      firstname: Mike
+      party: R
+      location: ID
+      address: 239 Dirksen Senate Office Building Washington DC 20510
+      phone: (202) 224-6142
+      contact: http://www.crapo.senate.gov/contact/email.cfm
+      website: http://www.crapo.senate.gov      
+
+    - name:  Cruz (R-TX)
+      last: Cruz
+      firstname: Ted
+      party: R
+      location: TX
+      address: 404 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-5922
+      contact: http://www.cruz.senate.gov/?p=email_senator
+      website: http://www.cruz.senate.gov      
+
+    - name:  Daines (R-MT)
+      last: Daines
+      firstname: Steve
+      party: R
+      location: MT
+      address: 320 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-2651
+      contact: https://www.daines.senate.gov/connect/email-steve
+      website: http://www.daines.senate.gov      
+
+    - name:  Donnelly (D-IN)
+      last: Donnelly
+      firstname: Joe
+      party: D
+      location: IN
+      address: 720 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-4814
+      contact: https://www.donnelly.senate.gov/contact/email-joe
+      website: http://www.donnelly.senate.gov      
+
+    - name:  Duckworth (D-IL)
+      last: Duckworth
+      firstname: Tammy
+      party: D
+      location: IL
+      address: 524 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-2854
+      contact: https://www.duckworth.senate.gov/content/contact-senator
+      website: http://www.duckworth.senate.gov      
+
+    - name:  Durbin (D-IL)
+      last: Durbin
+      firstname: Richard J.
+      party: D
+      location: IL
+      address: 711 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-2152
+      contact: https://www.durbin.senate.gov/contact/
+      website: http://www.durbin.senate.gov
+      special: Whip      
+
+    - name:  Enzi (R-WY)
+      last: Enzi
+      firstname: Michael B.
+      party: R
+      location: WY
+      address: 379A Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-3424
+      contact: http://www.enzi.senate.gov/public/index.cfm/contact?p=e-mail-senator-enzi
+      website: http://www.enzi.senate.gov      
+
+    - name:  Ernst (R-IA)
+      last: Ernst
+      firstname: Joni
+      party: R
+      location: IA
+      address: 111 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-3254
+      contact: https://www.ernst.senate.gov/public/index.cfm/contact
+      website: http://www.ernst.senate.gov      
+
+    - name:  Feinstein (D-CA)
+      last: Feinstein
+      firstname: Dianne
+      party: D
+      location: CA
+      address: 331 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-3841
+      contact: https://www.feinstein.senate.gov/public/index.cfm/e-mail-me
+      website: http://www.feinstein.senate.gov      
+
+    - name:  Fischer (R-NE)
+      last: Fischer
+      firstname: Deb
+      party: R
+      location: NE
+      address: 454 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-6551
+      contact: http://www.fischer.senate.gov/public/index.cfm/contact
+      website: http://www.fischer.senate.gov      
+
+    - name:  Flake (R-AZ)
+      last: Flake
+      firstname: Jeff
+      party: R
+      location: AZ
+      address: 413 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-4521
+      contact: https://www.flake.senate.gov/public/index.cfm/contact-jeff
+      website: http://www.flake.senate.gov      
+
+    - name:  Franken (D-MN)
+      last: Franken
+      firstname: Al
+      party: D
+      location: MN
+      address: 309 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-5641
+      contact: https://www.franken.senate.gov/?p=contact
+      website: http://www.franken.senate.gov      
+
+    - name:  Gardner (R-CO)
+      last: Gardner
+      firstname: Cory
+      party: R
+      location: CO
+      address: 354 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-5941
+      contact: https://www.gardner.senate.gov/contact-cory/email-cory
+      website: http://www.gardner.senate.gov      
+
+    - name:  Gillibrand (D-NY)
+      last: Gillibrand
+      firstname: Kirsten E.
+      party: D
+      location: NY
+      address: 478 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-4451
+      contact: http://www.gillibrand.senate.gov/contact/
+      website: http://www.gillibrand.senate.gov      
+
+    - name:  Graham (R-SC)
+      last: Graham
+      firstname: Lindsey
+      party: R
+      location: SC
+      address: 290 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-5972
+      contact: https://www.lgraham.senate.gov/public/index.cfm/e-mail-senator-graham
+      website: http://www.lgraham.senate.gov/      
+
+    - name:  Grassley (R-IA)
+      last: Grassley
+      firstname: Chuck
+      party: R
+      location: IA
+      address: 135 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-3744
+      contact: http://www.grassley.senate.gov/contact
+      website: http://www.grassley.senate.gov      
+
+    - name:  Harris (D-CA)
+      last: Harris
+      firstname: Kamala D.
+      party: D
+      location: CA
+      address: 112 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-3553
+      contact: https://www.harris.senate.gov/content/contact-senator
+      website: http://www.harris.senate.gov      
+
+    - name:  Hassan (D-NH)
+      last: Hassan
+      firstname: Margaret Wood
+      party: D
+      location: NH
+      address: 330 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-3324
+      contact: https://www.hassan.senate.gov/content/contact-senator
+      website: http://www.hassan.senate.gov      
+
+    - name:  Hatch (R-UT)
+      last: Hatch
+      firstname: Orrin G.
+      party: R
+      location: UT
+      address: 104 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-5251
+      contact: http://www.hatch.senate.gov/public/index.cfm/contact?p=Email-Orrin
+      website: http://www.hatch.senate.gov/
+      special: President Pro Tempore      
+
+    - name:  Heinrich (D-NM)
+      last: Heinrich
+      firstname: Martin
+      party: D
+      location: NM
+      address: 303 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-5521
+      contact: http://www.heinrich.senate.gov/contact
+      website: http://www.heinrich.senate.gov/      
+
+    - name:  Heitkamp (D-ND)
+      last: Heitkamp
+      firstname: Heidi
+      party: D
+      location: ND
+      address: 516 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-2043
+      contact: http://www.heitkamp.senate.gov/public/index.cfm/contact
+      website: http://www.heitkamp.senate.gov/      
+
+    - name:  Heller (R-NV)
+      last: Heller
+      firstname: Dean
+      party: R
+      location: NV
+      address: 324 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-6244
+      contact: http://www.heller.senate.gov/public/index.cfm/contact-form
+      website: http://www.heller.senate.gov/      
+
+    - name:  Hirono (D-HI)
+      last: Hirono
+      firstname: Mazie K.
+      party: D
+      location: HI
+      address: 730 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-6361
+      contact: https://www.hirono.senate.gov/contact
+      website: http://www.hirono.senate.gov/      
+
+    - name:  Hoeven (R-ND)
+      last: Hoeven
+      firstname: John
+      party: R
+      location: ND
+      address: 338 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-2551
+      contact: http://www.hoeven.senate.gov/public/index.cfm/email-the-senator
+      website: http://www.hoeven.senate.gov      
+
+    - name:  Inhofe (R-OK)
+      last: Inhofe
+      firstname: James M.
+      party: R
+      location: OK
+      address: 205 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-4721
+      contact: https://www.inhofe.senate.gov/contact
+      website: http://www.inhofe.senate.gov/      
+
+    - name:  Isakson (R-GA)
+      last: Isakson
+      firstname: Johnny
+      party: R
+      location: GA
+      address: 131 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-3643
+      contact: https://www.isakson.senate.gov/public/index.cfm/email-me
+      website: http://www.isakson.senate.gov      
+
+    - name:  Johnson (R-WI)
+      last: Johnson
+      firstname: Ron
+      party: R
+      location: WI
+      address: 328 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-5323
+      contact: https://www.ronjohnson.senate.gov/public/index.cfm/email-the-senator
+      website: http://www.ronjohnson.senate.gov/      
+
+    - name:  Kaine (D-VA)
+      last: Kaine
+      firstname: Tim
+      party: D
+      location: VA
+      address: 231 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-4024
+      contact: https://www.kaine.senate.gov/contact
+      website: http://www.kaine.senate.gov/      
+
+    - name:  Kennedy (R-LA)
+      last: Kennedy
+      firstname: John
+      party: R
+      location: LA
+      address: B11 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-4623
+      contact: https://www.kennedy.senate.gov/content/contact-senator
+      website: http://www.kennedy.senate.gov      
+
+    - name:  King (I-ME)
+      last: King
+      firstname: Angus S., Jr.
+      party: I
+      location: ME
+      address: 133 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-5344
+      contact: https://www.king.senate.gov/contact
+      website: http://www.king.senate.gov/      
+
+    - name:  Klobuchar (D-MN)
+      last: Klobuchar
+      firstname: Amy
+      party: D
+      location: MN
+      address: 302 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-3244
+      contact: http://www.klobuchar.senate.gov/public/index.cfm/contact
+      website: http://www.klobuchar.senate.gov/      
+
+    - name:  Lankford (R-OK)
+      last: Lankford
+      firstname: James
+      party: R
+      location: OK
+      address: 316 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-5754
+      contact: http://www.lankford.senate.gov/contact/email
+      website: http://www.lankford.senate.gov      
+
+    - name:  Leahy (D-VT)
+      last: Leahy
+      firstname: Patrick J.
+      party: D
+      location: VT
+      address: 437 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-4242
+      contact: https://www.leahy.senate.gov/contact/
+      website: http://www.leahy.senate.gov/      
+
+    - name:  Lee (R-UT)
+      last: Lee
+      firstname: Mike
+      party: R
+      location: UT
+      address: 361A Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-5444
+      contact: https://www.lee.senate.gov/public/index.cfm/contact
+      website: http://www.lee.senate.gov/      
+
+    - name:  Manchin (D-WV)
+      last: Manchin
+      firstname: Joe, III
+      party: D
+      location: WV
+      address: 306 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-3954
+      contact: http://www.manchin.senate.gov/public/index.cfm/contact-form
+      website: http://www.manchin.senate.gov/      
+
+    - name:  Markey (D-MA)
+      last: Markey
+      firstname: Edward J.
+      party: D
+      location: MA
+      address: 255 Dirksen Senate Office Building Washington DC 20510
+      phone: (202) 224-2742
+      contact: https://www.markey.senate.gov/contact
+      website: http://www.markey.senate.gov/      
+
+    - name:  McCain (R-AZ)
+      last: McCain
+      firstname: John
+      party: R
+      location: AZ
+      address: 218 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-2235
+      contact: https://www.mccain.senate.gov/public/index.cfm/contact-form
+      website: http://www.mccain.senate.gov/      
+
+    - name:  McCaskill (D-MO)
+      last: McCaskill
+      firstname: Claire
+      party: D
+      location: MO
+      address: 503 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-6154
+      contact: http://www.mccaskill.senate.gov/contact
+      website: http://www.mccaskill.senate.gov/      
+
+    - name:  McConnell (R-KY)
+      last: McConnell
+      firstname: Mitch
+      party: R
+      location: KY
+      address: 317 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-2541
+      contact: http://www.mcconnell.senate.gov/public/index.cfm?p=contact
+      website: http://www.mcconnell.senate.gov/
+      special: Majority Leader      
+
+    - name:  Menendez (D-NJ)
+      last: Menendez
+      firstname: Robert
+      party: D
+      location: NJ
+      address: 528 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-4744
+      contact: https://www.menendez.senate.gov/contact
+      website: http://www.menendez.senate.gov/      
+
+    - name:  Merkley (D-OR)
+      last: Merkley
+      firstname: Jeff
+      party: D
+      location: OR
+      address: 313 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-3753
+      contact: http://www.merkley.senate.gov/contact/
+      website: http://www.merkley.senate.gov      
+
+    - name:  Moran (R-KS)
+      last: Moran
+      firstname: Jerry
+      party: R
+      location: KS
+      address: 521 Dirksen Senate Office Building Washington DC 20510
+      phone: (202) 224-6521
+      contact: https://www.moran.senate.gov/public/index.cfm/e-mail-jerry
+      website: http://www.moran.senate.gov      
+
+    - name:  Murkowski (R-AK)
+      last: Murkowski
+      firstname: Lisa
+      party: R
+      location: AK
+      address: 522 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-6665
+      contact: https://www.murkowski.senate.gov/public/index.cfm/contact
+      website: http://www.murkowski.senate.gov/      
+
+    - name:  Murphy (D-CT)
+      last: Murphy
+      firstname: Christopher
+      party: D
+      location: CT
+      address: 136 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-4041
+      contact: http://www.murphy.senate.gov/contact
+      website: http://www.murphy.senate.gov/      
+
+    - name:  Murray (D-WA)
+      last: Murray
+      firstname: Patty
+      party: D
+      location: WA
+      address: 154 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-2621
+      contact: http://www.murray.senate.gov/public/index.cfm/contactme
+      website: http://www.murray.senate.gov/
+      special: Assistant Democratic Leader      
+
+    - name:  Nelson (D-FL)
+      last: Nelson
+      firstname: Bill
+      party: D
+      location: FL
+      address: 716 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-5274
+      contact: https://www.billnelson.senate.gov/contact-bill
+      website: http://www.billnelson.senate.gov/      
+
+    - name:  Paul (R-KY)
+      last: Paul
+      firstname: Rand
+      party: R
+      location: KY
+      address: 167 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-4343
+      contact: https://www.paul.senate.gov/connect/email-rand
+      website: http://www.paul.senate.gov      
+
+    - name:  Perdue (R-GA)
+      last: Perdue
+      firstname: David
+      party: R
+      location: GA
+      address: 455 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-3521
+      contact: https://www.perdue.senate.gov/connect/email
+      website: http://www.perdue.senate.gov      
+
+    - name:  Peters (D-MI)
+      last: Peters
+      firstname: Gary C.
+      party: D
+      location: MI
+      address: 724 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-6221
+      contact: https://www.peters.senate.gov/contact/email-gary
+      website: http://www.peters.senate.gov      
+
+    - name:  Portman (R-OH)
+      last: Portman
+      firstname: Rob
+      party: R
+      location: OH
+      address: 448 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-3353
+      contact: https://www.portman.senate.gov/public/index.cfm/contact?p=contact-form
+      website: http://www.portman.senate.gov      
+
+    - name:  Reed (D-RI)
+      last: Reed
+      firstname: Jack
+      party: D
+      location: RI
+      address: 728 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-4642
+      contact: https://www.reed.senate.gov/contact/
+      website: http://www.reed.senate.gov/      
+
+    - name:  Risch (R-ID)
+      last: Risch
+      firstname: James E.
+      party: R
+      location: ID
+      address: 483 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-2752
+      contact: http://www.risch.senate.gov/public/index.cfm?p=Email
+      website: http://www.risch.senate.gov      
+
+    - name:  Roberts (R-KS)
+      last: Roberts
+      firstname: Pat
+      party: R
+      location: KS
+      address: 109 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-4774
+      contact: https://www.roberts.senate.gov/public/?p=EmailPat
+      website: http://www.roberts.senate.gov/      
+
+    - name:  Rounds (R-SD)
+      last: Rounds
+      firstname: Mike
+      party: R
+      location: SD
+      address: 502 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-5842
+      contact: https://www.rounds.senate.gov/contact/email-mike
+      website: http://www.rounds.senate.gov      
+
+    - name:  Rubio (R-FL)
+      last: Rubio
+      firstname: Marco
+      party: R
+      location: FL
+      address: 284 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-3041
+      contact: http://www.rubio.senate.gov/public/index.cfm/contact
+      website: http://www.rubio.senate.gov      
+
+    - name:  Sanders (I-VT)
+      last: Sanders
+      firstname: Bernard
+      party: I
+      location: VT
+      address: 332 Dirksen Senate Office Building Washington DC 20510
+      phone: (202) 224-5141
+      contact: http://www.sanders.senate.gov/contact/
+      website: http://www.sanders.senate.gov/      
+
+    - name:  Sasse (R-NE)
+      last: Sasse
+      firstname: Ben
+      party: R
+      location: NE
+      address: 136 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-4224
+      contact: http://www.sasse.senate.gov/public/index.cfm/email-ben
+      website: http://www.sasse.senate.gov      
+
+    - name:  Schatz (D-HI)
+      last: Schatz
+      firstname: Brian
+      party: D
+      location: HI
+      address: 722 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-3934
+      contact: https://www.schatz.senate.gov/contact
+      website: http://www.schatz.senate.gov      
+
+    - name:  Schumer (D-NY)
+      last: Schumer
+      firstname: Charles E.
+      party: D
+      location: NY
+      address: 322 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-6542
+      contact: https://www.schumer.senate.gov/contact/email-chuck
+      website: http://www.schumer.senate.gov/
+      special: Democratic Leader      
+
+    - name:  Scott (R-SC)
+      last: Scott
+      firstname: Tim
+      party: R
+      location: SC
+      address: 717 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-6121
+      contact: https://www.scott.senate.gov/contact/email-me
+      website: http://www.scott.senate.gov/      
+
+    - name:  Shaheen (D-NH)
+      last: Shaheen
+      firstname: Jeanne
+      party: D
+      location: NH
+      address: 506 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-2841
+      contact: https://www.shaheen.senate.gov/contact/contact-jeanne
+      website: http://www.shaheen.senate.gov      
+
+    - name:  Shelby (R-AL)
+      last: Shelby
+      firstname: Richard C.
+      party: R
+      location: AL
+      address: 304 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-5744
+      contact: https://www.shelby.senate.gov/public/index.cfm/emailsenatorshelby
+      website: http://www.shelby.senate.gov/      
+
+    - name:  Stabenow (D-MI)
+      last: Stabenow
+      firstname: Debbie
+      party: D
+      location: MI
+      address: 731 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-4822
+      contact: http://www.stabenow.senate.gov/?p=contact
+      website: http://www.stabenow.senate.gov/      
+
+    - name:  Strange (R-AL)
+      last: Strange
+      firstname: Luther
+      party: R
+      location: AL
+      address: G-12 Dirksen Senate Office Building Washington DC 20510
+      phone: (202) 224-4124
+      contact: null
+      website: https://www.senate.gov/senators/115thCongress/Luther_Strange.htm      
+
+    - name:  Sullivan (R-AK)
+      last: Sullivan
+      firstname: Dan
+      party: R
+      location: AK
+      address: 702 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-3004
+      contact: https://www.sullivan.senate.gov/contact/email
+      website: http://www.sullivan.senate.gov      
+
+    - name:  Tester (D-MT)
+      last: Tester
+      firstname: Jon
+      party: D
+      location: MT
+      address: 311 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-2644
+      contact: https://www.tester.senate.gov/?p=email_senator
+      website: http://www.tester.senate.gov/      
+
+    - name:  Thune (R-SD)
+      last: Thune
+      firstname: John
+      party: R
+      location: SD
+      address: 511 Dirksen Senate Office Building Washington DC 20510
+      phone: (202) 224-2321
+      contact: http://www.thune.senate.gov/public/index.cfm/contact
+      website: http://www.thune.senate.gov/      
+
+    - name:  Tillis (R-NC)
+      last: Tillis
+      firstname: Thom
+      party: R
+      location: NC
+      address: 185 Dirksen Senate Office Building Washington DC 20510
+      phone: (202) 224-6342
+      contact: https://www.tillis.senate.gov/public/index.cfm/email-me
+      website: http://www.tillis.senate.gov      
+
+    - name:  Toomey (R-PA)
+      last: Toomey
+      firstname: Patrick J.
+      party: R
+      location: PA
+      address: 248 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-4254
+      contact: https://www.toomey.senate.gov/?p=contact
+      website: http://www.toomey.senate.gov/      
+
+    - name:  Udall (D-NM)
+      last: Udall
+      firstname: Tom
+      party: D
+      location: NM
+      address: 531 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-6621
+      contact: https://www.tomudall.senate.gov/?p=contact
+      website: http://www.tomudall.senate.gov      
+
+    - name:  Van Hollen (D-MD)
+      last: Van Hollen
+      firstname: Chris
+      party: D
+      location: MD
+      address: 110 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-4654
+      contact: https://www.vanhollen.senate.gov/content/contact-senator
+      website: http://www.vanhollen.senate.gov      
+
+    - name:  Warner (D-VA)
+      last: Warner
+      firstname: Mark R.
+      party: D
+      location: VA
+      address: 703 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-2023
+      contact: http://www.warner.senate.gov/public/index.cfm?p=Contact
+      website: http://www.warner.senate.gov      
+
+    - name:  Warren (D-MA)
+      last: Warren
+      firstname: Elizabeth
+      party: D
+      location: MA
+      address: 317 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-4543
+      contact: https://www.warren.senate.gov/?p=email_senator
+      website: http://www.warren.senate.gov      
+
+    - name:  Whitehouse (D-RI)
+      last: Whitehouse
+      firstname: Sheldon
+      party: D
+      location: RI
+      address: 530 Hart Senate Office Building Washington DC 20510
+      phone: (202) 224-2921
+      contact: https://www.whitehouse.senate.gov/contact/email-sheldon
+      website: http://www.whitehouse.senate.gov/      
+
+    - name:  Wicker (R-MS)
+      last: Wicker
+      firstname: Roger F.
+      party: R
+      location: MS
+      address: 555 Dirksen Senate Office Building Washington DC 20510
+      phone: (202) 224-6253
+      contact: https://www.wicker.senate.gov/public/index.cfm/contact
+      website: http://www.wicker.senate.gov      
+
+    - name:  Wyden (D-OR)
+      last: Wyden
+      firstname: Ron
+      party: D
+      location: OR
+      address: 221 Dirksen Senate Office Building Washington DC 20510
+      phone: (202) 224-5244
+      contact: https://www.wyden.senate.gov/contact/
+      website: http://www.wyden.senate.gov/      
+
+    - name:  Young (R-IN)
+      last: Young
+      firstname: Todd
+      party: R
+      location: IN
+      address: 400 Russell Senate Office Building Washington DC 20510
+      phone: (202) 224-5623
+      contact: https://www.young.senate.gov/content/contact-senator
+      website: http://www.young.senate.gov
