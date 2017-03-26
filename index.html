@@ -6,7 +6,7 @@ title: Contact Congress
 <section class="introduction">
 	<h1>Contact Congress</h1>
 
-	<p>A Slack community of developers, engineers, designers, makers, cultivators, and more.</p>
+	<p>A simple, efficient way to get in touch with your representatives.</p>
 
 	<a href="#" class="btn">Get Started</a>
 </section>
@@ -33,6 +33,7 @@ title: Contact Congress
     </div>
   </div>
   <h3 class="text-center">ADD noscript SECTION</h3>
+  <div style="overflow-x:auto">
   <table class="table main-content">
     <thead>
       <td><b>Title</b></td>
@@ -72,6 +73,7 @@ title: Contact Congress
       {% endfor %}
     </tbody>
   </table>
+  </div>
 </section>
 <script type="text/javascript">
   var jets = new Jets({
@@ -82,6 +84,7 @@ title: Contact Congress
 
   var jets2 = new Jets({
   searchTag: '#nameSearch',
-  contentTag: '#jetsContent'
+  contentTag: '#jetsContent',
+  columns: [1]
 }); // this should search all fields with the second searchbar but it doesn't, only searches states
 </script>
