@@ -62,10 +62,6 @@ header {
     letter-spacing: -2px;
 		font-size: 32px;
 		color: #fff;
-
-		@media screen and (min-width: 640px) {
-			font-size: 64px;
-		}
 	}
 
 	p {
@@ -99,7 +95,7 @@ header {
 
 section h1 {
 	text-align: center;
-	font-size: 300%;
+	font-size: 100%;
 }
 
 section h4,
