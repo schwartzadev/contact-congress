@@ -12,35 +12,76 @@ title: Contact Congress
 </section>
 
 <section class="congress">
-  <h1 class="title">Find Your Official</h1>
-  <h3 class="text-center">PUT SEARCH THING HERE</h3>
+  <h1 class="title">Find Your Officials</h1>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-6">
+        <h4 for="jetsSearch">Search with your 2 letter state abbreviation:</h4>
+        <div class="input-group">
+          <span class="input-group-addon" id="basic-addon3">State: </span>
+          <input type="search" id="stateSearch" class="form-control" placeholder="NY">
+        </div>
+      </div>
+      <div class="col-md-6">
+        <h4 for="nameSearch">Search by representative name:</h4>
+        <div class="input-group">
+          <span class="input-group-addon" id="basic-addon3">Name: </span>
+          <input type="search" id="nameSearch" class="form-control" placeholder="Maria">
+        </div>
+      </div>
+    </div>
+  </div>
   <h3 class="text-center">ADD noscript SECTION</h3>
   <table class="table main-content">
-  <thead>
-    <td><b>Title</b></td>
-    <td><b>Name</b></td>
-    <td><b>State</b></td>
-    <td><b>Address</b></td>
-    <td><b>Special Role(s)</b></td>
-  </thead>
-  {% for senator in site.data.senators %}
-  <tr>
-    <td>Senator</td>
-    <td>{{ senator.firstname }} {{ senator.name }}</td>
-    <td>
-      {{ senator.location }}
-    </td>
-    <td>
-      {{ senator.address }}
-    </td>
-    {% if senator.special %}
-    <td>{{ senator.special }}</td>
-    {% else %}
-    <td></td>
-    {% endif %}
-  </tr>
-  {% endfor %}
+    <thead>
+      <td><b>Title</b></td>
+      <td><b>Name</b></td>
+      <td><b>State (D)</b></td>
+      <td><b>Party</b></td>
+      <td><b>Room</b></td>
+      <td><b>Phone #</b></td>
+      <td><b>Special Role(s)</b></td>
+    </thead>
+    <tbody id="jetsContent">
+      {% for senator in site.data.senators %}
+      <tr>
+        <td>Senator</td>
+        <td><a href="{{ senator.website }}">{{ senator.last }}, {{ senator.firstname }}</a></td>
+        <td>{{ senator.location }}</td>
+        <td>{{ senator.party }}</td>
+        <td>{{ senator.address }}</td>
+        <td>{{ senator.phone }}</td>
+        {% if senator.special %}
+        <td>{{ senator.special }}</td>
+        {% else %}
+        <td></td>
+        {% endif %}
+      </tr>
+      {% endfor %}
+      {% for rep in site.data.hor %}
+      <tr>
+        <td>Congressperson</td>
+        <td>{{ rep.name }}</a></td>
+        <td>{{ rep.state }} ({{ rep.district }})</td>
+        <td>{{ rep.party }}</td>
+        <td>{{ rep.room }}</td>
+        <td>{{ rep.phone }}</td>
+        <td>{{ rep.special }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
   </table>
 </section>
+<script type="text/javascript">
+  var jets = new Jets({
+  searchTag: '#stateSearch',
+  contentTag: '#jetsContent',
+  columns: [2]
+});
 
-</div>
+  var jets2 = new Jets({
+  searchTag: '#nameSearch',
+  contentTag: '#jetsContent'
+}); // this should search all fields with the second searchbar but it doesn't, only searches states
+</script>
