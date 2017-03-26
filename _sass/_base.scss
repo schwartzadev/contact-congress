@@ -1,0 +1,116 @@
+// Base
+
+html, body {
+  padding: 0;
+  margin: 0;
+	font-size: 16px;
+	line-height: 24px;
+  font-family: 'Open Sans', sans-serif;
+	color: #333;
+}
+
+
+section {
+	padding: 32px;
+
+	@media screen and (min-width: 640px) {
+		padding: 48px
+	}
+}
+
+
+header {
+	// position: fixed;
+	// background: $mainAccent;
+	color: #fff;
+	width: 100%;
+
+	nav {
+		padding: 12px;
+		float: right;
+		list-style: none;
+		margin: 0;
+
+		li {
+			display: inline-block;
+			margin-left: 12px;
+			font-size: 14px;
+			line-height: 14px;
+
+			a {
+				color: #fff;
+				text-decoration: none;
+        font-weight: bold;
+			}
+		}
+	}
+}
+
+
+.introduction {
+	padding: 64px 16px;
+	text-align: center;
+  background: $mainAccent;
+  background: linear-gradient(45deg, $mainAccent 0%, $secondAccent 100%);
+  color: #fff;
+
+		@media screen and (min-width: 640px) {
+			padding: 96px 48px;
+		}
+
+	h1 {
+    letter-spacing: -2px;
+		font-size: 32px;
+		color: #fff;
+
+		@media screen and (min-width: 640px) {
+			font-size: 64px;
+		}
+	}
+
+	p {
+		max-width: 580px;
+		margin: 24px auto;
+
+		@media screen and (min-width: 640px) {
+			font-size: 24px;
+			line-height: 32px;
+		}
+	}
+
+	.btn {
+    display: inline-block;
+    margin: 24px 0 48px 0;
+    background: linear-gradient(to bottom, #ffffff 0%, #ececec 100%);
+    text-transform: uppercase;
+    font-weight: 800;
+    color: #333;
+    padding: 14px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    box-shadow: 0px 3px 3px rgba(0,0,0,0.2);
+	}
+
+	a {
+		color: #fff;
+	}
+}
+
+section h1 {
+	text-align: center;
+	font-size: 300%;
+}
+
+section h4,
+section h4 a {
+	color: $mainAccent;
+}
+
+section a {
+  color: $mainAccent;
+}
+
+section h4 + p {
+	margin-top: 0;
+}
