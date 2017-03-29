@@ -12,22 +12,21 @@ title: Contact Congress
 </section>
 
 <section class="congress">
-  <h1 class="title">Find Your Officials</h1>
-
+  <h1 class="">Find Your Officials</h1>
   <div class="container-fluid">
     <div class="row">
+    <div class="col-md-6">
+        <h4 for="nameSearch">Search by representative name:</h4>
+        <div class="input-group">
+          <span class="input-group-addon" id="basic-addon3">Name: </span>
+          <input type="search" id="allSearch" class="form-control" placeholder="Maria">
+        </div>
+      </div>
       <div class="col-md-6">
         <h4 for="jetsSearch">Search with your 2 letter state abbreviation:</h4>
         <div class="input-group">
           <span class="input-group-addon" id="basic-addon3">State: </span>
           <input type="search" id="stateSearch" class="form-control" placeholder="2 Letter Code...">
-        </div>
-      </div>
-      <div class="col-md-6">
-        <h4 for="nameSearch">Search by representative name:</h4>
-        <div class="input-group">
-          <span class="input-group-addon" id="basic-addon3">Name: </span>
-          <input type="search" id="nameSearch" class="form-control" placeholder="Maria">
         </div>
       </div>
     </div>
@@ -89,25 +88,25 @@ title: Contact Congress
 </section>
 <script type="text/javascript">
   var jets = new Jets({
-  searchTag: '#stateSearch',
-  contentTag: '#jetsContent',
-  columns: [2]
-});
+    searchTag: '#stateSearch',
+    contentTag: '#jetsContent',
+    columns: [2]
+  });
 
-$('#allSearch').on('keyup', function(e) {
+  $('#allSearch').on('keyup', function(e) {
     if ('' != this.value) {
         var reg = new RegExp(this.value, 'i'); // case-insesitive
 
         $('#jetsContent').find('tr').each(function() {
-            var $me = $(this);
-            if (!$me.children('td:nth-child(2)').text().match(reg)) {
-                $me.hide();
-            } else {
-                $me.show();
-            }
+          var $me = $(this);
+          if (!$me.children('td:nth-child(2)').text().match(reg)) {
+            $me.hide();
+          } else {
+            $me.show();
+          }
         });
-    } else {
+      } else {
         $('#jetsContent').find('tr').show();
-    }
-});
+      }
+    });
 </script>
