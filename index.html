@@ -20,7 +20,7 @@ title: Contact Congress
         <h4 for="jetsSearch">Search with your 2 letter state abbreviation:</h4>
         <div class="input-group">
           <span class="input-group-addon" id="basic-addon3">State: </span>
-          <input type="search" id="stateSearch" class="form-control" placeholder="NY">
+          <input type="search" id="stateSearch" class="form-control" placeholder="2 Letter Code...">
         </div>
       </div>
       <div class="col-md-6">
@@ -50,7 +50,6 @@ title: Contact Congress
         <td>Senator</td>
         <td><a href="{{ senator.website }}">{{ senator.last }}, {{ senator.firstname }}</a></td>
         <td>{{ senator.location }}</td>
-
         {% if senator.party == "R" %}
         <td class="republican">Rep.</td>
         {% elsif senator.party == "D" %}
@@ -58,8 +57,6 @@ title: Contact Congress
         {% else %}
         <td>{{ senator.party }}</td>
         {% endif %}
-
-
         <td>{{ senator.address }}</td>
         <td>{{ senator.phone }}</td>
         {% if senator.special %}
@@ -74,8 +71,6 @@ title: Contact Congress
         <td>Congressperson</td>
         <td>{{ rep.name }}</a></td>
         <td>{{ rep.state }} ({{ rep.district }})</td>
-
-
         {% if rep.party == "R" %}
         <td class="republican">Rep.</td>
         {% elsif rep.party == "D" %}
@@ -83,7 +78,6 @@ title: Contact Congress
         {% else %}
         <td>{{ rep.party }}</td>
         {% endif %}        
-
         <td>{{ rep.room }}</td>
         <td>{{ rep.phone }}</td>
         <td>{{ rep.special }}</td>
@@ -100,9 +94,20 @@ title: Contact Congress
   columns: [2]
 });
 
-  var jets2 = new Jets({
-  searchTag: '#nameSearch',
-  contentTag: '#jetsContent',
-  columns: [1]
-}); // this should search all fields with the second searchbar but it doesn't, only searches states
+$('#allSearch').on('keyup', function(e) {
+    if ('' != this.value) {
+        var reg = new RegExp(this.value, 'i'); // case-insesitive
+
+        $('#jetsContent').find('tr').each(function() {
+            var $me = $(this);
+            if (!$me.children('td:nth-child(2)').text().match(reg)) {
+                $me.hide();
+            } else {
+                $me.show();
+            }
+        });
+    } else {
+        $('#jetsContent').find('tr').show();
+    }
+});
 </script>
