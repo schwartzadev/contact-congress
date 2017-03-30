@@ -19,7 +19,7 @@ title: Contact Congress
         <h4 for="nameSearch">Search by representative name:</h4>
         <div class="input-group">
           <span class="input-group-addon" id="basic-addon3">Name: </span>
-          <input type="search" id="allSearch" class="form-control" placeholder="Maria">
+          <input type="search" class="nameSearch form-control" placeholder="Maria">
         </div>
       </div>
       <div class="col-md-6">
@@ -88,9 +88,16 @@ title: Contact Congress
 </section>
 <script type="text/javascript">
   var stateOptions = {
-    valueNames: [ 'table-state', 'table-party' ],
+    valueNames: [ 'table-state' ],
     searchClass: 'stateSearch'
   };
 
   var userList = new List('table-main', stateOptions);
+
+  var nameOptions = {
+    valueNames: [ 'table-name'  ],
+    searchClass: 'nameSearch'
+  };
+
+  var userList = new List('table-main', nameOptions);
 </script>
