@@ -14,7 +14,7 @@ title: Contact Congress
 <section class="congress">
   <h1 class="">Find Your Officials</h1>
   <div id="table-main" class="container-fluid">
-<!--     <div class="row">
+    <div class="row">
       <div class="col-md-6">
         <h4 for="nameSearch">Search by representative name:</h4>
         <div class="input-group">
@@ -26,14 +26,13 @@ title: Contact Congress
         <h4 for="jetsSearch">Search with your 2 letter state abbreviation:</h4>
         <div class="input-group">
           <span class="input-group-addon" id="basic-addon3">State: </span>
-          <input type="search" id="stateSearch" class="search form-control" placeholder="2 Letter Code...">
+          <input type="search" class="stateSearch form-control" placeholder="2 Letter Code...">
         </div>
       </div>
-    </div> -->
+    </div>
     <h3 class="text-center">ADD noscript SECTION</h3>
     <div style="overflow-x:auto">
       <table class="table main-content">
-        <input type="search" id="stateSearch" class="search form-control" placeholder="2 Letter Code...">
         <thead>
           <td><b>Title</b></td>
           <td><b>Name</b></td>
@@ -88,9 +87,10 @@ title: Contact Congress
   </div>
 </section>
 <script type="text/javascript">
-  var options = {
-    valueNames: [ 'table-state', 'table-party' ]
+  var stateOptions = {
+    valueNames: [ 'table-state', 'table-party' ],
+    searchClass: 'stateSearch'
   };
 
-  var userList = new List('table-main', options);
+  var userList = new List('table-main', stateOptions);
 </script>
