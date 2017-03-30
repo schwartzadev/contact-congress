@@ -13,9 +13,9 @@ title: Contact Congress
 
 <section class="congress">
   <h1 class="">Find Your Officials</h1>
-  <div class="container-fluid">
-    <div class="row">
-    <div class="col-md-6">
+  <div id="table-main" class="container-fluid">
+<!--     <div class="row">
+      <div class="col-md-6">
         <h4 for="nameSearch">Search by representative name:</h4>
         <div class="input-group">
           <span class="input-group-addon" id="basic-addon3">Name: </span>
@@ -26,104 +26,71 @@ title: Contact Congress
         <h4 for="jetsSearch">Search with your 2 letter state abbreviation:</h4>
         <div class="input-group">
           <span class="input-group-addon" id="basic-addon3">State: </span>
-          <input type="search" id="stateSearch" class="form-control" placeholder="2 Letter Code...">
+          <input type="search" id="stateSearch" class="search form-control" placeholder="2 Letter Code...">
         </div>
       </div>
+    </div> -->
+    <h3 class="text-center">ADD noscript SECTION</h3>
+    <div style="overflow-x:auto">
+      <table class="table main-content">
+        <input type="search" id="stateSearch" class="search form-control" placeholder="2 Letter Code...">
+        <thead>
+          <td><b>Title</b></td>
+          <td><b>Name</b></td>
+          <td><b>State (D)</b></td>
+          <td><b>Party</b></td>
+          <td><b>Room</b></td>
+          <td><b>Phone #</b></td>
+          <td><b>Special Role(s)</b></td>
+        </thead>
+        <tbody class="list">
+          {% for senator in site.data.senators %}
+          <tr>
+            <td>Senator</td>
+            <td class="table-name"><a href="{{ senator.website }}">{{ senator.last }}, {{ senator.firstname }}</a></td>
+            <td>{{ senator.location }}</td>
+            {% if senator.party == "R" %}
+            <td class="table-party republican">Rep.</td>
+            {% elsif senator.party == "D" %}
+            <td class="table-party democrat">Dem.</td>
+            {% else %}
+            <td>{{ senator.party }}</td>
+            {% endif %}
+            <td class="table-address">{{ senator.address }}</td>
+            <td class="table-phone">{{ senator.phone }}</td>
+            {% if senator.special %}
+            <td class="table-special">{{ senator.special }}</td>
+            {% else %}
+            <td></td>
+            {% endif %}
+          </tr>
+          {% endfor %}
+          {% for rep in site.data.hor %}
+          <tr>
+            <td>Congressperson</td>
+            <td>{{ rep.name }}</a></td>
+            <td>{{ rep.state }} ({{ rep.district }})</td>
+            {% if rep.party == "R" %}
+            <td class="republican">Rep.</td>
+            {% elsif rep.party == "D" %}
+            <td class="democrat">Dem.</td>
+            {% else %}
+            <td>{{ rep.party }}</td>
+            {% endif %}        
+            <td>{{ rep.room }}</td>
+            <td>{{ rep.phone }}</td>
+            <td>{{ rep.special }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
     </div>
-  </div>
-  <h3 class="text-center">ADD noscript SECTION</h3>
-  <div style="overflow-x:auto">
-  <table class="table main-content">
-    <thead>
-      <td><b>Title</b></td>
-      <td><b>Name</b></td>
-      <td><b>State (D)</b></td>
-      <td><b>Party</b></td>
-      <td><b>Room</b></td>
-      <td><b>Phone #</b></td>
-      <td><b>Special Role(s)</b></td>
-    </thead>
-    <tbody id="jetsContent">
-      {% for senator in site.data.senators %}
-      <tr>
-        <td>Senator</td>
-        <td><a href="{{ senator.website }}">{{ senator.last }}, {{ senator.firstname }}</a></td>
-        <td>{{ senator.location }}</td>
-        {% if senator.party == "R" %}
-        <td class="republican">Rep.</td>
-        {% elsif senator.party == "D" %}
-        <td class="democrat">Dem.</td>
-        {% else %}
-        <td>{{ senator.party }}</td>
-        {% endif %}
-        <td>{{ senator.address }}</td>
-        <td>{{ senator.phone }}</td>
-        {% if senator.special %}
-        <td>{{ senator.special }}</td>
-        {% else %}
-        <td></td>
-        {% endif %}
-      </tr>
-      {% endfor %}
-      {% for rep in site.data.hor %}
-      <tr>
-        <td>Congressperson</td>
-        <td>{{ rep.name }}</a></td>
-        <td>{{ rep.state }} ({{ rep.district }})</td>
-        {% if rep.party == "R" %}
-        <td class="republican">Rep.</td>
-        {% elsif rep.party == "D" %}
-        <td class="democrat">Dem.</td>
-        {% else %}
-        <td>{{ rep.party }}</td>
-        {% endif %}        
-        <td>{{ rep.room }}</td>
-        <td>{{ rep.phone }}</td>
-        <td>{{ rep.special }}</td>
-      </tr>
-      {% endfor %}
-    </tbody>
-  </table>
   </div>
 </section>
 <script type="text/javascript">
-  // var jets = new Jets({
-  //   searchTag: '#stateSearch',
-  //   contentTag: '#jetsContent',
-  //   columns: [2]
-  // });
+  var options = {
+    valueNames: [ 'table-name', 'table-party' ]
+  };
 
-    $('#stateSearch').on('keyup', function(e) {
-    if ('' != this.value) {
-        var reg = new RegExp(this.value, 'i'); // case-insesitive
-
-        $('#jetsContent').find('tr').each(function() {
-          var $me = $(this);
-          if (!$me.children('td:nth-child(3)').text().match(reg)) {
-            $me.hide();
-          } else {
-            $me.show();
-          }
-        });
-      } else {
-        $('#jetsContent').find('tr').show();
-      }
-    });
-
-  $('#allSearch').on('keyup', function(e) {
-    if ('' != this.value) {
-        var reg = new RegExp(this.value, 'i'); // case-insesitive
-
-        $('#jetsContent').find('tr').each(function() {
-          var $me = $(this);
-          if (!$me.children('td:nth-child(2)').text().match(reg)) {
-            $me.hide();
-          } else {
-            $me.show();
-          }
-        });
-      } else {
-        $('#jetsContent').find('tr').show();
-      }
-    });
+  var userList = new List('table-main', options);
 </script>
