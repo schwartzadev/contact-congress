@@ -48,38 +48,38 @@ title: Contact Congress
           <tr>
             <td>Senator</td>
             <td class="table-name"><a href="{{ senator.website }}">{{ senator.last }}, {{ senator.firstname }}</a></td>
-            <td>{{ senator.location }}</td>
+            <td class="table-state">{{ senator.location }}</td>
             {% if senator.party == "R" %}
             <td class="table-party republican">Rep.</td>
             {% elsif senator.party == "D" %}
             <td class="table-party democrat">Dem.</td>
             {% else %}
-            <td>{{ senator.party }}</td>
+            <td class="table-party">{{ senator.party }}</td>
             {% endif %}
-            <td class="table-address">{{ senator.address }}</td>
+            <td class="table-room">{{ senator.address }}</td>
             <td class="table-phone">{{ senator.phone }}</td>
             {% if senator.special %}
             <td class="table-special">{{ senator.special }}</td>
             {% else %}
-            <td></td>
+            <td class="table-special"></td>
             {% endif %}
           </tr>
           {% endfor %}
           {% for rep in site.data.hor %}
           <tr>
             <td>Congressperson</td>
-            <td>{{ rep.name }}</a></td>
-            <td>{{ rep.state }} ({{ rep.district }})</td>
+            <td class="table-name">{{ rep.name }}</a></td>
+            <td class="table-state">{{ rep.state }} ({{ rep.district }})</td>
             {% if rep.party == "R" %}
-            <td class="republican">Rep.</td>
+            <td class="table-party republican">Rep.</td>
             {% elsif rep.party == "D" %}
-            <td class="democrat">Dem.</td>
+            <td class="table-party democrat">Dem.</td>
             {% else %}
-            <td>{{ rep.party }}</td>
+            <td class="table-party">{{ rep.party }}</td>
             {% endif %}        
-            <td>{{ rep.room }}</td>
-            <td>{{ rep.phone }}</td>
-            <td>{{ rep.special }}</td>
+            <td class="table-room">{{ rep.room }}</td>
+            <td class="table-phone">{{ rep.phone }}</td>
+            <td class="table-special">{{ rep.special }}</td>
           </tr>
           {% endfor %}
         </tbody>
@@ -89,7 +89,7 @@ title: Contact Congress
 </section>
 <script type="text/javascript">
   var options = {
-    valueNames: [ 'table-name', 'table-party' ]
+    valueNames: [ 'table-state', 'table-party' ]
   };
 
   var userList = new List('table-main', options);
