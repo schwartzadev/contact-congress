@@ -87,11 +87,28 @@ title: Contact Congress
   </div>
 </section>
 <script type="text/javascript">
-  var jets = new Jets({
-    searchTag: '#stateSearch',
-    contentTag: '#jetsContent',
-    columns: [2]
-  });
+  // var jets = new Jets({
+  //   searchTag: '#stateSearch',
+  //   contentTag: '#jetsContent',
+  //   columns: [2]
+  // });
+
+    $('#stateSearch').on('keyup', function(e) {
+    if ('' != this.value) {
+        var reg = new RegExp(this.value, 'i'); // case-insesitive
+
+        $('#jetsContent').find('tr').each(function() {
+          var $me = $(this);
+          if (!$me.children('td:nth-child(3)').text().match(reg)) {
+            $me.hide();
+          } else {
+            $me.show();
+          }
+        });
+      } else {
+        $('#jetsContent').find('tr').show();
+      }
+    });
 
   $('#allSearch').on('keyup', function(e) {
     if ('' != this.value) {
