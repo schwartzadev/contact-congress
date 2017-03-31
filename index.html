@@ -6,9 +6,8 @@ title: Contact Congress
 <section class="introduction">
 	<h1>Contact Congress</h1>
 
-	<p>A simple, efficient way to get in touch with your representatives.</p>
+	<p>A simple, efficient way to get in touch with your congresspeople.</p>
 
-	<a href="#" class="btn">Get Started</a>
 </section>
 
 <section class="congress">
@@ -19,19 +18,20 @@ title: Contact Congress
       <h4 for="jetsSearch">Search by state abbreviation:</h4>
         <div class="input-group">
           <span class="input-group-addon" id="basic-addon3">State: </span>
-          <input type="search" id="stateSearch" class="form-control" placeholder="2 Letter Code...">
+          <input type="search" id="stateSearch" class="form-control" placeholder="2 Letter code...">
         </div>
       </div>
       <div class="col-md-6">
         <h4 for="nameSearch">Search by representative name:</h4>
         <div class="input-group">
           <span class="input-group-addon" id="basic-addon3">Name: </span>
-          <input type="search" id="allSearch" class="form-control" placeholder="Maria">
+          <input type="search" id="allSearch" class="form-control" placeholder="First or last...">
         </div>
       </div>
     </div>
   </div>
-  <h3 class="text-center">ADD noscript SECTION</h3>
+  </br>
+  </br>
   <div style="overflow-x:auto">
   <table class="table main-content">
     <thead>
@@ -56,8 +56,8 @@ title: Contact Congress
         {% else %}
         <td>{{ senator.party }}</td>
         {% endif %}
-        <td>{{ senator.address }}</td>
         <td>{{ senator.phone }}</td>
+        <td>{{ senator.address }}</td>
         {% if senator.special %}
         <td>{{ senator.special }}</td>
         {% else %}
@@ -67,7 +67,7 @@ title: Contact Congress
       {% endfor %}
       {% for rep in site.data.hor %}
       <tr>
-        <td>Congressperson</td>
+        <td>Representative</td>
         <td>{{ rep.name }}</a></td>
         <td>{{ rep.state }} ({{ rep.district }})</td>
         {% if rep.party == "R" %}
@@ -76,9 +76,9 @@ title: Contact Congress
         <td class="democrat">Dem.</td>
         {% else %}
         <td>{{ rep.party }}</td>
-        {% endif %}        
+        {% endif %}
+        <td>{{ rep.phone }}</td>     
         <td>{{ rep.room }}</td>
-        <td>{{ rep.phone }}</td>
         <td>{{ rep.special }}</td>
       </tr>
       {% endfor %}
