@@ -15,7 +15,7 @@ title: Contact Congress
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-6">
-      <h4 for="jetsSearch">Search by state abbreviation:</h4>
+        <h4 for="jetsSearch">Search by state abbreviation:</h4>
         <div class="input-group">
           <span class="input-group-addon" id="basic-addon3">State: </span>
           <input type="search" id="stateSearch" class="form-control" placeholder="2 Letter code...">
@@ -30,9 +30,9 @@ title: Contact Congress
       </div>
     </div>
   </div>
-  </br>
-  </br>
-  <div style="overflow-x:auto">
+</br>
+</br>
+<div style="overflow-x:auto">
   <table class="table main-content">
     <thead>
       <td><b>Title</b></td>
@@ -84,10 +84,10 @@ title: Contact Congress
       {% endfor %}
     </tbody>
   </table>
-  </div>
+</div>
 </section>
 <script type="text/javascript">
-   $('#stateSearch, #allSearch').on('keyup', function(e) {
+ $('#stateSearch, #allSearch').on('keyup', function(e) {
 
    var stateFilter = $('#stateSearch').val();
    var nameFilter = $('#allSearch').val();
@@ -107,5 +107,5 @@ title: Contact Congress
 
    })
 
-});
+ });
 </script>
