@@ -87,43 +87,25 @@ title: Contact Congress
   </div>
 </section>
 <script type="text/javascript">
-  // var jets = new Jets({
-  //   searchTag: '#stateSearch',
-  //   contentTag: '#jetsContent',
-  //   columns: [2]
-  // });
+   $('#stateSearch, #allSearch').on('keyup', function(e) {
 
-    $('#stateSearch').on('keyup', function(e) {
-    if ('' != this.value) {
-        var reg = new RegExp(this.value, 'i'); // case-insesitive
+   var stateFilter = $('#stateSearch').val();
+   var nameFilter = $('#allSearch').val();
 
-        $('#jetsContent').find('tr').each(function() {
-          var $me = $(this);
-          if (!$me.children('td:nth-child(3)').text().match(reg)) {
-            $me.hide();
-          } else {
-            $me.show();
-          }
-        });
-      } else {
-        $('#jetsContent').find('tr').show();
-      }
-    });
+   var stateReg = new RegExp(stateFilter, 'i')
+   var nameReg = new RegExp(nameFilter, 'i')
 
-  $('#allSearch').on('keyup', function(e) {
-    if ('' != this.value) {
-        var reg = new RegExp(this.value, 'i'); // case-insesitive
+   $('#jetsContent').find('tr').hide().each(function() {
+     var $me = $(this);
 
-        $('#jetsContent').find('tr').each(function() {
-          var $me = $(this);
-          if (!$me.children('td:nth-child(2)').text().match(reg)) {
-            $me.hide();
-          } else {
-            $me.show();
-          }
-        });
-      } else {
-        $('#jetsContent').find('tr').show();
-      }
-    });
+     var matchesState = $me.children('td:nth-child(3)').text().match(stateReg);
+     var matchesName = $me.children('td:nth-child(2)').text().match(nameReg);
+
+     if (matchesState && matchesName) {
+       $me.show()
+     }
+
+   })
+
+});
 </script>
