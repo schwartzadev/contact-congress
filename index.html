@@ -5,9 +5,7 @@ title: Contact Congress
 
 <section class="introduction">
 	<h1>Contact Congress</h1>
-
 	<p>A simple, efficient way to get in touch with your congresspeople.</p>
-
 </section>
 
 <section class="congress">
@@ -43,7 +41,7 @@ title: Contact Congress
       <td>Room</td>
       <td>Special Role(s)</td>
     </thead>
-    <tbody id="jetsContent">
+    <tbody id="tabledata">
       {% for senator in site.data.senators %}
       <tr>
         <td>Senator</td>
@@ -95,7 +93,7 @@ title: Contact Congress
    var stateReg = new RegExp(stateFilter, 'i')
    var nameReg = new RegExp(nameFilter, 'i')
 
-   $('#jetsContent').find('tr').hide().each(function() {
+   $('#tabledata').find('tr').hide().each(function() {
      var $me = $(this);
 
      var matchesState = $me.children('td:nth-child(3)').text().match(stateReg);
