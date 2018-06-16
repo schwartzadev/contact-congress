@@ -64,7 +64,7 @@ def get_via_clerk():
             # logger.debug('{} ems = {}'.format(name, len(ems)))
             # logger.debug('{}\t{}\t{}\t{}'.format(name, state, district, phone))
     # logger.debug(yml_data)
-    with open(os.path.join(sys.path[0], "hor.yml"), 'w') as f:
+    with open(os.path.join(sys.path[0], "hor.yml"), 'w', encoding='utf-8') as f:
         print(yml_data, file=f)
 
     # with open('house.yml', 'w') as f:
@@ -141,7 +141,7 @@ def get_via_house_gov():
         yml_data += info
     logger.debug(yml_data)
     file_name = "hor.yml"
-    with open(os.path.join(sys.path[0], file_name), 'w') as f:
+    with open(os.path.join(sys.path[0], file_name), 'w', encoding='utf-8') as f:
         print(yml_data, file=f)
     logger.info('saved to {}'.format(file_name))
 
@@ -181,7 +181,7 @@ def get_senate_info():
 
     # logger.debug(yml_info)
     file_name = 'senators.yml'
-    with open(os.path.join(sys.path[0], file_name), 'w') as f:
+    with open(os.path.join(sys.path[0], file_name), 'w', encoding='utf-8') as f:
         print(yml_info, file=f)
     logger.info('saved to {}'.format(file_name))
         
