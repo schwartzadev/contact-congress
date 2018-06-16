@@ -1,3529 +1,3530 @@
 ---
 
-  - name: Byrne, Bradley
-    state: AL
-    district: 1
-    party: R
-    room: 119 Cannon
-    phone: (202) 225-4931
-    committee: Armed Services, Education and the Workforce, Rules
-
-  - name: Roby, Martha
-    state: AL
-    district: 2
-    party: R
-    room: 442 Cannon
-    phone: (202) 225-2901
-    committee: Appropriations, the Judiciary
-
-  - name: Rogers, Mike
-    state: AL
-    district: 3
-    party: R
-    room: 2184 Rayburn
-    phone: (202) 225-3261
-    committee: Agriculture, Armed Services, Homeland Security
-
-  - name: Aderholt, Robert
-    state: AL
-    district: 4
-    party: R
-    room: 235 Cannon
-    phone: (202) 225-4876
-    committee: Appropriations
-
-  - name: Brooks, Mo
-    state: AL
+  - name: Abraham, Ralph 
+    state: Louisiana
     district: 5
-    party: R
-    room: 2400 Rayburn
-    phone: (202) 225-4801
-    committee: Armed Services, Foreign Affairs, Science, Space, and Technology
-
-  - name: Palmer, Gary
-    state: AL
-    district: 6
-    party: R
-    room: 330 Cannon
-    phone: (202) 225-4921
-    committee: Oversight and Government, Science, Space, and Technology, the Budget
-
-  - name: Sewell, Terri A.
-    state: AL
-    district: 7
-    party: D
-    room: 2201 Rayburn
-    phone: (202) 225-2665
-    committee: Intelligence (Permanent), Ways and Means
-
-  - name: Young, Don
-    state: AK
-    district: all
-    party: R
-    room: 2314 Rayburn
-    phone: (202) 225-5765
-    committee: Natural Resources, Transportation
-
-  - name: Radewagen, Amata
-    state: AS
-    district: all
-    party: R
-    room: 1339 Longworth
-    phone: (202) 225-8577
-    committee: 'Natural Resources, Small Business, Veterans'' Affairs'
-
-  - name: 'O''Halleran, Tom'
-    state: AZ
-    district: 1
-    party: D
-    room: 126 Cannon
-    phone: (202) 225-3361
-    committee: Agriculture, Armed Services
-
-  - name: McSally, Martha
-    state: AZ
-    district: 2
-    party: R
-    room: 510 Cannon
-    phone: (202) 225-2542
-    committee: Armed Services, Homeland Security
-
-  - name: Grijalva, Raul
-    state: AZ
-    district: 3
-    party: D
-    room: 1511 Longworth
-    phone: (202) 225-2435
-    committee: Education and the Workforce, Natural Resources
-
-  - name: Gosar, Paul A.
-    state: AZ
-    district: 4
-    party: R
-    room: 2057 Rayburn
-    phone: (202) 225-2315
-    committee: Natural Resources, Oversight and Government
-
-  - name: Biggs, Andy
-    state: AZ
-    district: 5
-    party: R
-    room: 1626 Longworth
-    phone: (202) 225-2635
-    committee: Science, Space, and Technology, the Judiciary
-
-  - name: Schweikert, David
-    state: AZ
-    district: 6
-    party: R
-    room: 2059 Rayburn
-    phone: (202) 225-2190
-    committee: Ways and Means
-
-  - name: Gallego, Ruben
-    state: AZ
-    district: 7
-    party: D
-    room: 1218 Longworth
-    phone: (202) 225-4065
-    committee: Armed Services, Natural Resources
-
-  - name: Franks, Trent
-    state: AZ
-    district: 8
-    party: R
-    room: 2435 Rayburn
-    phone: (202) 225-4576
-    committee: Armed Services, the Judiciary
-
-  - name: Sinema, Kyrsten
-    state: AZ
-    district: 9
-    party: D
-    room: 1725 Longworth
-    phone: (202) 225-9888
-    committee: Financial Services
-
-  - name: Crawford, Rick
-    state: AR
-    district: 1
-    party: R
-    room: 2422 Rayburn
-    phone: (202) 225-4076
-    committee: Agriculture, Intelligence (Permanent), Transportation
-
-  - name: Hill, French
-    state: AR
-    district: 2
-    party: R
-    room: 1229 Longworth
-    phone: (202) 225-2506
-    committee: Financial Services
-
-  - name: Womack, Steve
-    state: AR
-    district: 3
-    party: R
-    room: 2412 Rayburn
-    phone: (202) 225-4301
-    committee: Appropriations, the Budget
-
-  - name: Westerman, Bruce
-    state: AR
-    district: 4
-    party: R
-    room: 130 Cannon
-    phone: (202) 225-3772
-    committee: Natural Resources, the Budget, Transportation
-
-  - name: LaMalfa, Doug
-    state: CA
-    district: 1
-    party: R
-    room: 322 Cannon
-    phone: (202) 225-3076
-    committee: Agriculture, Natural Resources, Transportation
-
-  - name: Huffman, Jared
-    state: CA
-    district: 2
-    party: D
-    room: 1406 Longworth
-    phone: (202) 225-5161
-    committee: Natural Resources, Transportation
-
-  - name: Garamendi, John
-    state: CA
-    district: 3
-    party: D
-    room: 2438 Rayburn
-    phone: (202) 225-1880
-    committee: Armed Services, Transportation
-
-  - name: McClintock, Tom
-    state: CA
-    district: 4
-    party: R
-    room: 2312 Rayburn
-    phone: (202) 225-2511
-    committee: Natural Resources, the Budget
-
-  - name: Thompson, Mike
-    state: CA
-    district: 5
-    party: D
-    room: 231 Cannon
-    phone: (202) 225-3311
-    committee: Ways and Means
-
-  - name: Matsui, Doris O.
-    state: CA
-    district: 6
-    party: D
-    room: 2311 Rayburn
-    phone: (202) 225-7163
-    committee: Energy and Commerce
-
-  - name: Bera, Ami
-    state: CA
-    district: 7
-    party: D
-    room: 1431 Longworth
-    phone: (202) 225-5716
-    committee: Foreign Affairs, Science, Space, and Technology
-
-  - name: Cook, Paul
-    state: CA
-    district: 8
-    party: R
-    room: 1222 Longworth
-    phone: (202) 225-5861
-    committee: Armed Services, Foreign Affairs, Natural Resources
-
-  - name: McNerney, Jerry
-    state: CA
-    district: 9
-    party: D
-    room: 2265 Rayburn
-    phone: (202) 225-1947
-    committee: Energy and Commerce, Science, Space, and Technology
-
-  - name: Denham, Jeff
-    state: CA
-    district: 10
-    party: R
-    room: 1730 Longworth
-    phone: (202) 225-4540
-    committee: Agriculture, Natural Resources, Transportation
-
-  - name: DeSaulnier, Mark
-    state: CA
-    district: 11
-    party: D
-    room: 115 Cannon
-    phone: (202) 225-2095
-    committee: Education and the Workforce, Oversight and Government, Transportation
-
-  - name: Pelosi, Nancy
-    state: CA
-    district: 12
-    party: D
-    room: 233 Cannon
-    phone: (202) 225-4965
-    committee: 
-
-  - name: Lee, Barbara
-    state: CA
-    district: 13
-    party: D
-    room: 2267 Rayburn
-    phone: (202) 225-2661
-    committee: Appropriations, the Budget
-
-  - name: Speier, Jackie
-    state: CA
-    district: 14
-    party: D
-    room: 2465 Rayburn
-    phone: (202) 225-3531
-    committee: Armed Services, Intelligence (Permanent)
-
-  - name: Swalwell, Eric
-    state: CA
-    district: 15
-    party: D
-    room: 129 Cannon
-    phone: (202) 225-5065
-    committee: Intelligence (Permanent), the Judiciary
-
-  - name: Costa, Jim
-    state: CA
-    district: 16
-    party: D
-    room: 2081 Rayburn
-    phone: (202) 225-3341
-    committee: Agriculture, Natural Resources
-
-  - name: Khanna, Ro
-    state: CA
-    district: 17
-    party: D
-    room: 513 Cannon
-    phone: (202) 225-2631
-    committee: Armed Services, the Budget
-
-  - name: Eshoo, Anna G.
-    state: CA
-    district: 18
-    party: D
-    room: 241 Cannon
-    phone: (202) 225-8104
-    committee: Energy and Commerce
-
-  - name: Lofgren, Zoe
-    state: CA
-    district: 19
-    party: D
-    room: 1401 Longworth
-    phone: (202) 225-3072
-    committee: House Administration, Science, Space, and Technology, the Judiciary
-
-  - name: Panetta, Jimmy
-    state: CA
-    district: 20
-    party: D
-    room: 228 Cannon
-    phone: (202) 225-2861
-    committee: Agriculture, Natural Resources
-
-  - name: Valadao, David
-    state: CA
-    district: 21
-    party: R
-    room: 1728 Longworth
-    phone: (202) 225-4695
-    committee: Appropriations
-
-  - name: Nunes, Devin
-    state: CA
-    district: 22
-    party: R
-    room: 1013 Longworth
-    phone: (202) 225-2523
-    committee: Intelligence (Permanent), Joint Taxation, Ways and Means
-
-  - name: McCarthy, Kevin
-    state: CA
-    district: 23
-    party: R
-    room: 2421 Rayburn
-    phone: (202) 225-2915
-    committee: 
-
-  - name: Carbajal, Salud
-    state: CA
-    district: 24
-    party: D
-    room: 212 Cannon
-    phone: (202) 225-3601
-    committee: Armed Services, the Budget
-
-  - name: Knight, Steve
-    state: CA
-    district: 25
-    party: R
-    room: 1023 Longworth
-    phone: (202) 225-1956
-    committee: Armed Services, Science, Space, and Technology, Small Business
-
-  - name: Brownley, Julia
-    state: CA
-    district: 26
-    party: D
-    room: 1019 Longworth
-    phone: (202) 225-5811
-    committee: 'Transportation, Veterans'' Affairs'
-
-  - name: Chu, Judy
-    state: CA
-    district: 27
-    party: D
-    room: 2423 Rayburn
-    phone: (202) 225-5464
-    committee: Small Business, Ways and Means
-
-  - name: Schiff, Adam
-    state: CA
-    district: 28
-    party: D
-    room: 2372 Rayburn
-    phone: (202) 225-4176
-    committee: Intelligence (Permanent)
-
-  - name: C√°rdenas, Tony
-    state: CA
-    district: 29
-    party: D
-    room: 1510 Longworth
-    phone: (202) 225-6131
-    committee: Energy and Commerce
-
-  - name: Sherman, Brad
-    state: CA
-    district: 30
-    party: D
-    room: 2181 Rayburn
-    phone: (202) 225-5911
-    committee: Financial Services, Foreign Affairs
-
-  - name: Aguilar, Pete
-    state: CA
-    district: 31
-    party: D
-    room: 1223 Longworth
-    phone: (202) 225-3201
-    committee: Appropriations
-
-  - name: Napolitano, Grace
-    state: CA
-    district: 32
-    party: D
-    room: 1610 Longworth
-    phone: (202) 225-5256
-    committee: Natural Resources, Transportation
-
-  - name: Lieu, Ted
-    state: CA
-    district: 33
-    party: D
-    room: 236 Cannon
-    phone: (202) 225-3976
-    committee: Foreign Affairs, the Judiciary
-
-  - name: Becerra, Xavier -- Vacancy
-    state: CA
-    district: 34
-    party: D
-    room: 1226 Longworth
-    phone: (202) 225-6235
-    committee: 
-
-  - name: Torres, Norma
-    state: CA
-    district: 35
-    party: D
-    room: 1713 Longworth
-    phone: (202) 225-6161
-    committee: Foreign Affairs, Natural Resources
-
-  - name: Ruiz, Raul
-    state: CA
-    district: 36
-    party: D
-    room: 1319 Longworth
-    phone: (202) 225-5330
-    committee: Energy and Commerce
-
-  - name: Bass, Karen
-    state: CA
-    district: 37
-    party: D
-    room: 2241 Rayburn
-    phone: (202) 225-7084
-    committee: Foreign Affairs, the Judiciary
-
-  - name: S√°nchez, Linda
-    state: CA
-    district: 38
-    party: D
-    room: 2329 Rayburn
-    phone: (202) 225-6676
-    committee: Ways and Means
-
-  - name: Royce, Ed
-    state: CA
-    district: 39
-    party: R
-    room: 2310 Rayburn
-    phone: (202) 225-4111
-    committee: Financial Services, Foreign Affairs
-
-  - name: Roybal-Allard, Lucille
-    state: CA
-    district: 40
-    party: D
-    room: 2083 Rayburn
-    phone: (202) 225-1766
-    committee: Appropriations
-
-  - name: Takano, Mark
-    state: CA
-    district: 41
-    party: D
-    room: 1507 Longworth
-    phone: (202) 225-2305
-    committee: 'Education and the Workforce, Science, Space, and Technology, Veterans'' Affairs'
-
-  - name: Calvert, Ken
-    state: CA
-    district: 42
-    party: R
-    room: 2205 Rayburn
-    phone: (202) 225-1986
-    committee: Appropriations
-
-  - name: Waters, Maxine
-    state: CA
-    district: 43
-    party: D
-    room: 2221 Rayburn
-    phone: (202) 225-2201
-    committee: Financial Services
-
-  - name: Barrag√°n, Nanette
-    state: CA
-    district: 44
-    party: D
-    room: 1320 Longworth
-    phone: (202) 225-8220
-    committee: Homeland Security, Natural Resources
-
-  - name: Walters, Mimi
-    state: CA
-    district: 45
-    party: R
-    room: 215 Cannon
-    phone: (202) 225-5611
-    committee: Energy and Commerce
-
-  - name: Correa, J. Luis
-    state: CA
-    district: 46
-    party: D
-    room: 1039 Longworth
-    phone: (202) 225-2965
-    committee: 'Homeland Security, Veterans'' Affairs'
-
-  - name: Lowenthal, Alan
-    state: CA
-    district: 47
-    party: D
-    room: 125 Cannon
-    phone: (202) 225-7924
-    committee: Natural Resources, Transportation
-
-  - name: Rohrabacher, Dana
-    state: CA
-    district: 48
-    party: R
-    room: 2300 Rayburn
-    phone: (202) 225-2415
-    committee: Foreign Affairs, Science, Space, and Technology
-
-  - name: Issa, Darrell
-    state: CA
-    district: 49
-    party: R
-    room: 2269 Rayburn
-    phone: (202) 225-3906
-    committee: Foreign Affairs, Oversight and Government, the Judiciary
-
-  - name: Hunter, Duncan D.
-    state: CA
-    district: 50
-    party: R
-    room: 2429 Rayburn
-    phone: (202) 225-5672
-    committee: Armed Services, Education and the Workforce, Transportation
-
-  - name: Vargas, Juan
-    state: CA
-    district: 51
-    party: D
-    room: 1605 Longworth
-    phone: (202) 225-8045
-    committee: Financial Services
-
-  - name: Peters, Scott
-    state: CA
-    district: 52
-    party: D
-    room: 1122 Longworth
-    phone: (202) 225-0508
-    committee: 'Energy and Commerce, Veterans'' Affairs'
-
-  - name: Davis, Susan
-    state: CA
-    district: 53
-    party: D
-    room: 1214 Longworth
-    phone: (202) 225-2040
-    committee: Armed Services, Education and the Workforce
-
-  - name: DeGette, Diana
-    state: CO
-    district: 1
-    party: D
-    room: 2111 Rayburn
-    phone: (202) 225-4431
-    committee: Energy and Commerce
-
-  - name: Polis, Jared
-    state: CO
-    district: 2
-    party: D
-    room: 1727 Longworth
-    phone: (202) 225-2161
-    committee: Education and the Workforce, Ethics, Rules
-
-  - name: Tipton, Scott
-    state: CO
-    district: 3
-    party: R
-    room: 218 Cannon
-    phone: (202) 225-4761
-    committee: Financial Services, Natural Resources
-
-  - name: Buck, Ken
-    state: CO
-    district: 4
-    party: R
-    room: 1130 Longworth
-    phone: (202) 225-4676
-    committee: Rules, the Judiciary
-
-  - name: Lamborn, Doug
-    state: CO
-    district: 5
-    party: R
-    room: 2402 Rayburn
-    phone: (202) 225-4422
-    committee: Armed Services, Natural Resources
-
-  - name: Coffman, Mike
-    state: CO
-    district: 6
-    party: R
-    room: 2443 Rayburn
-    phone: (202) 225-7882
-    committee: 'Armed Services, Veterans'' Affairs'
-
-  - name: Perlmutter, Ed
-    state: CO
-    district: 7
-    party: D
-    room: 1410 Longworth
-    phone: (202) 225-2645
-    committee: Financial Services, Science, Space, and Technology
-
-  - name: Larson, John B.
-    state: CT
-    district: 1
-    party: D
-    room: 1501 Longworth
-    phone: (202) 225-2265
-    committee: Ways and Means
-
-  - name: Courtney, Joe
-    state: CT
-    district: 2
-    party: D
-    room: 2348 Rayburn
-    phone: (202) 225-2076
-    committee: Armed Services, Education and the Workforce
-
-  - name: DeLauro, Rosa L.
-    state: CT
-    district: 3
-    party: D
-    room: 2413 Rayburn
-    phone: (202) 225-3661
-    committee: Appropriations
-
-  - name: Himes, Jim
-    state: CT
-    district: 4
-    party: D
-    room: 1227 Longworth
-    phone: (202) 225-5541
-    committee: Financial Services, Intelligence (Permanent)
-
-  - name: Esty, Elizabeth
-    state: CT
-    district: 5
-    party: D
-    room: 221 Cannon
-    phone: (202) 225-4476
-    committee: 'Science, Space, and Technology, Transportation, Veterans'' Affairs'
-
-  - name: Blunt Rochester, Lisa
-    state: DE
-    district: all
-    party: D
-    room: 1123 Longworth
-    phone: (202) 225-4165
-    committee: Agriculture, Education and the Workforce
-
-  - name: Norton, Eleanor Holmes
-    state: DC
-    district: all
-    party: D
-    room: 2136 Rayburn
-    phone: (202) 225-8050
-    committee: Oversight and Government, Transportation
-
-  - name: Gaetz, Matt
-    state: FL
-    district: 1
-    party: R
-    room: 507 Cannon
-    phone: (202) 225-4136
-    committee: Armed Services, the Budget, the Judiciary
-
-  - name: Dunn, Neal
-    state: FL
-    district: 2
-    party: R
-    room: 423 Cannon
-    phone: (202) 225-5235
-    committee: 'Agriculture, Science, Space, and Technology, Veterans'' Affairs'
-
-  - name: Yoho, Ted
-    state: FL
-    district: 3
-    party: R
-    room: 511 Cannon
-    phone: (202) 225-5744
-    committee: Agriculture, Foreign Affairs
-
-  - name: Rutherford, John
-    state: FL
-    district: 4
-    party: R
-    room: 230 Cannon
-    phone: (202) 225-2501
-    committee: 'Homeland Security, Veterans'' Affairs'
-
-  - name: Lawson, Al
-    state: FL
-    district: 5
-    party: D
-    room: 1337 Longworth
-    phone: (202) 225-0123
-    committee: Agriculture, Small Business
-
-  - name: DeSantis, Ron
-    state: FL
-    district: 6
-    party: R
-    room: 1524 Longworth
-    phone: (202) 225-2706
-    committee: Foreign Affairs, Oversight and Government, the Judiciary
-
-  - name: Murphy, Stephanie
-    state: FL
-    district: 7
-    party: D
-    room: 1237 Longworth
-    phone: (202) 225-4035
-    committee: Armed Services, Small Business
-
-  - name: Posey, Bill
-    state: FL
-    district: 8
-    party: R
-    room: 2150 Rayburn
-    phone: (202) 225-3671
-    committee: Financial Services, Science, Space, and Technology
-
-  - name: Soto, Darren
-    state: FL
-    district: 9
-    party: D
-    room: 1429 Longworth
-    phone: (202) 225-9889
-    committee: Agriculture, Natural Resources
-
-  - name: Demings, Val
-    state: FL
-    district: 10
-    party: D
-    room: 238 Cannon
-    phone: (202) 225-2176
-    committee: Homeland Security, Oversight and Government
-
-  - name: Webster, Daniel
-    state: FL
-    district: 11
-    party: R
-    room: 1210 Longworth
-    phone: (202) 225-1002
-    committee: Natural Resources, Science, Space, and Technology, Transportation
-
-  - name: Bilirakis, Gus M.
-    state: FL
-    district: 12
-    party: R
-    room: 2112 Rayburn
-    phone: (202) 225-5755
-    committee: 'Energy and Commerce, Veterans'' Affairs'
-
-  - name: Crist, Charlie
-    state: FL
-    district: 13
-    party: D
-    room: 427 Cannon
-    phone: (202) 225-5961
-    committee: Financial Services, Science, Space, and Technology
-
-  - name: Castor, Kathy
-    state: FL
-    district: 14
-    party: D
-    room: 2052 Rayburn
-    phone: (202) 225-3376
-    committee: Energy and Commerce
-
-  - name: Ross, Dennis
-    state: FL
-    district: 15
-    party: R
-    room: 436 Cannon
-    phone: (202) 225-1252
-    committee: Financial Services, Oversight and Government
-
-  - name: Buchanan, Vern
-    state: FL
-    district: 16
-    party: R
-    room: 2104 Rayburn
-    phone: (202) 225-5015
-    committee: Ways and Means
-
-  - name: Rooney, Tom
-    state: FL
-    district: 17
-    party: R
-    room: 2160 Rayburn
-    phone: (202) 225-5792
-    committee: Appropriations, Intelligence (Permanent)
-
-  - name: Mast, Brian
-    state: FL
-    district: 18
-    party: R
-    room: 2182 Rayburn
-    phone: (202) 225-3026
-    committee: Foreign Affairs, Transportation
-
-  - name: Rooney, Francis
-    state: FL
-    district: 19
-    party: R
-    room: 120 Cannon
-    phone: (202) 225-2536
-    committee: Education and the Workforce, Foreign Affairs
-
-  - name: Hastings, Alcee L.
-    state: FL
-    district: 20
-    party: D
-    room: 2353 Rayburn
-    phone: (202) 225-1313
-    committee: Rules
-
-  - name: Frankel, Lois
-    state: FL
-    district: 21
-    party: D
-    room: 1037 Longworth
-    phone: (202) 225-9890
-    committee: Foreign Affairs, Transportation
-
-  - name: Deutch, Ted
-    state: FL
-    district: 22
-    party: D
-    room: 2447 Rayburn
-    phone: (202) 225-3001
-    committee: Ethics, Foreign Affairs, the Judiciary
-
-  - name: Wasserman Schultz, Debbie
-    state: FL
-    district: 23
-    party: D
-    room: 1114 Longworth
-    phone: (202) 225-7931
-    committee: Appropriations, the Budget
-
-  - name: Wilson, Frederica
-    state: FL
-    district: 24
-    party: D
-    room: 2445 Rayburn
-    phone: (202) 225-4506
-    committee: Education and the Workforce, Transportation
-
-  - name: Diaz-Balart, Mario
-    state: FL
-    district: 25
-    party: R
-    room: 440 Cannon
-    phone: (202) 225-4211
-    committee: Appropriations, the Budget
-
-  - name: Curbelo, Carlos
-    state: FL
-    district: 26
-    party: R
-    room: 1404 Longworth
-    phone: (202) 225-2778
-    committee: Ways and Means
-
-  - name: Ros-Lehtinen, Ileana
-    state: FL
-    district: 27
-    party: R
-    room: 2206 Rayburn
-    phone: (202) 225-3931
-    committee: Foreign Affairs, Intelligence (Permanent)
-
-  - name: Carter, Buddy
-    state: GA
-    district: 1
-    party: R
-    room: 432 Cannon
-    phone: (202) 225-5831
-    committee: Energy and Commerce
-
-  - name: Bishop Jr., Sanford D.
-    state: GA
-    district: 2
-    party: D
-    room: 2407 Rayburn
-    phone: (202) 225-3631
-    committee: Appropriations
-
-  - name: Ferguson, A. Drew
-    state: GA
-    district: 3
-    party: R
-    room: 1032 Longworth
-    phone: (202) 225-5901
-    committee: Education and the Workforce, the Budget, Transportation
-
-  - name: Johnson, Henry C. "Hank" Jr.
-    state: GA
-    district: 4
-    party: D
-    room: 2240 Rayburn
-    phone: (202) 225-1605
-    committee: the Judiciary, Transportation
-
-  - name: Lewis, John
-    state: GA
-    district: 5
-    party: D
-    room: 343 Cannon
-    phone: (202) 225-3801
-    committee: Joint Taxation, Ways and Means
-
-  - name: Price, Tom -- Vacancy
-    state: GA
-    district: 6
-    party: R
-    room: 1211 Longworth
-    phone: (202) 225-4501
-    committee: 
-
-  - name: Woodall, Robert
-    state: GA
-    district: 7
-    party: R
-    room: 1724 Longworth
-    phone: (202) 225-4272
-    committee: Rules, the Budget, Transportation
-
-  - name: Scott, Austin
-    state: GA
-    district: 8
-    party: R
-    room: 2417 Rayburn
-    phone: (202) 225-6531
-    committee: Agriculture, Armed Services
-
-  - name: Collins, Doug
-    state: GA
-    district: 9
-    party: R
-    room: 1504 Longworth
-    phone: (202) 225-9893
-    committee: Rules, the Judiciary
-
-  - name: Hice, Jody
-    state: GA
-    district: 10
-    party: R
-    room: 324 Cannon
-    phone: (202) 225-4101
-    committee: Natural Resources, Oversight and Government
-
-  - name: Loudermilk, Barry
-    state: GA
-    district: 11
-    party: R
-    room: 329 Cannon
-    phone: (202) 225-2931
-    committee: Financial Services, House Administration, Science, Space, and Technology
-
-  - name: Allen, Rick
-    state: GA
-    district: 12
-    party: R
-    room: 426 Cannon
-    phone: (202) 225-2823
-    committee: Agriculture, Education and the Workforce
-
-  - name: Scott, David
-    state: GA
-    district: 13
-    party: D
-    room: 225 Cannon
-    phone: (202) 225-2939
-    committee: Agriculture, Financial Services
-
-  - name: Graves, Tom
-    state: GA
-    district: 14
-    party: R
-    room: 2078 Rayburn
-    phone: (202) 225-5211
-    committee: Appropriations
-
-  - name: Bordallo, Madeleine
-    state: GU
-    district: all
-    party: D
-    room: 2441 Rayburn
-    phone: (202) 225-1188
-    committee: Armed Services, Natural Resources
-
-  - name: Hanabusa, Colleen
-    state: HI
-    district: 1
-    party: D
-    room: 422 Cannon
-    phone: (202) 225-2726
-    committee: Armed Services, Natural Resources, Science, Space, and Technology
-
-  - name: Gabbard, Tulsi
-    state: HI
-    district: 2
-    party: D
-    room: 1433 Longworth
-    phone: (202) 225-4906
-    committee: Armed Services, Foreign Affairs
-
-  - name: Labrador, Raul R.
-    state: ID
-    district: 1
-    party: R
-    room: 1523 Longworth
-    phone: (202) 225-6611
-    committee: Natural Resources, the Judiciary
-
-  - name: Simpson, Mike
-    state: ID
-    district: 2
-    party: R
-    room: 2084 Rayburn
-    phone: (202) 225-5531
-    committee: Appropriations
-
-  - name: Rush, Bobby L.
-    state: IL
-    district: 1
-    party: D
-    room: 2188 Rayburn
-    phone: (202) 225-4372
-    committee: Energy and Commerce
-
-  - name: Kelly, Robin
-    state: IL
-    district: 2
-    party: D
-    room: 1239 Longworth
-    phone: (202) 225-0773
-    committee: Foreign Affairs, Oversight and Government
-
-  - name: Lipinski, Daniel
-    state: IL
-    district: 3
-    party: D
-    room: 2346 Rayburn
-    phone: (202) 225-5701
-    committee: Science, Space, and Technology, Transportation
-
-  - name: Gutierrez, Luis
-    state: IL
-    district: 4
-    party: D
-    room: 2408 Rayburn
-    phone: (202) 225-8203
-    committee: the Judiciary
-
-  - name: Quigley, Mike
-    state: IL
-    district: 5
-    party: D
-    room: 2458 Rayburn
-    phone: (202) 225-4061
-    committee: Appropriations, Intelligence (Permanent)
-
-  - name: Roskam, Peter J.
-    state: IL
-    district: 6
-    party: R
-    room: 2246 Rayburn
-    phone: (202) 225-4561
-    committee: Ways and Means
-
-  - name: Davis, Danny K.
-    state: IL
-    district: 7
-    party: D
-    room: 2159 Rayburn
-    phone: (202) 225-5006
-    committee: Ways and Means
-
-  - name: Krishnamoorthi, Raja
-    state: IL
-    district: 8
-    party: D
-    room: 515 Cannon
-    phone: (202) 225-3711
-    committee: Education and the Workforce, Oversight and Government
-
-  - name: Schakowsky, Jan
-    state: IL
-    district: 9
-    party: D
-    room: 2367 Rayburn
-    phone: (202) 225-2111
-    committee: Energy and Commerce, the Budget
-
-  - name: Schneider, Bradley
-    state: IL
-    district: 10
-    party: D
-    room: 1432 Longworth
-    phone: (202) 225-4835
-    committee: Foreign Affairs, Small Business, the Judiciary
-
-  - name: Foster, Bill
-    state: IL
-    district: 11
-    party: D
-    room: 1224 Longworth
-    phone: (202) 225-3515
-    committee: Financial Services, Science, Space, and Technology
-
-  - name: Bost, Mike
-    state: IL
-    district: 12
-    party: R
-    room: 1440 Longworth
-    phone: (202) 225-5661
-    committee: 'Agriculture, Transportation, Veterans'' Affairs'
-
-  - name: Davis, Rodney
-    state: IL
-    district: 13
-    party: R
-    room: 1740 Longworth
-    phone: (202) 225-2371
-    committee: Agriculture, House Administration, Transportation
-
-  - name: Hultgren, Randy
-    state: IL
-    district: 14
-    party: R
-    room: 2455 Rayburn
-    phone: (202) 225-2976
-    committee: Financial Services, Science, Space, and Technology
-
-  - name: Shimkus, John
-    state: IL
-    district: 15
-    party: R
-    room: 2217 Rayburn
-    phone: (202) 225-5271
-    committee: Energy and Commerce
-
-  - name: Kinzinger, Adam
-    state: IL
-    district: 16
-    party: R
-    room: 2245 Rayburn
-    phone: (202) 225-3635
-    committee: Energy and Commerce, Foreign Affairs
-
-  - name: Bustos, Cheri
-    state: IL
-    district: 17
-    party: D
-    room: 1009 Longworth
-    phone: (202) 225-5905
-    committee: Agriculture, Transportation
-
-  - name: LaHood,Darin
-    state: IL
-    district: 18
-    party: R
-    room: 1424 Longworth
-    phone: (202) 225-6201
-    committee: Natural Resources, Science, Space, and Technology
-
-  - name: Visclosky, Peter
-    state: IN
-    district: 1
-    party: D
-    room: 2328 Rayburn
-    phone: (202) 225-2461
-    committee: Appropriations
-
-  - name: Walorski, Jackie
-    state: IN
-    district: 2
-    party: R
-    room: 419 Cannon
-    phone: (202) 225-3915
-    committee: Ways and Means
-
-  - name: Banks, Jim
-    state: IN
-    district: 3
-    party: R
-    room: 509 Cannon
-    phone: (202) 225-4436
-    committee: 'Armed Services, Science, Space, and Technology, Veterans'' Affairs'
-
-  - name: Rokita, Todd
-    state: IN
-    district: 4
-    party: R
-    room: 2439 Rayburn
-    phone: (202) 225-5037
-    committee: Education and the Workforce, the Budget, Transportation
-
-  - name: Brooks, Susan W.
-    state: IN
-    district: 5
-    party: R
-    room: 1030 Longworth
-    phone: (202) 225-2276
-    committee: Energy and Commerce, Ethics
-
-  - name: Messer, Luke
-    state: IN
-    district: 6
-    party: R
-    room: 1230 Longworth
-    phone: (202) 225-3021
-    committee: Education and the Workforce, Financial Services
-
-  - name: Carson, Andr√©
-    state: IN
-    district: 7
-    party: D
-    room: 2135 Rayburn
-    phone: (202) 225-4011
-    committee: Intelligence (Permanent), Transportation
-
-  - name: Bucshon, Larry
-    state: IN
-    district: 8
-    party: R
-    room: 1005 Longworth
-    phone: (202) 225-4636
-    committee: Energy and Commerce
-
-  - name: Hollingsworth, Trey
-    state: IN
-    district: 9
-    party: R
-    room: 1641 Longworth
-    phone: (202) 225-5315
-    committee: Financial Services
-
-  - name: Blum, Rod
-    state: IA
-    district: 1
-    party: R
-    room: 1108 Longworth
-    phone: (202) 225-2911
-    committee: Oversight and Government, Small Business
-
-  - name: Loebsack, David
-    state: IA
-    district: 2
-    party: D
-    room: 1527 Longworth
-    phone: (202) 225-6576
-    committee: Energy and Commerce
-
-  - name: Young, David
-    state: IA
-    district: 3
-    party: R
-    room: 240 Cannon
-    phone: (202) 225-5476
-    committee: Appropriations
-
-  - name: King, Steve
-    state: IA
-    district: 4
-    party: R
-    room: 2210 Rayburn
-    phone: (202) 225-4426
-    committee: Agriculture, Small Business, the Judiciary
-
-  - name: Marshall, Roger
-    state: KS
-    district: 1
-    party: R
-    room: 312 Cannon
-    phone: (202) 225-2715
-    committee: Agriculture, Science, Space, and Technology, Small Business
-
-  - name: Jenkins, Lynn
-    state: KS
-    district: 2
-    party: R
-    room: 1526 Longworth
-    phone: (202) 225-6601
-    committee: Ways and Means
-
-  - name: Yoder, Kevin
-    state: KS
-    district: 3
-    party: R
-    room: 2433 Rayburn
-    phone: (202) 225-2865
-    committee: Appropriations
-
-  - name: Pompeo, Mike -- Vacancy
-    state: KS
-    district: 4
-    party: R
-    room: 2452 Rayburn
-    phone: (202) 225-6216
-    committee: 
-
-  - name: Comer, James
-    state: KY
-    district: 1
-    party: R
-    room: 1513 Longworth
-    phone: (202) 225-3115
-    committee: Agriculture, Oversight and Government, Small Business
-
-  - name: Guthrie, S. Brett
-    state: KY
-    district: 2
-    party: R
-    room: 2434 Rayburn
-    phone: (202) 225-3501
-    committee: Education and the Workforce, Energy and Commerce
-
-  - name: Yarmuth, John A.
-    state: KY
-    district: 3
-    party: D
-    room: 131 Cannon
-    phone: (202) 225-5401
-    committee: the Budget
-
-  - name: Massie, Thomas
-    state: KY
-    district: 4
-    party: R
-    room: 2453 Rayburn
-    phone: (202) 225-3465
-    committee: Oversight and Government, Science, Space, and Technology, Transportation
-
-  - name: Rogers, Harold
-    state: KY
-    district: 5
-    party: R
-    room: 2406 Rayburn
-    phone: (202) 225-4601
-    committee: Appropriations
-
-  - name: Barr, Andy
-    state: KY
-    district: 6
-    party: R
-    room: 1427 Longworth
-    phone: (202) 225-4706
-    committee: Financial Services
-
-  - name: Scalise, Steve
-    state: LA
-    district: 1
-    party: R
-    room: 2338 Rayburn
-    phone: (202) 225-3015
-    committee: Energy and Commerce
-
-  - name: Richmond, Cedric
-    state: LA
-    district: 2
-    party: D
-    room: 420 Cannon
-    phone: (202) 225-6636
-    committee: Homeland Security, the Judiciary
-
-  - name: Higgins, Clay
-    state: LA
-    district: 3
-    party: R
-    room: 1711 Longworth
-    phone: (202) 225-2031
-    committee: 'Homeland Security, Science, Space, and Technology, Veterans'' Affairs'
-
-  - name: Johnson, Mike
-    state: LA
-    district: 4
-    party: R
-    room: 327 Cannon
-    phone: (202) 225-2777
-    committee: Natural Resources, the Judiciary
-
-  - name: Abraham, Ralph
-    state: LA
-    district: 5
-    party: R
+    party: R        
     room: 417 Cannon
-    phone: (202) 225-8490
+    phone: (202) 225-8490        
     committee: Agriculture, Armed Services, Science, Space, and Technology
-
-  - name: Graves, Garret
-    state: LA
-    district: 6
-    party: R
-    room: 430 Cannon
-    phone: (202) 225-3901
-    committee: Natural Resources, Transportation
-
-  - name: Pingree, Chellie
-    state: ME
-    district: 1
-    party: D
-    room: 2162 Rayburn
-    phone: (202) 225-6116
-    committee: Appropriations
-
-  - name: Poliquin, Bruce
-    state: ME
-    district: 2
-    party: R
-    room: 1208 Longworth
-    phone: (202) 225-6306
-    committee: 'Financial Services, Veterans'' Affairs'
-
-  - name: Harris, Andy
-    state: MD
-    district: 1
-    party: R
-    room: 1533 Longworth
-    phone: (202) 225-5311
-    committee: Appropriations
-
-  - name: Ruppersberger, C. A. Dutch
-    state: MD
-    district: 2
-    party: D
-    room: 2416 Rayburn
-    phone: (202) 225-3061
-    committee: Appropriations
-
-  - name: Sarbanes, John P.
-    state: MD
-    district: 3
-    party: D
-    room: 2444 Rayburn
-    phone: (202) 225-4016
-    committee: Energy and Commerce, Oversight and Government
-
-  - name: Brown, Anthony
-    state: MD
-    district: 4
-    party: D
-    room: 1505 Longworth
-    phone: (202) 225-8699
-    committee: Armed Services, Ethics, Natural Resources
-
-  - name: Hoyer, Steny H.
-    state: MD
-    district: 5
-    party: D
-    room: 1705 Longworth
-    phone: (202) 225-4131
-    committee: 
-
-  - name: Delaney, John
-    state: MD
-    district: 6
-    party: D
-    room: 1632 Longworth
-    phone: (202) 225-2721
-    committee: Financial Services
-
-  - name: Cummings, Elijah
-    state: MD
-    district: 7
-    party: D
-    room: 2163 Rayburn
-    phone: (202) 225-4741
-    committee: Oversight and Government, Transportation
-
-  - name: Raskin, Jamie
-    state: MD
-    district: 8
-    party: D
-    room: 431 Cannon
-    phone: (202) 225-5341
-    committee: House Administration, Oversight and Government, the Judiciary
-
-  - name: Neal, Richard E.
-    state: MA
-    district: 1
-    party: D
-    room: 341 Cannon
-    phone: (202) 225-5601
-    committee: Joint Taxation, Ways and Means
-
-  - name: McGovern, James
-    state: MA
-    district: 2
-    party: D
-    room: 438 Cannon
-    phone: (202) 225-6101
-    committee: Agriculture, Rules
-
-  - name: Tsongas, Niki
-    state: MA
-    district: 3
-    party: D
-    room: 1714 Longworth
-    phone: (202) 225-3411
-    committee: Armed Services, Natural Resources
-
-  - name: Kennedy III, Joseph P.
-    state: MA
-    district: 4
-    party: D
-    room: 434 Cannon
-    phone: (202) 225-5931
-    committee: Energy and Commerce
-
-  - name: Clark, Katherine
-    state: MA
-    district: 5
-    party: D
-    room: 1415 Longworth
-    phone: (202) 225-2836
-    committee: Appropriations
-
-  - name: Moulton, Seth
-    state: MA
-    district: 6
-    party: D
-    room: 1408 Longworth
-    phone: (202) 225-8020
-    committee: Armed Services, the Budget
-
-  - name: Capuano, Michael E.
-    state: MA
-    district: 7
-    party: D
-    room: 1414 Longworth
-    phone: (202) 225-5111
-    committee: Financial Services, Transportation
-
-  - name: Lynch, Stephen F.
-    state: MA
-    district: 8
-    party: D
-    room: 2268 Rayburn
-    phone: (202) 225-8273
-    committee: Financial Services, Oversight and Government
-
-  - name: Keating, William
-    state: MA
-    district: 9
-    party: D
-    room: 2351 Rayburn
-    phone: (202) 225-3111
-    committee: Foreign Affairs, Homeland Security
-
-  - name: Bergman, Jack
-    state: MI
-    district: 1
-    party: R
-    room: 414 Cannon
-    phone: (202) 225-4735
-    committee: 'Natural Resources, the Budget, Veterans'' Affairs'
-
-  - name: Huizenga, Bill
-    state: MI
-    district: 2
-    party: R
-    room: 2232 Rayburn
-    phone: (202) 225-4401
-    committee: Financial Services
-
-  - name: Amash, Justin
-    state: MI
-    district: 3
-    party: R
-    room: 114 Cannon
-    phone: (202) 225-3831
-    committee: Oversight and Government
-
-  - name: Moolenaar, John
-    state: MI
-    district: 4
-    party: R
-    room: 117 Cannon
-    phone: (202) 225-3561
-    committee: Appropriations
-
-  - name: Kildee, Daniel
-    state: MI
-    district: 5
-    party: D
-    room: 227 Cannon
-    phone: (202) 225-3611
-    committee: Financial Services
-
-  - name: Upton, Fred
-    state: MI
-    district: 6
-    party: R
-    room: 2183 Rayburn
-    phone: (202) 225-3761
-    committee: Energy and Commerce
-
-  - name: Walberg, Tim
-    state: MI
-    district: 7
-    party: R
-    room: 2436 Rayburn
-    phone: (202) 225-6276
-    committee: Education and the Workforce, Energy and Commerce
-
-  - name: Bishop, Mike
-    state: MI
-    district: 8
-    party: R
-    room: 428 Cannon
-    phone: (202) 225-4872
-    committee: Ways and Means
-
-  - name: Levin, Sander
-    state: MI
-    district: 9
-    party: D
-    room: 1236 Longworth
-    phone: (202) 225-4961
-    committee: Ways and Means
-
-  - name: Mitchell, Paul
-    state: MI
-    district: 10
-    party: R
-    room: 211 Cannon
-    phone: (202) 225-2106
-    committee: Education and the Workforce, Oversight and Government, Transportation
-
-  - name: Trott, Dave
-    state: MI
-    district: 11
-    party: R
-    room: 1722 Longworth
-    phone: (202) 225-8171
-    committee: Financial Services
-
-  - name: Dingell, Debbie
-    state: MI
+            
+  - name: Adams, Alma 
+    state: North Carolina
     district: 12
-    party: D
-    room: 116 Cannon
-    phone: (202) 225-4071
-    committee: Energy and Commerce
-
-  - name: Conyers Jr., John
-    state: MI
-    district: 13
-    party: D
-    room: 2426 Rayburn
-    phone: (202) 225-5126
-    committee: the Judiciary
-
-  - name: Lawrence, Brenda
-    state: MI
-    district: 14
-    party: D
-    room: 1213 Longworth
-    phone: (202) 225-5802
-    committee: Oversight and Government, Transportation
-
-  - name: Walz, Timothy J.
-    state: MN
-    district: 1
-    party: D
-    room: 2313 Rayburn
-    phone: (202) 225-2472
-    committee: 'Agriculture, Veterans'' Affairs'
-
-  - name: Lewis, Jason
-    state: MN
-    district: 2
-    party: R
-    room: 418 Cannon
-    phone: (202) 225-2271
-    committee: Education and the Workforce, the Budget, Transportation
-
-  - name: Paulsen, Erik
-    state: MN
-    district: 3
-    party: R
-    room: 127 Cannon
-    phone: (202) 225-2871
-    committee: Ways and Means
-
-  - name: McCollum, Betty
-    state: MN
-    district: 4
-    party: D
-    room: 2256 Rayburn
-    phone: (202) 225-6631
-    committee: Appropriations
-
-  - name: Ellison, Keith
-    state: MN
-    district: 5
-    party: D
-    room: 2263 Rayburn
-    phone: (202) 225-4755
-    committee: Financial Services
-
-  - name: Emmer, Tom
-    state: MN
-    district: 6
-    party: R
-    room: 315 Cannon
-    phone: (202) 225-2331
-    committee: Financial Services
-
-  - name: Peterson, Collin C.
-    state: MN
-    district: 7
-    party: D
-    room: 2204 Rayburn
-    phone: (202) 225-2165
-    committee: Agriculture
-
-  - name: Nolan, Rick
-    state: MN
-    district: 8
-    party: D
-    room: 2366 Rayburn
-    phone: (202) 225-6211
-    committee: Agriculture, Transportation
-
-  - name: Kelly, Trent
-    state: MS
-    district: 1
-    party: R
-    room: 1721 Longworth
-    phone: (202) 225-4306
-    committee: Agriculture, Armed Services, Small Business
-
-  - name: Thompson, Bennie G.
-    state: MS
-    district: 2
-    party: D
-    room: 2466 Rayburn
-    phone: (202) 225-5876
-    committee: Homeland Security
-
-  - name: Harper, Gregg
-    state: MS
-    district: 3
-    party: R
-    room: 2227 Rayburn
-    phone: (202) 225-5031
-    committee: Energy and Commerce, House Administration
-
-  - name: Palazzo, Steven
-    state: MS
-    district: 4
-    party: R
-    room: 2349 Rayburn
-    phone: (202) 225-5772
-    committee: Appropriations
-
-  - name: Clay Jr., William "Lacy"
-    state: MO
-    district: 1
-    party: D
-    room: 2428 Rayburn
-    phone: (202) 225-2406
-    committee: Financial Services, Natural Resources, Oversight and Government
-
-  - name: Wagner, Ann
-    state: 
-    district: 2
-    party: R
-    room: 435 Cannon
-    phone: (202) 225-1621
-    committee: Financial Services, Foreign Affairs
-
-  - name: Luetkemeyer, Blaine
-    state: 
-    district: 3
-    party: R
-    room: 2230 Rayburn
-    phone: (202) 225-2956
-    committee: Financial Services, Small Business
-
-  - name: Hartzler, Vicky
-    state: 
-    district: 4
-    party: R
-    room: 2235 Rayburn
-    phone: (202) 225-2876
-    committee: Agriculture, Armed Services
-
-  - name: Cleaver, Emanuel
-    state: 
-    district: 5
-    party: D
-    room: 2335 Rayburn
-    phone: (202) 225-4535
-    committee: Financial Services
-
-  - name: Graves, Sam
-    state: 
-    district: 6
-    party: R
-    room: 1135 Longworth
-    phone: (202) 225-7041
-    committee: Armed Services, Transportation
-
-  - name: Long, Billy
-    state: 
-    district: 7
-    party: R
-    room: 2454 Rayburn
-    phone: (202) 225-6536
-    committee: Energy and Commerce
-
-  - name: Smith, Jason
-    state: 
-    district: 8
-    party: R
-    room: 1118 Longworth
-    phone: (202) 225-4404
-    committee: the Budget, Ways and Means
-
-  - name: Zinke, Ryan -- Vacancy
-    state: MT
-    district: all
-    party: R
-    room: 1419 Longworth
-    phone: (202) 225-3211
-    committee: 
-
-  - name: Fortenberry, Jeff
-    state: NE
-    district: 1
-    party: R
-    room: 1514 Longworth
-    phone: (202) 225-4806
-    committee: Appropriations
-
-  - name: Bacon, Don
-    state: NE
-    district: 2
-    party: R
-    room: 1516 Longworth
-    phone: (202) 225-4155
-    committee: Agriculture, Armed Services, Small Business
-
-  - name: Smith, Adrian
-    state: NE
-    district: 3
-    party: R
-    room: 320 Cannon
-    phone: (202) 225-6435
-    committee: House Administration, Ways and Means
-
-  - name: Titus, Dina
-    state: NV
-    district: 1
-    party: D
-    room: 2464 Rayburn
-    phone: (202) 225-5965
-    committee: Foreign Affairs, Transportation
-
-  - name: Amodei, Mark
-    state: NV
-    district: 2
-    party: R
-    room: 332 Cannon
-    phone: (202) 225-6155
-    committee: Appropriations
-
-  - name: Rosen, Jacky
-    state: NV
-    district: 3
-    party: D
-    room: 413 Cannon
-    phone: (202) 225-3252
-    committee: Armed Services, Science, Space, and Technology
-
-  - name: Kihuen, Ruben J.
-    state: NV
-    district: 4
-    party: D
-    room: 313 Cannon
-    phone: (202) 225-9894
-    committee: Financial Services
-
-  - name: Shea-Porter, Carol
-    state: NH
-    district: 1
-    party: D
-    room: 1530 Longworth
-    phone: (202) 225-5456
-    committee: Armed Services, Education and the Workforce
-
-  - name: Kuster, Ann
-    state: NH
-    district: 2
-    party: D
-    room: 137 Cannon
-    phone: (202) 225-5206
-    committee: 'Agriculture, Veterans'' Affairs'
-
-  - name: Norcross, Donald
-    state: NJ
-    district: 1
-    party: D
-    room: 1531 Longworth
-    phone: (202) 225-6501
-    committee: Armed Services, Education and the Workforce
-
-  - name: LoBiondo, Frank
-    state: NJ
-    district: 2
-    party: R
-    room: 2427 Rayburn
-    phone: (202) 225-6572
-    committee: Armed Services, Intelligence (Permanent), Transportation
-
-  - name: MacArthur, Tom
-    state: NJ
-    district: 3
-    party: R
-    room: 506 Cannon
-    phone: (202) 225-4765
-    committee: Financial Services
-
-  - name: Smith, Chris
-    state: NJ
-    district: 4
-    party: R
-    room: 2373 Rayburn
-    phone: (202) 225-3765
-    committee: Foreign Affairs
-
-  - name: Gottheimer, Josh
-    state: NJ
-    district: 5
-    party: D
-    room: 213 Cannon
-    phone: (202) 225-4465
-    committee: Financial Services
-
-  - name: Pallone Jr., Frank
-    state: NJ
-    district: 6
-    party: D
-    room: 237 Cannon
-    phone: (202) 225-4671
-    committee: Energy and Commerce
-
-  - name: Lance, Leonard
-    state: NJ
-    district: 7
-    party: R
-    room: 2352 Rayburn
-    phone: (202) 225-5361
-    committee: Energy and Commerce, Ethics
-
-  - name: Sires, Albio
-    state: NJ
-    district: 8
-    party: D
-    room: 2342 Rayburn
-    phone: (202) 225-7919
-    committee: Foreign Affairs, Transportation
-
-  - name: Pascrell Jr., Bill
-    state: NJ
-    district: 9
-    party: D
-    room: 2370 Rayburn
-    phone: (202) 225-5751
-    committee: Ways and Means
-
-  - name: Payne Jr., Donald
-    state: NJ
-    district: 10
-    party: D
-    room: 132 Cannon
-    phone: (202) 225-3436
-    committee: Homeland Security, Transportation
-
-  - name: Frelinghuysen, Rodney
-    state: NJ
-    district: 11
-    party: R
-    room: 2306 Rayburn
-    phone: (202) 225-5034
-    committee: Appropriations
-
-  - name: Watson Coleman, Bonnie
-    state: NJ
-    district: 12
-    party: D
-    room: 1535 Longworth
-    phone: (202) 225-5801
-    committee: Homeland Security, Oversight and Government
-
-  - name: Lujan Grisham, Michelle
-    state: NM
-    district: 1
-    party: D
-    room: 214 Cannon
-    phone: (202) 225-6316
-    committee: Agriculture, the Budget
-
-  - name: Pearce, Steve
-    state: NM
-    district: 2
-    party: R
-    room: 2432 Rayburn
-    phone: (202) 225-2365
-    committee: Financial Services, Natural Resources
-
-  - name: Lujan, Ben R.
-    state: NM
-    district: 3
-    party: D
-    room: 2231 Rayburn
-    phone: (202) 225-6190
-    committee: Energy and Commerce
-
-  - name: Zeldin, Lee
-    state: NY
-    district: 1
-    party: R
-    room: 1517 Longworth
-    phone: (202) 225-3826
-    committee: Financial Services, Foreign Affairs
-
-  - name: King, Pete
-    state: NY
-    district: 2
-    party: R
-    room: 339 Cannon
-    phone: (202) 225-7896
-    committee: Financial Services, Homeland Security, Intelligence (Permanent)
-
-  - name: Suozzi, Thomas
-    state: NY
-    district: 3
-    party: D
-    room: 226 Cannon
-    phone: (202) 225-3335
-    committee: Armed Services, Foreign Affairs
-
-  - name: Rice, Kathleen
-    state: NY
-    district: 4
-    party: D
-    room: 1508 Longworth
-    phone: (202) 225-5516
-    committee: 'Homeland Security, Veterans'' Affairs'
-
-  - name: Meeks, Gregory W.
-    state: NY
-    district: 5
-    party: D
-    room: 2234 Rayburn
-    phone: (202) 225-3461
-    committee: Financial Services, Foreign Affairs
-
-  - name: Meng, Grace
-    state: NY
-    district: 6
-    party: D
-    room: 1317 Longworth
-    phone: (202) 225-2601
-    committee: Appropriations
-
-  - name: Vel√°zquez, Nydia M.
-    state: NY
-    district: 7
-    party: D
-    room: 2302 Rayburn
-    phone: (202) 225-2361
-    committee: Financial Services, Small Business
-
-  - name: Jeffries, Hakeem
-    state: NY
-    district: 8
-    party: D
-    room: 1607 Longworth
-    phone: (202) 225-5936
-    committee: the Budget, the Judiciary
-
-  - name: Clarke, Yvette D.
-    state: NY
-    district: 9
-    party: D
-    room: 2058 Rayburn
-    phone: (202) 225-6231
-    committee: Energy and Commerce, Ethics, Small Business
-
-  - name: Nadler, Jerrold
-    state: NY
-    district: 10
-    party: D
-    room: 2109 Rayburn
-    phone: (202) 225-5635
-    committee: the Judiciary, Transportation
-
-  - name: Donovan, Daniel
-    state: NY
-    district: 11
-    party: R
-    room: 1541 Longworth
-    phone: (202) 225-3371
-    committee: Foreign Affairs, Homeland Security
-
-  - name: Maloney, Carolyn
-    state: NY
-    district: 12
-    party: D
-    room: 2308 Rayburn
-    phone: (202) 225-7944
-    committee: Financial Services, Oversight and Government
-
-  - name: Espaillat, Adriano
-    state: NY
-    district: 13
-    party: D
-    room: 1630 Longworth
-    phone: (202) 225-4365
-    committee: Education and the Workforce, Foreign Affairs, Small Business
-
-  - name: Crowley, Joseph
-    state: NY
-    district: 14
-    party: D
-    room: 1035 Longworth
-    phone: (202) 225-3965
-    committee: Ways and Means
-
-  - name: Serrano, Jos√© E.
-    state: NY
-    district: 15
-    party: D
-    room: 2354 Rayburn
-    phone: (202) 225-4361
-    committee: Appropriations
-
-  - name: Engel, Eliot
-    state: NY
-    district: 16
-    party: D
-    room: 2462 Rayburn
-    phone: (202) 225-2464
-    committee: Energy and Commerce, Foreign Affairs
-
-  - name: Lowey, Nita
-    state: NY
-    district: 17
-    party: D
-    room: 2365 Rayburn
-    phone: (202) 225-6506
-    committee: Appropriations
-
-  - name: Maloney, Sean Patrick
-    state: NY
-    district: 18
-    party: D
-    room: 1027 Longworth
-    phone: (202) 225-5441
-    committee: Agriculture, Transportation
-
-  - name: Faso, John
-    state: NY
-    district: 19
-    party: R
-    room: 1616 Longworth
-    phone: (202) 225-5614
-    committee: Agriculture, the Budget, Transportation
-
-  - name: Tonko, Paul D.
-    state: NY
-    district: 20
-    party: D
-    room: 2463 Rayburn
-    phone: (202) 225-5076
-    committee: Energy and Commerce, Science, Space, and Technology
-
-  - name: Stefanik, Elise
-    state: NY
-    district: 21
-    party: R
-    room: 318 Cannon
-    phone: (202) 225-4611
-    committee: Armed Services, Education and the Workforce, Intelligence (Permanent)
-
-  - name: Tenney, Claudia
-    state: NY
-    district: 22
-    party: R
-    room: 512 Cannon
-    phone: (202) 225-3665
-    committee: Financial Services
-
-  - name: Reed, Tom
-    state: NY
-    district: 23
-    party: R
-    room: 2437 Rayburn
-    phone: (202) 225-3161
-    committee: Ways and Means
-
-  - name: Katko, John
-    state: NY
-    district: 24
-    party: R
-    room: 1620 Longworth
-    phone: (202) 225-3701
-    committee: Homeland Security, Transportation
-
-  - name: Slaughter, Louise
-    state: NY
-    district: 25
-    party: D
-    room: 2469 Rayburn
-    phone: (202) 225-3615
-    committee: Rules
-
-  - name: Higgins, Brian
-    state: NY
-    district: 26
-    party: D
-    room: 2459 Rayburn
-    phone: (202) 225-3306
-    committee: the Budget, Ways and Means
-
-  - name: Collins, Chris
-    state: NY
-    district: 27
-    party: R
-    room: 1117 Longworth
-    phone: (202) 225-5265
-    committee: Energy and Commerce
-
-  - name: Butterfield, G.K.
-    state: NC
-    district: 1
-    party: D
-    room: 2080 Rayburn
-    phone: (202) 225-3101
-    committee: Energy and Commerce
-
-  - name: Holding, George
-    state: NC
-    district: 2
-    party: R
-    room: 1110 Longworth
-    phone: (202) 225-3032
-    committee: Ways and Means
-
-  - name: Jones, Walter B.
-    state: NC
-    district: 3
-    party: R
-    room: 2333 Rayburn
-    phone: (202) 225-3415
-    committee: Armed Services
-
-  - name: Price, David
-    state: NC
-    district: 4
-    party: D
-    room: 2108 Rayburn
-    phone: (202) 225-1784
-    committee: Appropriations
-
-  - name: Foxx, Virginia
-    state: NC
-    district: 5
-    party: R
-    room: 2262 Rayburn
-    phone: (202) 225-2071
-    committee: Education and the Workforce, Oversight and Government
-
-  - name: Walker, Mark
-    state: NC
-    district: 6
-    party: R
-    room: 1305 Longworth
-    phone: (202) 225-3065
-    committee: House Administration, Oversight and Government
-
-  - name: Rouzer, David
-    state: NC
-    district: 7
-    party: R
-    room: 424 Cannon
-    phone: (202) 225-2731
-    committee: Agriculture, Natural Resources, Transportation
-
-  - name: Hudson, Richard
-    state: NC
-    district: 8
-    party: R
-    room: 429 Cannon
-    phone: (202) 225-3715
-    committee: Energy and Commerce
-
-  - name: Pittenger, Robert
-    state: NC
-    district: 9
-    party: R
-    room: 224 Cannon
-    phone: (202) 225-1976
-    committee: Financial Services
-
-  - name: McHenry, Patrick T.
-    state: NC
-    district: 10
-    party: R
-    room: 2334 Rayburn
-    phone: (202) 225-2576
-    committee: Financial Services
-
-  - name: Meadows, Mark
-    state: NC
-    district: 11
-    party: R
-    room: 1024 Longworth
-    phone: (202) 225-6401
-    committee: Foreign Affairs, Oversight and Government, Transportation
-
-  - name: Adams, Alma
-    state: NC
-    district: 12
-    party: D
+    party: D        
     room: 222 Cannon
-    phone: (202) 225-1510
+    phone: (202) 225-1510        
     committee: Agriculture, Education and the Workforce, Small Business
-
-  - name: Budd, Ted
-    state: NC
-    district: 13
-    party: R
-    room: 118 Cannon
-    phone: (202) 225-4531
-    committee: Financial Services
-
-  - name: Cramer, Kevin
-    state: ND
-    district: all
-    party: R
-    room: 1717 Longworth
-    phone: (202) 225-2611
-    committee: Energy and Commerce
-
-  - name: Sablan, Gregorio
-    state: MP
-    district: all
-    party: D
-    room: 2411 Rayburn
-    phone: (202) 225-2646
-    committee: 'Education and the Workforce, Natural Resources, Veterans'' Affairs'
-
-  - name: Chabot, Steve
-    state: OH
-    district: 1
-    party: R
-    room: 2371 Rayburn
-    phone: (202) 225-2216
-    committee: Foreign Affairs, Small Business, the Judiciary
-
-  - name: Wenstrup, Brad
-    state: OH
-    district: 2
-    party: R
-    room: 2419 Rayburn
-    phone: (202) 225-3164
-    committee: 'Armed Services, Intelligence (Permanent), Veterans'' Affairs'
-
-  - name: Beatty, Joyce
-    state: OH
-    district: 3
-    party: D
-    room: 133 Cannon
-    phone: (202) 225-4324
-    committee: Financial Services
-
-  - name: Jordan, Jim
-    state: OH
+            
+  - name: Aderholt, Robert 
+    state: Alabama
     district: 4
-    party: R
-    room: 2056 Rayburn
-    phone: (202) 225-2676
-    committee: Oversight and Government, the Judiciary
-
-  - name: Latta, Robert E.
-    state: OH
-    district: 5
-    party: R
-    room: 2448 Rayburn
-    phone: (202) 225-6405
-    committee: Energy and Commerce
-
-  - name: Johnson, Bill
-    state: OH
-    district: 6
-    party: R
-    room: 1710 Longworth
-    phone: (202) 225-5705
-    committee: Energy and Commerce, the Budget
-
-  - name: Gibbs, Bob
-    state: OH
-    district: 7
-    party: R
-    room: 2446 Rayburn
-    phone: (202) 225-6265
-    committee: Agriculture, Transportation
-
-  - name: Davidson, Warren
-    state: OH
-    district: 8
-    party: R
-    room: 1004 Longworth
-    phone: (202) 225-6205
-    committee: Financial Services
-
-  - name: Kaptur, Marcy
-    state: OH
-    district: 9
-    party: D
-    room: 2186 Rayburn
-    phone: (202) 225-4146
+    party: R        
+    room: 235 Cannon
+    phone: (202) 225-4876        
     committee: Appropriations
-
-  - name: Turner, Michael
-    state: OH
-    district: 10
-    party: R
-    room: 2368 Rayburn
-    phone: (202) 225-6465
-    committee: Armed Services, Intelligence (Permanent)
-
-  - name: Fudge, Marcia L.
-    state: OH
-    district: 11
-    party: D
-    room: 2344 Rayburn
-    phone: (202) 225-7032
-    committee: Agriculture, Education and the Workforce
-
-  - name: Tiberi, Pat
-    state: OH
-    district: 12
-    party: R
-    room: 1203 Longworth
-    phone: (202) 225-5355
-    committee: Ways and Means
-
-  - name: Ryan, Tim
-    state: OH
-    district: 13
-    party: D
-    room: 1126 Longworth
-    phone: (202) 225-5261
-    committee: Appropriations
-
-  - name: Joyce, David
-    state: OH
-    district: 14
-    party: R
-    room: 1124 Longworth
-    phone: (202) 225-5731
-    committee: Appropriations
-
-  - name: Stivers, Steve
-    state: OH
-    district: 15
-    party: R
-    room: 1022 Longworth
-    phone: (202) 225-2015
-    committee: Financial Services
-
-  - name: Renacci, Jim
-    state: OH
-    district: 16
-    party: R
-    room: 328 Cannon
-    phone: (202) 225-3876
-    committee: the Budget, Ways and Means
-
-  - name: Bridenstine, Jim
-    state: OK
-    district: 1
-    party: R
-    room: 216 Cannon
-    phone: (202) 225-2211
-    committee: Armed Services, Science, Space, and Technology
-
-  - name: Mullin, Markwayne
-    state: OK
-    district: 2
-    party: R
-    room: 1113 Longworth
-    phone: (202) 225-2701
-    committee: Energy and Commerce
-
-  - name: Lucas, Frank
-    state: OK
-    district: 3
-    party: R
-    room: 2405 Rayburn
-    phone: (202) 225-5565
-    committee: Agriculture, Financial Services, Science, Space, and Technology
-
-  - name: Cole, Tom
-    state: OK
-    district: 4
-    party: R
-    room: 2467 Rayburn
-    phone: (202) 225-6165
-    committee: Appropriations, Rules, the Budget
-
-  - name: Russell, Steve
-    state: OK
-    district: 5
-    party: R
-    room: 128 Cannon
-    phone: (202) 225-2132
-    committee: Armed Services, Education and the Workforce, Oversight and Government
-
-  - name: Bonamici, Suzanne
-    state: OR
-    district: 1
-    party: D
-    room: 439 Cannon
-    phone: (202) 225-0855
-    committee: Education and the Workforce, Science, Space, and Technology
-
-  - name: Walden, Greg
-    state: OR
-    district: 2
-    party: R
-    room: 2185 Rayburn
-    phone: (202) 225-6730
-    committee: Energy and Commerce
-
-  - name: Blumenauer, Earl
-    state: OR
-    district: 3
-    party: D
-    room: 1111 Longworth
-    phone: (202) 225-4811
-    committee: Ways and Means
-
-  - name: DeFazio, Peter
-    state: OR
-    district: 4
-    party: D
-    room: 2134 Rayburn
-    phone: (202) 225-6416
-    committee: Transportation
-
-  - name: Schrader, Kurt
-    state: OR
-    district: 5
-    party: D
-    room: 2431 Rayburn
-    phone: (202) 225-5711
-    committee: Energy and Commerce
-
-  - name: Brady, Robert
-    state: PA
-    district: 1
-    party: D
-    room: 2004 Rayburn
-    phone: (202) 225-4731
-    committee: Armed Services, House Administration
-
-  - name: Evans, Dwight
-    state: PA
-    district: 2
-    party: D
-    room: 1105 Longworth
-    phone: (202) 225-4001
-    committee: Agriculture, Small Business
-
-  - name: Kelly, Mike
-    state: PA
-    district: 3
-    party: R
-    room: 1707 Longworth
-    phone: (202) 225-5406
-    committee: Ways and Means
-
-  - name: Perry, Scott
-    state: PA
-    district: 4
-    party: R
-    room: 1207 Longworth
-    phone: (202) 225-5836
-    committee: Foreign Affairs, Homeland Security, Transportation
-
-  - name: Thompson, Glenn W.
-    state: PA
-    district: 5
-    party: R
-    room: 124 Cannon
-    phone: (202) 225-5121
-    committee: Agriculture, Education and the Workforce, Natural Resources
-
-  - name: Costello, Ryan
-    state: PA
-    district: 6
-    party: R
-    room: 326 Cannon
-    phone: (202) 225-4315
-    committee: Energy and Commerce
-
-  - name: Meehan, Pat
-    state: PA
-    district: 7
-    party: R
-    room: 2305 Rayburn
-    phone: (202) 225-2011
-    committee: Ethics, Ways and Means
-
-  - name: Fitzpatrick, Brian
-    state: PA
-    district: 8
-    party: R
-    room: 514 Cannon
-    phone: (202) 225-4276
-    committee: Foreign Affairs, Homeland Security, Small Business
-
-  - name: Shuster, Bill
-    state: PA
-    district: 9
-    party: R
-    room: 2079 Rayburn
-    phone: (202) 225-2431
-    committee: Armed Services, Transportation
-
-  - name: Marino, Tom
-    state: PA
-    district: 10
-    party: R
-    room: 2242 Rayburn
-    phone: (202) 225-3731
-    committee: Foreign Affairs, Homeland Security, the Judiciary
-
-  - name: Barletta, Lou
-    state: PA
-    district: 11
-    party: R
-    room: 2049 Rayburn
-    phone: (202) 225-6511
-    committee: Education and the Workforce, Homeland Security, Transportation
-
-  - name: Rothfus, Keith
-    state: PA
-    district: 12
-    party: R
-    room: 1205 Longworth
-    phone: (202) 225-2065
-    committee: Financial Services
-
-  - name: Boyle, Brendan
-    state: PA
-    district: 13
-    party: D
-    room: 1133 Longworth
-    phone: (202) 225-6111
-    committee: Foreign Affairs, the Budget
-
-  - name: Doyle, Mike
-    state: PA
-    district: 14
-    party: D
-    room: 239 Cannon
-    phone: (202) 225-2135
-    committee: Energy and Commerce
-
-  - name: Dent, Charles W.
-    state: PA
-    district: 15
-    party: R
-    room: 2082 Rayburn
-    phone: (202) 225-6411
-    committee: Appropriations
-
-  - name: Smucker, Lloyd
-    state: PA
-    district: 16
-    party: R
-    room: 516 Cannon
-    phone: (202) 225-2411
-    committee: Education and the Workforce, the Budget, Transportation
-
-  - name: Cartwright, Matthew
-    state: PA
-    district: 17
-    party: D
-    room: 1034 Longworth
-    phone: (202) 225-5546
-    committee: Appropriations, Oversight and Government
-
-  - name: Murphy, Tim
-    state: PA
-    district: 18
-    party: R
-    room: 2332 Rayburn
-    phone: (202) 225-2301
-    committee: Energy and Commerce
-
-  - name: Gonz√°lez-Col√≥n, Jenniffer
-    state: PR
-    district: all
-    party: R
-    room: 1529 Longworth
-    phone: (202) 225-2615
-    committee: 'Natural Resources, Small Business, Veterans'' Affairs'
-
-  - name: Cicilline, David
-    state: RI
-    district: 1
-    party: D
-    room: 2244 Rayburn
-    phone: (202) 225-4911
-    committee: Foreign Affairs, the Judiciary
-
-  - name: Langevin, Jim
-    state: RI
-    district: 2
-    party: D
-    room: 2077 Rayburn
-    phone: (202) 225-2735
-    committee: Armed Services, Homeland Security
-
-  - name: Sanford, Mark
-    state: SC
-    district: 1
-    party: R
-    room: 2211 Rayburn
-    phone: (202) 225-3176
-    committee: Oversight and Government, the Budget, Transportation
-
-  - name: Wilson, Joe
-    state: SC
-    district: 2
-    party: R
-    room: 1436 Longworth
-    phone: (202) 225-2452
-    committee: Armed Services, Education and the Workforce, Foreign Affairs
-
-  - name: Duncan, Jeff
-    state: SC
-    district: 3
-    party: R
-    room: 2229 Rayburn
-    phone: (202) 225-5301
-    committee: Foreign Affairs, Homeland Security
-
-  - name: Gowdy, Trey
-    state: SC
-    district: 4
-    party: R
-    room: 2418 Rayburn
-    phone: (202) 225-6030
-    committee: Ethics, Intelligence (Permanent), Oversight and Government, the Judiciary
-
-  - name: Mulvaney, Mick -- Vacancy
-    state: SC
-    district: 5
-    party: R
-    room: 2350 Rayburn
-    phone: (202) 225-5501
-    committee: 
-
-  - name: Clyburn, James E.
-    state: SC
-    district: 6
-    party: D
-    room: 242 Cannon
-    phone: (202) 225-3315
-    committee: 
-
-  - name: Rice, Tom
-    state: SC
-    district: 7
-    party: R
-    room: 223 Cannon
-    phone: (202) 225-9895
-    committee: Ways and Means
-
-  - name: Noem, Kristi
-    state: SD
-    district: all
-    party: R
-    room: 2457 Rayburn
-    phone: (202) 225-2801
-    committee: Ways and Means
-
-  - name: Roe, Phil
-    state: TN
-    district: 1
-    party: R
-    room: 336 Cannon
-    phone: (202) 225-6356
-    committee: 'Education and the Workforce, Veterans'' Affairs'
-
-  - name: Duncan Jr., John J.
-    state: TN
-    district: 2
-    party: R
-    room: 2207 Rayburn
-    phone: (202) 225-5435
-    committee: Oversight and Government, Transportation
-
-  - name: Fleischmann, Chuck
-    state: TN
-    district: 3
-    party: R
-    room: 2410 Rayburn
-    phone: (202) 225-3271
-    committee: Appropriations
-
-  - name: DesJarlais, Scott
-    state: TN
-    district: 4
-    party: R
-    room: 2301 Rayburn
-    phone: (202) 225-6831
-    committee: Agriculture, Armed Services, Oversight and Government
-
-  - name: Cooper, Jim
-    state: TN
-    district: 5
-    party: D
-    room: 1536 Longworth
-    phone: (202) 225-4311
-    committee: Armed Services, Oversight and Government
-
-  - name: Black, Diane
-    state: TN
-    district: 6
-    party: R
-    room: 1131 Longworth
-    phone: (202) 225-4231
-    committee: the Budget, Ways and Means
-
-  - name: Blackburn, Marsha
-    state: TN
-    district: 7
-    party: R
-    room: 2266 Rayburn
-    phone: (202) 225-2811
-    committee: Energy and Commerce
-
-  - name: Kustoff, David
-    state: TN
-    district: 8
-    party: R
-    room: 508 Cannon
-    phone: (202) 225-4714
-    committee: Financial Services
-
-  - name: Cohen, Steve
-    state: TN
-    district: 9
-    party: D
-    room: 2404 Rayburn
-    phone: (202) 225-3265
-    committee: Ethics, the Judiciary, Transportation
-
-  - name: Gohmert, Louie
-    state: TX
-    district: 1
-    party: R
-    room: 2243 Rayburn
-    phone: (202) 225-3035
-    committee: Natural Resources, the Judiciary
-
-  - name: Poe, Ted
-    state: TX
-    district: 2
-    party: R
-    room: 2132 Rayburn
-    phone: (202) 225-6565
-    committee: Foreign Affairs, the Judiciary
-
-  - name: Johnson, Sam
-    state: TX
-    district: 3
-    party: R
-    room: 2304 Rayburn
-    phone: (202) 225-4201
-    committee: Joint Taxation, Ways and Means
-
-  - name: Ratcliffe, John
-    state: TX
-    district: 4
-    party: R
-    room: 325 Cannon
-    phone: (202) 225-6673
-    committee: Homeland Security, the Judiciary
-
-  - name: Hensarling, Jeb
-    state: TX
-    district: 5
-    party: R
-    room: 2228 Rayburn
-    phone: (202) 225-3484
-    committee: Financial Services
-
-  - name: Barton, Joe
-    state: TX
-    district: 6
-    party: R
-    room: 2107 Rayburn
-    phone: (202) 225-2002
-    committee: Energy and Commerce
-
-  - name: Culberson, John
-    state: TX
-    district: 7
-    party: R
-    room: 2161 Rayburn
-    phone: (202) 225-2571
-    committee: Appropriations
-
-  - name: Brady, Kevin
-    state: TX
-    district: 8
-    party: R
-    room: 1011 Longworth
-    phone: (202) 225-4901
-    committee: Joint Taxation, Ways and Means
-
-  - name: Green, Al
-    state: TX
-    district: 9
-    party: D
-    room: 2347 Rayburn
-    phone: (202) 225-7508
-    committee: Financial Services
-
-  - name: McCaul, Michael T.
-    state: TX
-    district: 10
-    party: R
-    room: 2001 Rayburn
-    phone: (202) 225-2401
-    committee: Foreign Affairs, Homeland Security
-
-  - name: Conaway, K. Michael
-    state: TX
-    district: 11
-    party: R
-    room: 2430 Rayburn
-    phone: (202) 225-3605
-    committee: Agriculture, Armed Services, Intelligence (Permanent)
-
-  - name: Granger, Kay
-    state: TX
-    district: 12
-    party: R
-    room: 1026 Longworth
-    phone: (202) 225-5071
-    committee: Appropriations
-
-  - name: Thornberry, Mac
-    state: TX
-    district: 13
-    party: R
-    room: 2208 Rayburn
-    phone: (202) 225-3706
-    committee: Armed Services
-
-  - name: Weber, Randy
-    state: TX
-    district: 14
-    party: R
-    room: 1708 Longworth
-    phone: (202) 225-2831
-    committee: Science, Space, and Technology, Transportation
-
-  - name: Gonzalez, Vicente
-    state: TX
-    district: 15
-    party: D
-    room: 113 Cannon
-    phone: (202) 225-2531
-    committee: Financial Services
-
-  - name: 'O''Rourke, Beto'
-    state: TX
-    district: 16
-    party: D
-    room: 1330 Longworth
-    phone: (202) 225-4831
-    committee: 'Armed Services, Veterans'' Affairs'
-
-  - name: Flores, Bill
-    state: TX
-    district: 17
-    party: R
-    room: 2440 Rayburn
-    phone: (202) 225-6105
-    committee: Energy and Commerce
-
-  - name: Jackson Lee, Sheila
-    state: TX
-    district: 18
-    party: D
-    room: 2187 Rayburn
-    phone: (202) 225-3816
-    committee: Homeland Security, the Budget, the Judiciary
-
-  - name: Arrington, Jodey
-    state: TX
-    district: 19
-    party: R
-    room: 1029 Longworth
-    phone: (202) 225-4005
-    committee: 'Agriculture, the Budget, Veterans'' Affairs'
-
-  - name: Castro, Joaquin
-    state: TX
-    district: 20
-    party: D
-    room: 1221 Longworth
-    phone: (202) 225-3236
-    committee: Foreign Affairs, Intelligence (Permanent)
-
-  - name: Smith, Lamar
-    state: TX
-    district: 21
-    party: R
-    room: 2409 Rayburn
-    phone: (202) 225-4236
-    committee: Homeland Security, Science, Space, and Technology, the Judiciary
-
-  - name: Olson, Pete
-    state: TX
-    district: 22
-    party: R
-    room: 2133 Rayburn
-    phone: (202) 225-5951
-    committee: Energy and Commerce
-
-  - name: Hurd, Will
-    state: TX
-    district: 23
-    party: R
-    room: 317 Cannon
-    phone: (202) 225-4511
-    committee: Homeland Security, Intelligence (Permanent), Oversight and Government
-
-  - name: Marchant, Kenny
-    state: TX
-    district: 24
-    party: R
-    room: 2369 Rayburn
-    phone: (202) 225-6605
-    committee: Ethics, Ways and Means
-
-  - name: Williams, Roger
-    state: TX
-    district: 25
-    party: R
-    room: 1323 Longworth
-    phone: (202) 225-9896
-    committee: Financial Services
-
-  - name: Burgess, Michael
-    state: TX
-    district: 26
-    party: R
-    room: 2336 Rayburn
-    phone: (202) 225-7772
-    committee: Energy and Commerce, Rules
-
-  - name: Farenthold, Blake
-    state: TX
-    district: 27
-    party: R
-    room: 2331 Rayburn
-    phone: (202) 225-7742
-    committee: Oversight and Government, the Judiciary, Transportation
-
-  - name: Cuellar, Henry
-    state: TX
-    district: 28
-    party: D
-    room: 2209 Rayburn
-    phone: (202) 225-1640
-    committee: Appropriations
-
-  - name: Green, Gene
-    state: TX
-    district: 29
-    party: D
-    room: 2470 Rayburn
-    phone: (202) 225-1688
-    committee: Energy and Commerce
-
-  - name: Johnson, Eddie Bernice
-    state: TX
-    district: 30
-    party: D
-    room: 2468 Rayburn
-    phone: (202) 225-8885
-    committee: Science, Space, and Technology, Transportation
-
-  - name: Carter, John
-    state: TX
+            
+  - name: Aguilar, Pete 
+    state: California
     district: 31
-    party: R
-    room: 2110 Rayburn
-    phone: (202) 225-3864
+    party: D        
+    room: 1223 Longworth
+    phone: (202) 225-3201        
     committee: Appropriations
-
-  - name: Sessions, Pete
-    state: TX
-    district: 32
-    party: R
-    room: 2233 Rayburn
-    phone: (202) 225-2231
-    committee: Rules
-
-  - name: Veasey, Marc
-    state: TX
-    district: 33
-    party: D
-    room: 1519 Longworth
-    phone: (202) 225-9897
-    committee: Armed Services, Science, Space, and Technology
-
-  - name: Vela, Filemon
-    state: TX
-    district: 34
-    party: D
-    room: 437 Cannon
-    phone: (202) 225-9901
-    committee: Agriculture, Homeland Security
-
-  - name: Doggett, Lloyd
-    state: TX
-    district: 35
-    party: D
-    room: 2307 Rayburn
-    phone: (202) 225-4865
-    committee: Ways and Means
-
-  - name: Babin, Brian
-    state: TX
+            
+  - name: Allen, Rick 
+    state: Georgia
+    district: 12
+    party: R        
+    room: 426 Cannon
+    phone: (202) 225-2823        
+    committee: Agriculture, Education and the Workforce
+            
+  - name: Amash, Justin 
+    state: Michigan
+    district: 3
+    party: R        
+    room: 114 Cannon
+    phone: (202) 225-3831        
+    committee: Oversight and Government Reform
+            
+  - name: Amodei, Mark 
+    state: Nevada
+    district: 2
+    party: R        
+    room: 332 Cannon
+    phone: (202) 225-6155        
+    committee: Appropriations
+            
+  - name: Arrington, Jodey 
+    state: Texas
+    district: 19
+    party: R        
+    room: 1029 Longworth
+    phone: (202) 225-4005        
+    committee: Agriculture, Budget, Joint Select Committee on Budget and APPNs Process Reform, Veterans' Affairs
+            
+  - name: Babin, Brian 
+    state: Texas
     district: 36
-    party: R
+    party: R        
     room: 316 Cannon
-    phone: (202) 225-1555
-    committee: Science, Space, and Technology, Transportation
-
-  - name: Bishop, Rob
-    state: UT
-    district: 1
-    party: R
-    room: 123 Cannon
-    phone: (202) 225-0453
-    committee: Armed Services, Natural Resources
-
-  - name: Stewart, Chris
-    state: UT
+    phone: (202) 225-1555        
+    committee: Transportation and Infrastructure, Science, Space, and Technology
+            
+  - name: Bacon, Don 
+    state: Nebraska
     district: 2
-    party: R
-    room: 323 Cannon
-    phone: (202) 225-9730
-    committee: Appropriations, Intelligence (Permanent)
-
-  - name: Chaffetz, Jason
-    state: UT
+    party: R        
+    room: 1516 Longworth
+    phone: (202) 225-4155        
+    committee: Agriculture, Armed Services, Homeland Security
+            
+  - name: Banks, Jim 
+    state: Indiana
     district: 3
-    party: R
-    room: 2236 Rayburn
-    phone: (202) 225-7751
-    committee: Oversight and Government, the Judiciary
-
-  - name: Love, Mia
-    state: UT
-    district: 4
-    party: R
-    room: 217 Cannon
-    phone: (202) 225-3011
-    committee: Financial Services
-
-  - name: Welch, Peter
-    state: VT
-    district: all
-    party: D
-    room: 2303 Rayburn
-    phone: (202) 225-4115
-    committee: Energy and Commerce, Oversight and Government
-
-  - name: Plaskett, Stacey
-    state: VI
-    district: all
-    party: D
-    room: 331 Cannon
-    phone: (202) 225-1790
-    committee: Agriculture, Oversight and Government
-
-  - name: Wittman, Robert J.
-    state: VA
-    district: 1
-    party: R
-    room: 2055 Rayburn
-    phone: (202) 225-4261
-    committee: Armed Services, Natural Resources
-
-  - name: Taylor, Scott
-    state: VA
-    district: 2
-    party: R
-    room: 412 Cannon
-    phone: (202) 225-4215
-    committee: Appropriations
-
-  - name: Scott, Robert C.
-    state: VA
-    district: 3
-    party: D
-    room: 1201 Longworth
-    phone: (202) 225-8351
-    committee: Education and the Workforce
-
-  - name: McEachin, A. Donald
-    state: VA
-    district: 4
-    party: D
-    room: 314 Cannon
-    phone: (202) 225-6365
-    committee: Armed Services, Natural Resources
-
-  - name: Garrett, Thomas
-    state: VA
-    district: 5
-    party: R
-    room: 415 Cannon
-    phone: (202) 225-4711
-    committee: Education and the Workforce, Foreign Affairs, Homeland Security
-
-  - name: Goodlatte, Bob
-    state: VA
-    district: 6
-    party: R
-    room: 2309 Rayburn
-    phone: (202) 225-5431
-    committee: Agriculture, the Judiciary
-
-  - name: Brat, Dave
-    state: VA
-    district: 7
-    party: R
-    room: 1628 Longworth
-    phone: (202) 225-2815
-    committee: Education and the Workforce, Small Business, the Budget
-
-  - name: Beyer, Don
-    state: VA
-    district: 8
-    party: D
-    room: 1119 Longworth
-    phone: (202) 225-4376
-    committee: Natural Resources, Science, Space, and Technology
-
-  - name: Griffith, Morgan
-    state: VA
-    district: 9
-    party: R
-    room: 2202 Rayburn
-    phone: (202) 225-3861
-    committee: Energy and Commerce
-
-  - name: Comstock, Barbara
-    state: VA
-    district: 10
-    party: R
-    room: 229 Cannon
-    phone: (202) 225-5136
-    committee: House Administration, Science, Space, and Technology, Transportation
-
-  - name: Connolly, Gerald E. "Gerry"
-    state: VA
+    party: R        
+    room: 509 Cannon
+    phone: (202) 225-4436        
+    committee: Armed Services, Education and the Workforce, Veterans' Affairs
+            
+  - name: Barletta, Lou 
+    state: Pennsylvania
     district: 11
-    party: D
-    room: 2238 Rayburn
-    phone: (202) 225-1492
-    committee: Foreign Affairs, Oversight and Government
-
-  - name: DelBene, Suzan
-    state: WA
-    district: 1
-    party: D
-    room: 2442 Rayburn
-    phone: (202) 225-6311
-    committee: the Budget, Ways and Means
-
-  - name: Larsen, Rick
-    state: WA
-    district: 2
-    party: D
-    room: 2113 Rayburn
-    phone: (202) 225-2605
-    committee: Armed Services, Transportation
-
-  - name: Herrera Beutler, Jaime
-    state: WA
-    district: 3
-    party: R
-    room: 1107 Longworth
-    phone: (202) 225-3536
-    committee: Appropriations
-
-  - name: Newhouse, Dan
-    state: WA
-    district: 4
-    party: R
-    room: 1318 Longworth
-    phone: (202) 225-5816
-    committee: Appropriations, Rules
-
-  - name: McMorris Rodgers, Cathy
-    state: WA
-    district: 5
-    party: R
-    room: 1314 Longworth
-    phone: (202) 225-2006
-    committee: Energy and Commerce
-
-  - name: Kilmer, Derek
-    state: WA
+    party: R        
+    room: 2049 Rayburn
+    phone: (202) 225-6511        
+    committee: Education and the Workforce, Homeland Security, Transportation and Infrastructure
+            
+  - name: Barr, Andy 
+    state: Kentucky
     district: 6
-    party: D
-    room: 1520 Longworth
-    phone: (202) 225-5916
-    committee: Appropriations
-
-  - name: Jayapal, Pramila
-    state: WA
-    district: 7
-    party: D
-    room: 319 Cannon
-    phone: (202) 225-3106
-    committee: the Budget, the Judiciary
-
-  - name: Reichert, David G.
-    state: WA
-    district: 8
-    party: R
-    room: 1127 Longworth
-    phone: (202) 225-7761
-    committee: Ways and Means
-
-  - name: Smith, Adam
-    state: WA
-    district: 9
-    party: D
-    room: 2264 Rayburn
-    phone: (202) 225-8901
-    committee: Armed Services
-
-  - name: Heck, Denny
-    state: WA
-    district: 10
-    party: D
-    room: 425 Cannon
-    phone: (202) 225-9740
-    committee: Financial Services, Intelligence (Permanent)
-
-  - name: McKinley, David
-    state: WV
-    district: 1
-    party: R
-    room: 2239 Rayburn
-    phone: (202) 225-4172
-    committee: Energy and Commerce
-
-  - name: Mooney, Alex
-    state: WV
-    district: 2
-    party: R
-    room: 1232 Longworth
-    phone: (202) 225-2711
+    party: R        
+    room: 1427 Longworth
+    phone: (202) 225-4706        
     committee: Financial Services
-
-  - name: Jenkins, Evan
-    state: WV
+            
+  - name: Barrag·n, Nanette 
+    state: California
+    district: 44
+    party: D        
+    room: 1320 Longworth
+    phone: (202) 225-8220        
+    committee: Homeland Security, Natural Resources
+            
+  - name: Barton, Joe 
+    state: Texas
+    district: 6
+    party: R        
+    room: 2107 Rayburn
+    phone: (202) 225-2002        
+    committee: Energy and Commerce
+            
+  - name: Bass, Karen 
+    state: California
+    district: 37
+    party: D        
+    room: 2241 Rayburn
+    phone: (202) 225-7084        
+    committee: Foreign Affairs, Judiciary
+            
+  - name: Beatty, Joyce 
+    state: Ohio
     district: 3
-    party: R
-    room: 1609 Longworth
-    phone: (202) 225-3452
-    committee: Appropriations
-
-  - name: Ryan, Paul D.
-    state: WI
+    party: D        
+    room: 133 Cannon
+    phone: (202) 225-4324        
+    committee: Financial Services
+            
+  - name: Bera, Ami 
+    state: California
+    district: 7
+    party: D        
+    room: 1431 Longworth
+    phone: (202) 225-5716        
+    committee: Foreign Affairs, Science, Space, and Technology
+            
+  - name: Bergman, Jack 
+    state: Michigan
     district: 1
-    party: R
-    room: 1233 Longworth
-    phone: (202) 225-3031
+    party: R        
+    room: 414 Cannon
+    phone: (202) 225-4735        
+    committee: Budget, Natural Resources, Veterans' Affairs
+            
+  - name: Beyer, Don 
+    state: Virginia
+    district: 8
+    party: D        
+    room: 1119 Longworth
+    phone: (202) 225-4376        
+    committee: Natural Resources, Science, Space, and Technology
+            
+  - name: Biggs, Andy 
+    state: Arizona
+    district: 5
+    party: R        
+    room: 1626 Longworth
+    phone: (202) 225-2635        
+    committee: Judiciary, Science, Space, and Technology
+            
+  - name: Bilirakis, Gus M. 
+    state: Florida
+    district: 12
+    party: R        
+    room: 2112 Rayburn
+    phone: (202) 225-5755        
+    committee: Energy and Commerce, Veterans' Affairs
+            
+  - name: Bishop, Mike 
+    state: Michigan
+    district: 8
+    party: R        
+    room: 428 Cannon
+    phone: (202) 225-4872        
+    committee: Ways and Means
+            
+  - name: Bishop, Rob 
+    state: Utah
+    district: 1
+    party: R        
+    room: 123 Cannon
+    phone: (202) 225-0453        
+    committee: Armed Services, Natural Resources
+            
+  - name: Bishop Jr., Sanford D. 
+    state: Georgia
+    district: 2
+    party: D        
+    room: 2407 Rayburn
+    phone: (202) 225-3631        
+    committee: Appropriations
+            
+  - name: Black, Diane 
+    state: Tennessee
+    district: 6
+    party: R        
+    room: 1131 Longworth
+    phone: (202) 225-4231        
+    committee: Budget, Ways and Means
+            
+  - name: Blackburn, Marsha 
+    state: Tennessee
+    district: 7
+    party: R        
+    room: 2266 Rayburn
+    phone: (202) 225-2811        
+    committee: Energy and Commerce
+            
+  - name: Blum, Rod 
+    state: Iowa
+    district: 1
+    party: R        
+    room: 1108 Longworth
+    phone: (202) 225-2911        
+    committee: Oversight and Government Reform, Small Business
+            
+  - name: Blumenauer, Earl 
+    state: Oregon
+    district: 3
+    party: D        
+    room: 1111 Longworth
+    phone: (202) 225-4811        
+    committee: Ways and Means
+            
+  - name: Blunt Rochester, Lisa 
+    state: Delaware
+    district: At Large
+    party: D        
+    room: 1123 Longworth
+    phone: (202) 225-4165        
+    committee: Agriculture, Education and the Workforce
+            
+  - name: Bonamici, Suzanne 
+    state: Oregon
+    district: 1
+    party: D        
+    room: 439 Cannon
+    phone: (202) 225-0855        
+    committee: Education and the Workforce, Science, Space, and Technology
+            
+  - name: Bordallo, Madeleine 
+    state: Guam
+    district: Delegate
+    party: D        
+    room: 2441 Rayburn
+    phone: (202) 225-1188        
+    committee: Armed Services, Natural Resources
+            
+  - name: Bost, Mike 
+    state: Illinois
+    district: 12
+    party: R        
+    room: 1440 Longworth
+    phone: (202) 225-5661        
+    committee: Agriculture, Transportation and Infrastructure, Veterans' Affairs
+            
+  - name: Boyle, Brendan 
+    state: Pennsylvania
+    district: 13
+    party: D        
+    room: 1133 Longworth
+    phone: (202) 225-6111        
+    committee: Budget, Foreign Affairs
+            
+  - name: Brady, Kevin 
+    state: Texas
+    district: 8
+    party: R        
+    room: 1011 Longworth
+    phone: (202) 225-4901        
+    committee: Joint Committee on Taxation, Ways and Means
+            
+  - name: Brady, Robert 
+    state: Pennsylvania
+    district: 1
+    party: D        
+    room: 2004 Rayburn
+    phone: (202) 225-4731        
+    committee: Armed Services, House Administration, Joint Committee of Congress on the Library
+            
+  - name: Brat, Dave 
+    state: Virginia
+    district: 7
+    party: R        
+    room: 1628 Longworth
+    phone: (202) 225-2815        
+    committee: Budget, Education and the Workforce, Small Business
+            
+  - name: Bridenstine, Jim - Vacancy        
+    state: Oklahoma
+    district: 1
+    party: R        
+    room: 216 Cannon
+    phone: (202) 225-2211        
     committee: 
-
-  - name: Pocan, Mark
-    state: WI
-    district: 2
-    party: D
-    room: 1421 Longworth
-    phone: (202) 225-2906
-    committee: Appropriations
-
-  - name: Kind, Ron
-    state: WI
-    district: 3
-    party: D
-    room: 1502 Longworth
-    phone: (202) 225-5506
-    committee: Ways and Means
-
-  - name: Moore, Gwen
-    state: WI
-    district: 4
-    party: D
-    room: 2252 Rayburn
-    phone: (202) 225-4572
-    committee: Financial Services
-
-  - name: Sensenbrenner, F. James
-    state: WI
+            
+  - name: Brooks, Mo 
+    state: Alabama
     district: 5
-    party: R
-    room: 2449 Rayburn
-    phone: (202) 225-5101
-    committee: Foreign Affairs, the Judiciary
-
-  - name: Grothman, Glenn
-    state: WI
-    district: 6
-    party: R
-    room: 1217 Longworth
-    phone: (202) 225-2476
-    committee: Education and the Workforce, Oversight and Government, the Budget
-
-  - name: Duffy, Sean P.
-    state: WI
-    district: 7
-    party: R
-    room: 2330 Rayburn
-    phone: (202) 225-3365
-    committee: Financial Services
-
-  - name: Gallagher, Mike
-    state: WI
+    party: R        
+    room: 2400 Rayburn
+    phone: (202) 225-4801        
+    committee: Armed Services, Foreign Affairs, Science, Space, and Technology
+            
+  - name: Brooks, Susan W. 
+    state: Indiana
+    district: 5
+    party: R        
+    room: 1030 Longworth
+    phone: (202) 225-2276        
+    committee: Energy and Commerce, Ethics
+            
+  - name: Brown, Anthony 
+    state: Maryland
+    district: 4
+    party: D        
+    room: 1505 Longworth
+    phone: (202) 225-8699        
+    committee: Armed Services, Natural Resources, Ethics
+            
+  - name: Brownley, Julia 
+    state: California
+    district: 26
+    party: D        
+    room: 1019 Longworth
+    phone: (202) 225-5811        
+    committee: Transportation and Infrastructure, Veterans' Affairs
+            
+  - name: Buchanan, Vern 
+    state: Florida
+    district: 16
+    party: R        
+    room: 2104 Rayburn
+    phone: (202) 225-5015        
+    committee: Joint Select Committee on Solvency of MPP, Ways and Means
+            
+  - name: Buck, Ken 
+    state: Colorado
+    district: 4
+    party: R        
+    room: 1130 Longworth
+    phone: (202) 225-4676        
+    committee: Judiciary, Rules
+            
+  - name: Bucshon, Larry 
+    state: Indiana
     district: 8
-    party: R
-    room: 1007 Longworth
-    phone: (202) 225-5665
-    committee: Armed Services, Homeland Security
-
-  - name: Cheney, Liz
-    state: WY
-    district: all
-    party: R
+    party: R        
+    room: 1005 Longworth
+    phone: (202) 225-4636        
+    committee: Energy and Commerce
+            
+  - name: Budd, Ted 
+    state: North Carolina
+    district: 13
+    party: R        
+    room: 118 Cannon
+    phone: (202) 225-4531        
+    committee: Financial Services
+            
+  - name: Burgess, Michael 
+    state: Texas
+    district: 26
+    party: R        
+    room: 2336 Rayburn
+    phone: (202) 225-7772        
+    committee: Energy and Commerce, Rules
+            
+  - name: Bustos, Cheri 
+    state: Illinois
+    district: 17
+    party: D        
+    room: 1009 Longworth
+    phone: (202) 225-5905        
+    committee: Agriculture, Transportation and Infrastructure
+            
+  - name: Butterfield, G.K. 
+    state: North Carolina
+    district: 1
+    party: D        
+    room: 2080 Rayburn
+    phone: (202) 225-3101        
+    committee: Energy and Commerce
+            
+  - name: Byrne, Bradley 
+    state: Alabama
+    district: 1
+    party: R        
+    room: 119 Cannon
+    phone: (202) 225-4931        
+    committee: Armed Services, Education and the Workforce, Rules
+            
+  - name: Calvert, Ken 
+    state: California
+    district: 42
+    party: R        
+    room: 2205 Rayburn
+    phone: (202) 225-1986        
+    committee: Appropriations
+            
+  - name: Capuano, Michael E. 
+    state: Massachusetts
+    district: 7
+    party: D        
+    room: 1414 Longworth
+    phone: (202) 225-5111        
+    committee: Financial Services, Transportation and Infrastructure
+            
+  - name: Carbajal, Salud 
+    state: California
+    district: 24
+    party: D        
+    room: 212 Cannon
+    phone: (202) 225-3601        
+    committee: Armed Services, Budget
+            
+  - name: C·rdenas, Tony 
+    state: California
+    district: 29
+    party: D        
+    room: 1510 Longworth
+    phone: (202) 225-6131        
+    committee: Energy and Commerce
+            
+  - name: Carson, AndrÈ 
+    state: Indiana
+    district: 7
+    party: D        
+    room: 2135 Rayburn
+    phone: (202) 225-4011        
+    committee: Intelligence, Transportation and Infrastructure
+            
+  - name: Carter, Buddy 
+    state: Georgia
+    district: 1
+    party: R        
+    room: 432 Cannon
+    phone: (202) 225-5831        
+    committee: Energy and Commerce
+            
+  - name: Carter, John 
+    state: Texas
+    district: 31
+    party: R        
+    room: 2110 Rayburn
+    phone: (202) 225-3864        
+    committee: Appropriations
+            
+  - name: Cartwright, Matt 
+    state: Pennsylvania
+    district: 17
+    party: D        
+    room: 1034 Longworth
+    phone: (202) 225-5546        
+    committee: Appropriations, Oversight and Government Reform
+            
+  - name: Castor, Kathy 
+    state: Florida
+    district: 14
+    party: D        
+    room: 2052 Rayburn
+    phone: (202) 225-3376        
+    committee: Energy and Commerce
+            
+  - name: Castro, Joaquin 
+    state: Texas
+    district: 20
+    party: D        
+    room: 1221 Longworth
+    phone: (202) 225-3236        
+    committee: Foreign Affairs, Intelligence
+            
+  - name: Chabot, Steve 
+    state: Ohio
+    district: 1
+    party: R        
+    room: 2371 Rayburn
+    phone: (202) 225-2216        
+    committee: Foreign Affairs, Judiciary, Small Business
+            
+  - name: Cheney, Liz 
+    state: Wyoming
+    district: At Large
+    party: R        
     room: 416 Cannon
-    phone: (202) 225-2311
+    phone: (202) 225-2311        
     committee: Armed Services, Natural Resources, Rules
+            
+  - name: Chu, Judy 
+    state: California
+    district: 27
+    party: D        
+    room: 2423 Rayburn
+    phone: (202) 225-5464        
+    committee: Small Business, Ways and Means
+            
+  - name: Cicilline, David 
+    state: Rhode Island
+    district: 1
+    party: D        
+    room: 2244 Rayburn
+    phone: (202) 225-4911        
+    committee: Foreign Affairs, Judiciary
+            
+  - name: Clark, Katherine 
+    state: Massachusetts
+    district: 5
+    party: D        
+    room: 1415 Longworth
+    phone: (202) 225-2836        
+    committee: Appropriations
+            
+  - name: Clarke, Yvette D. 
+    state: New York
+    district: 9
+    party: D        
+    room: 2058 Rayburn
+    phone: (202) 225-6231        
+    committee: Energy and Commerce, Small Business, Ethics
+            
+  - name: Clay Jr., William "Lacy" 
+    state: Missouri
+    district: 1
+    party: D        
+    room: 2428 Rayburn
+    phone: (202) 225-2406        
+    committee: Financial Services, Oversight and Government Reform, Natural Resources
+            
+  - name: Cleaver, Emanuel 
+    state: Missouri
+    district: 5
+    party: D        
+    room: 2335 Rayburn
+    phone: (202) 225-4535        
+    committee: Financial Services
+            
+  - name: Clyburn, James E. 
+    state: South Carolina
+    district: 6
+    party: D        
+    room: 242 Cannon
+    phone: (202) 225-3315        
+    committee: 
+            
+  - name: Coffman, Mike 
+    state: Colorado
+    district: 6
+    party: R        
+    room: 2443 Rayburn
+    phone: (202) 225-7882        
+    committee: Armed Services, Veterans' Affairs
+            
+  - name: Cohen, Steve 
+    state: Tennessee
+    district: 9
+    party: D        
+    room: 2404 Rayburn
+    phone: (202) 225-3265        
+    committee: Judiciary, Transportation and Infrastructure, Ethics
+            
+  - name: Cole, Tom 
+    state: Oklahoma
+    district: 4
+    party: R        
+    room: 2467 Rayburn
+    phone: (202) 225-6165        
+    committee: Appropriations, Budget, Rules
+            
+  - name: Collins, Chris 
+    state: New York
+    district: 27
+    party: R        
+    room: 1117 Longworth
+    phone: (202) 225-5265        
+    committee: Energy and Commerce
+            
+  - name: Collins, Doug 
+    state: Georgia
+    district: 9
+    party: R        
+    room: 1504 Longworth
+    phone: (202) 225-9893        
+    committee: Judiciary, Rules
+            
+  - name: Comer, James 
+    state: Kentucky
+    district: 1
+    party: R        
+    room: 1513 Longworth
+    phone: (202) 225-3115        
+    committee: Agriculture, Oversight and Government Reform, Small Business
+            
+  - name: Comstock, Barbara 
+    state: Virginia
+    district: 10
+    party: R        
+    room: 229 Cannon
+    phone: (202) 225-5136        
+    committee: House Administration, Transportation and Infrastructure, Science, Space, and Technology
+            
+  - name: Conaway, K. Michael 
+    state: Texas
+    district: 11
+    party: R        
+    room: 2430 Rayburn
+    phone: (202) 225-3605        
+    committee: Agriculture, Armed Services, Intelligence
+            
+  - name: Connolly, Gerald E. "Gerry" 
+    state: Virginia
+    district: 11
+    party: D        
+    room: 2238 Rayburn
+    phone: (202) 225-1492        
+    committee: Foreign Affairs, Oversight and Government Reform
+            
+  - name: Conyers, John - Vacancy        
+    state: Michigan
+    district: 13
+    party: D        
+    room: 2426 Rayburn
+    phone: (202) 225-5126        
+    committee: 
+            
+  - name: Cook, Paul 
+    state: California
+    district: 8
+    party: R        
+    room: 1222 Longworth
+    phone: (202) 225-5861        
+    committee: Armed Services, Foreign Affairs, Natural Resources
+            
+  - name: Cooper, Jim 
+    state: Tennessee
+    district: 5
+    party: D        
+    room: 1536 Longworth
+    phone: (202) 225-4311        
+    committee: Armed Services, Oversight and Government Reform
+            
+  - name: Correa, J.  Luis 
+    state: California
+    district: 46
+    party: D        
+    room: 1039 Longworth
+    phone: (202) 225-2965        
+    committee: Homeland Security, Veterans' Affairs
+            
+  - name: Costa, Jim 
+    state: California
+    district: 16
+    party: D        
+    room: 2081 Rayburn
+    phone: (202) 225-3341        
+    committee: Agriculture, Natural Resources
+            
+  - name: Costello, Ryan 
+    state: Pennsylvania
+    district: 6
+    party: R        
+    room: 326 Cannon
+    phone: (202) 225-4315        
+    committee: Energy and Commerce
+            
+  - name: Courtney, Joe 
+    state: Connecticut
+    district: 2
+    party: D        
+    room: 2348 Rayburn
+    phone: (202) 225-2076        
+    committee: Armed Services, Education and the Workforce
+            
+  - name: Cramer, Kevin 
+    state: North Dakota
+    district: At Large
+    party: R        
+    room: 1717 Longworth
+    phone: (202) 225-2611        
+    committee: Energy and Commerce
+            
+  - name: Crawford, Rick 
+    state: Arkansas
+    district: 1
+    party: R        
+    room: 2422 Rayburn
+    phone: (202) 225-4076        
+    committee: Agriculture, Intelligence, Transportation and Infrastructure
+            
+  - name: Crist, Charlie 
+    state: Florida
+    district: 13
+    party: D        
+    room: 427 Cannon
+    phone: (202) 225-5961        
+    committee: Financial Services, Science, Space, and Technology
+            
+  - name: Crowley, Joseph 
+    state: New York
+    district: 14
+    party: D        
+    room: 1035 Longworth
+    phone: (202) 225-3965        
+    committee: Ways and Means
+            
+  - name: Cuellar, Henry 
+    state: Texas
+    district: 28
+    party: D        
+    room: 2209 Rayburn
+    phone: (202) 225-1640        
+    committee: Appropriations
+            
+  - name: Culberson, John 
+    state: Texas
+    district: 7
+    party: R        
+    room: 2161 Rayburn
+    phone: (202) 225-2571        
+    committee: Appropriations
+            
+  - name: Cummings, Elijah 
+    state: Maryland
+    district: 7
+    party: D        
+    room: 2163 Rayburn
+    phone: (202) 225-4741        
+    committee: Oversight and Government Reform, Transportation and Infrastructure
+            
+  - name: Curbelo, Carlos 
+    state: Florida
+    district: 26
+    party: R        
+    room: 1404 Longworth
+    phone: (202) 225-2778        
+    committee: Ways and Means
+            
+  - name: Curtis, John R. 
+    state: Utah
+    district: 3
+    party: R        
+    room: 2236 Rayburn
+    phone: (202) 225-7751        
+    committee: Foreign Affairs, Natural Resources, Small Business
+            
+  - name: Davidson, Warren 
+    state: Ohio
+    district: 8
+    party: R        
+    room: 1004 Longworth
+    phone: (202) 225-6205        
+    committee: Financial Services
+            
+  - name: Davis, Danny K. 
+    state: Illinois
+    district: 7
+    party: D        
+    room: 2159 Rayburn
+    phone: (202) 225-5006        
+    committee: Ways and Means
+            
+  - name: Davis, Rodney 
+    state: Illinois
+    district: 13
+    party: R        
+    room: 1740 Longworth
+    phone: (202) 225-2371        
+    committee: Agriculture, House Administration, Transportation and Infrastructure
+            
+  - name: Davis, Susan 
+    state: California
+    district: 53
+    party: D        
+    room: 1214 Longworth
+    phone: (202) 225-2040        
+    committee: Armed Services, Education and the Workforce
+            
+  - name: DeFazio, Peter 
+    state: Oregon
+    district: 4
+    party: D        
+    room: 2134 Rayburn
+    phone: (202) 225-6416        
+    committee: Transportation and Infrastructure
+            
+  - name: DeGette, Diana 
+    state: Colorado
+    district: 1
+    party: D        
+    room: 2111 Rayburn
+    phone: (202) 225-4431        
+    committee: Energy and Commerce
+            
+  - name: Delaney, John 
+    state: Maryland
+    district: 6
+    party: D        
+    room: 1632 Longworth
+    phone: (202) 225-2721        
+    committee: Financial Services
+            
+  - name: DeLauro, Rosa L. 
+    state: Connecticut
+    district: 3
+    party: D        
+    room: 2413 Rayburn
+    phone: (202) 225-3661        
+    committee: Appropriations
+            
+  - name: DelBene, Suzan 
+    state: Washington
+    district: 1
+    party: D        
+    room: 2442 Rayburn
+    phone: (202) 225-6311        
+    committee: Budget, Ways and Means
+            
+  - name: Demings, Val 
+    state: Florida
+    district: 10
+    party: D        
+    room: 238 Cannon
+    phone: (202) 225-2176        
+    committee: Homeland Security, Judiciary
+            
+  - name: Denham, Jeff 
+    state: California
+    district: 10
+    party: R        
+    room: 1730 Longworth
+    phone: (202) 225-4540        
+    committee: Agriculture, Natural Resources, Transportation and Infrastructure
+            
+  - name: Dent, Charles W. - Vacancy        
+    state: Pennsylvania
+    district: 15
+    party: R        
+    room: 2082 Rayburn
+    phone: (202) 225-6411        
+    committee: 
+            
+  - name: DeSantis, Ron 
+    state: Florida
+    district: 6
+    party: R        
+    room: 1524 Longworth
+    phone: (202) 225-2706        
+    committee: Foreign Affairs, Oversight and Government Reform, Judiciary
+            
+  - name: DeSaulnier, Mark 
+    state: California
+    district: 11
+    party: D        
+    room: 115 Cannon
+    phone: (202) 225-2095        
+    committee: Education and the Workforce, Oversight and Government Reform, Transportation and Infrastructure
+            
+  - name: DesJarlais, Scott 
+    state: Tennessee
+    district: 4
+    party: R        
+    room: 2301 Rayburn
+    phone: (202) 225-6831        
+    committee: Agriculture, Armed Services, Oversight and Government Reform
+            
+  - name: Deutch, Ted 
+    state: Florida
+    district: 22
+    party: D        
+    room: 2447 Rayburn
+    phone: (202) 225-3001        
+    committee: Foreign Affairs, Judiciary, Ethics
+            
+  - name: Diaz-Balart, Mario 
+    state: Florida
+    district: 25
+    party: R        
+    room: 440 Cannon
+    phone: (202) 225-4211        
+    committee: Appropriations, Budget
+            
+  - name: Dingell, Debbie 
+    state: Michigan
+    district: 12
+    party: D        
+    room: 116 Cannon
+    phone: (202) 225-4071        
+    committee: Energy and Commerce, Joint Select Committee on Solvency of MPP
+            
+  - name: Doggett, Lloyd 
+    state: Texas
+    district: 35
+    party: D        
+    room: 2307 Rayburn
+    phone: (202) 225-4865        
+    committee: Ways and Means
+            
+  - name: Donovan, Daniel 
+    state: New York
+    district: 11
+    party: R        
+    room: 1541 Longworth
+    phone: (202) 225-3371        
+    committee: Foreign Affairs, Homeland Security
+            
+  - name: Doyle, Mike 
+    state: Pennsylvania
+    district: 14
+    party: D        
+    room: 239 Cannon
+    phone: (202) 225-2135        
+    committee: Energy and Commerce
+            
+  - name: Duffy, Sean P. 
+    state: Wisconsin
+    district: 7
+    party: R        
+    room: 2330 Rayburn
+    phone: (202) 225-3365        
+    committee: Financial Services
+            
+  - name: Duncan, Jeff 
+    state: South Carolina
+    district: 3
+    party: R        
+    room: 2229 Rayburn
+    phone: (202) 225-5301        
+    committee: Energy and Commerce
+            
+  - name: Duncan Jr., John J. 
+    state: Tennessee
+    district: 2
+    party: R        
+    room: 2207 Rayburn
+    phone: (202) 225-5435        
+    committee: Oversight and Government Reform, Transportation and Infrastructure
+            
+  - name: Dunn, Neal 
+    state: Florida
+    district: 2
+    party: R        
+    room: 423 Cannon
+    phone: (202) 225-5235        
+    committee: Agriculture, Science, Space, and Technology, Veterans' Affairs
+            
+  - name: Ellison, Keith 
+    state: Minnesota
+    district: 5
+    party: D        
+    room: 2263 Rayburn
+    phone: (202) 225-4755        
+    committee: Financial Services
+            
+  - name: Emmer, Tom 
+    state: Minnesota
+    district: 6
+    party: R        
+    room: 315 Cannon
+    phone: (202) 225-2331        
+    committee: Financial Services
+            
+  - name: Engel, Eliot 
+    state: New York
+    district: 16
+    party: D        
+    room: 2462 Rayburn
+    phone: (202) 225-2464        
+    committee: Foreign Affairs, Energy and Commerce
+            
+  - name: Eshoo, Anna G. 
+    state: California
+    district: 18
+    party: D        
+    room: 241 Cannon
+    phone: (202) 225-8104        
+    committee: Energy and Commerce
+            
+  - name: Espaillat, Adriano 
+    state: New York
+    district: 13
+    party: D        
+    room: 1630 Longworth
+    phone: (202) 225-4365        
+    committee: Education and the Workforce, Foreign Affairs, Small Business
+            
+  - name: Estes, Ron 
+    state: Kansas
+    district: 4
+    party: R        
+    room: 2452 Rayburn
+    phone: (202) 225-6216        
+    committee: Education and the Workforce, Homeland Security
+            
+  - name: Esty, Elizabeth 
+    state: Connecticut
+    district: 5
+    party: D        
+    room: 221 Cannon
+    phone: (202) 225-4476        
+    committee: Transportation and Infrastructure, Science, Space, and Technology, Veterans' Affairs
+            
+  - name: Evans, Dwight 
+    state: Pennsylvania
+    district: 2
+    party: D        
+    room: 1105 Longworth
+    phone: (202) 225-4001        
+    committee: Agriculture, Small Business
+            
+  - name: Farenthold, Blake - Vacancy        
+    state: Texas
+    district: 27
+    party: R        
+    room: 2331 Rayburn
+    phone: (202) 225-7742        
+    committee: 
+            
+  - name: Faso, John 
+    state: New York
+    district: 19
+    party: R        
+    room: 1616 Longworth
+    phone: (202) 225-5614        
+    committee: Agriculture, Budget, Transportation and Infrastructure
+            
+  - name: Ferguson, A. Drew 
+    state: Georgia
+    district: 3
+    party: R        
+    room: 1032 Longworth
+    phone: (202) 225-5901        
+    committee: Budget, Education and the Workforce, Transportation and Infrastructure
+            
+  - name: Fitzpatrick, Brian 
+    state: Pennsylvania
+    district: 8
+    party: R        
+    room: 514 Cannon
+    phone: (202) 225-4276        
+    committee: Foreign Affairs, Homeland Security, Small Business
+            
+  - name: Fleischmann, Chuck 
+    state: Tennessee
+    district: 3
+    party: R        
+    room: 2410 Rayburn
+    phone: (202) 225-3271        
+    committee: Appropriations
+            
+  - name: Flores, Bill 
+    state: Texas
+    district: 17
+    party: R        
+    room: 2440 Rayburn
+    phone: (202) 225-6105        
+    committee: Energy and Commerce
+            
+  - name: Fortenberry, Jeff 
+    state: Nebraska
+    district: 1
+    party: R        
+    room: 1514 Longworth
+    phone: (202) 225-4806        
+    committee: Appropriations
+            
+  - name: Foster, Bill 
+    state: Illinois
+    district: 11
+    party: D        
+    room: 1224 Longworth
+    phone: (202) 225-3515        
+    committee: Financial Services, Science, Space, and Technology
+            
+  - name: Foxx, Virginia 
+    state: North Carolina
+    district: 5
+    party: R        
+    room: 2262 Rayburn
+    phone: (202) 225-2071        
+    committee: Education and the Workforce, Oversight and Government Reform, Joint Select Committee on Solvency of MPP
+            
+  - name: Frankel, Lois 
+    state: Florida
+    district: 21
+    party: D        
+    room: 1037 Longworth
+    phone: (202) 225-9890        
+    committee: Foreign Affairs, Transportation and Infrastructure
+            
+  - name: Frelinghuysen, Rodney 
+    state: New Jersey
+    district: 11
+    party: R        
+    room: 2306 Rayburn
+    phone: (202) 225-5034        
+    committee: Appropriations
+            
+  - name: Fudge, Marcia L. 
+    state: Ohio
+    district: 11
+    party: D        
+    room: 2344 Rayburn
+    phone: (202) 225-7032        
+    committee: Agriculture, Education and the Workforce
+            
+  - name: Gabbard, Tulsi 
+    state: Hawaii
+    district: 2
+    party: D        
+    room: 1433 Longworth
+    phone: (202) 225-4906        
+    committee: Armed Services, Foreign Affairs
+            
+  - name: Gaetz, Matt 
+    state: Florida
+    district: 1
+    party: R        
+    room: 507 Cannon
+    phone: (202) 225-4136        
+    committee: Armed Services, Budget, Judiciary
+            
+  - name: Gallagher, Mike 
+    state: Wisconsin
+    district: 8
+    party: R        
+    room: 1007 Longworth
+    phone: (202) 225-5665        
+    committee: Armed Services, Homeland Security, Transportation and Infrastructure
+            
+  - name: Gallego, Ruben 
+    state: Arizona
+    district: 7
+    party: D        
+    room: 1218 Longworth
+    phone: (202) 225-4065        
+    committee: Armed Services, Natural Resources
+            
+  - name: Garamendi, John 
+    state: California
+    district: 3
+    party: D        
+    room: 2438 Rayburn
+    phone: (202) 225-1880        
+    committee: Armed Services, Transportation and Infrastructure
+            
+  - name: Garrett, Thomas 
+    state: Virginia
+    district: 5
+    party: R        
+    room: 415 Cannon
+    phone: (202) 225-4711        
+    committee: Education and the Workforce, Foreign Affairs, Homeland Security
+            
+  - name: Gianforte, Greg 
+    state: Montana
+    district: At Large
+    party: R        
+    room: 1419 Longworth
+    phone: (202) 225-3211        
+    committee: Oversight and Government Reform, Natural Resources
+            
+  - name: Gibbs, Bob 
+    state: Ohio
+    district: 7
+    party: R        
+    room: 2446 Rayburn
+    phone: (202) 225-6265        
+    committee: Agriculture, Transportation and Infrastructure
+            
+  - name: Gohmert, Louie 
+    state: Texas
+    district: 1
+    party: R        
+    room: 2243 Rayburn
+    phone: (202) 225-3035        
+    committee: Natural Resources, Judiciary
+            
+  - name: Gomez, Jimmy 
+    state: California
+    district: 34
+    party: D        
+    room: 1226 Longworth
+    phone: (202) 225-6235        
+    committee: Oversight and Government Reform, Natural Resources
+            
+  - name: Gonzalez, Vicente 
+    state: Texas
+    district: 15
+    party: D        
+    room: 113 Cannon
+    phone: (202) 225-2531        
+    committee: Financial Services
+            
+  - name: Gonz·lez-ColÛn,  Jenniffer 
+    state: Puerto Rico
+    district: Resident Commissioner
+    party: R        
+    room: 1529 Longworth
+    phone: (202) 225-2615        
+    committee: Natural Resources, Small Business, Veterans' Affairs
+            
+  - name: Goodlatte, Bob 
+    state: Virginia
+    district: 6
+    party: R        
+    room: 2309 Rayburn
+    phone: (202) 225-5431        
+    committee: Agriculture, Judiciary
+            
+  - name: Gosar, Paul A. 
+    state: Arizona
+    district: 4
+    party: R        
+    room: 2057 Rayburn
+    phone: (202) 225-2315        
+    committee: Oversight and Government Reform, Natural Resources
+            
+  - name: Gottheimer, Josh 
+    state: New Jersey
+    district: 5
+    party: D        
+    room: 213 Cannon
+    phone: (202) 225-4465        
+    committee: Financial Services
+            
+  - name: Gowdy, Trey 
+    state: South Carolina
+    district: 4
+    party: R        
+    room: 2418 Rayburn
+    phone: (202) 225-6030        
+    committee: Oversight and Government Reform, Intelligence, Judiciary
+            
+  - name: Granger, Kay 
+    state: Texas
+    district: 12
+    party: R        
+    room: 1026 Longworth
+    phone: (202) 225-5071        
+    committee: Appropriations
+            
+  - name: Graves, Garret 
+    state: Louisiana
+    district: 6
+    party: R        
+    room: 430 Cannon
+    phone: (202) 225-3901        
+    committee: Natural Resources, Transportation and Infrastructure
+            
+  - name: Graves, Sam 
+    state: Missouri
+    district: 6
+    party: R        
+    room: 1135 Longworth
+    phone: (202) 225-7041        
+    committee: Armed Services, Transportation and Infrastructure
+            
+  - name: Graves, Tom 
+    state: Georgia
+    district: 14
+    party: R        
+    room: 2078 Rayburn
+    phone: (202) 225-5211        
+    committee: Appropriations
+            
+  - name: Green, Al 
+    state: Texas
+    district: 9
+    party: D        
+    room: 2347 Rayburn
+    phone: (202) 225-7508        
+    committee: Financial Services
+            
+  - name: Green, Gene 
+    state: Texas
+    district: 29
+    party: D        
+    room: 2470 Rayburn
+    phone: (202) 225-1688        
+    committee: Energy and Commerce
+            
+  - name: Griffith, Morgan 
+    state: Virginia
+    district: 9
+    party: R        
+    room: 2202 Rayburn
+    phone: (202) 225-3861        
+    committee: Energy and Commerce
+            
+  - name: Grijalva, Raul 
+    state: Arizona
+    district: 3
+    party: D        
+    room: 1511 Longworth
+    phone: (202) 225-2435        
+    committee: Education and the Workforce, Natural Resources
+            
+  - name: Grothman, Glenn 
+    state: Wisconsin
+    district: 6
+    party: R        
+    room: 1217 Longworth
+    phone: (202) 225-2476        
+    committee: Budget, Education and the Workforce, Oversight and Government Reform
+            
+  - name: Guthrie, S. Brett 
+    state: Kentucky
+    district: 2
+    party: R        
+    room: 2434 Rayburn
+    phone: (202) 225-3501        
+    committee: Education and the Workforce, Energy and Commerce
+            
+  - name: Gutierrez, Luis 
+    state: Illinois
+    district: 4
+    party: D        
+    room: 2408 Rayburn
+    phone: (202) 225-8203        
+    committee: Judiciary
+            
+  - name: Hanabusa, Colleen 
+    state: Hawaii
+    district: 1
+    party: D        
+    room: 422 Cannon
+    phone: (202) 225-2726        
+    committee: Armed Services, Natural Resources, Science, Space, and Technology
+            
+  - name: Handel, Karen C. 
+    state: Georgia
+    district: 6
+    party: R        
+    room: 1211 Longworth
+    phone: (202) 225-4501        
+    committee: Education and the Workforce, Judiciary
+            
+  - name: Harper, Gregg 
+    state: Mississippi
+    district: 3
+    party: R        
+    room: 2227 Rayburn
+    phone: (202) 225-5031        
+    committee: House Administration, Energy and Commerce, Joint Committee of Congress on the Library
+            
+  - name: Harris, Andy 
+    state: Maryland
+    district: 1
+    party: R        
+    room: 1533 Longworth
+    phone: (202) 225-5311        
+    committee: Appropriations
+            
+  - name: Hartzler, Vicky 
+    state: Missouri
+    district: 4
+    party: R        
+    room: 2235 Rayburn
+    phone: (202) 225-2876        
+    committee: Agriculture, Armed Services
+            
+  - name: Hastings, Alcee L. 
+    state: Florida
+    district: 20
+    party: D        
+    room: 2353 Rayburn
+    phone: (202) 225-1313        
+    committee: Rules
+            
+  - name: Heck, Denny 
+    state: Washington
+    district: 10
+    party: D        
+    room: 425 Cannon
+    phone: (202) 225-9740        
+    committee: Financial Services, Intelligence
+            
+  - name: Hensarling, Jeb 
+    state: Texas
+    district: 5
+    party: R        
+    room: 2228 Rayburn
+    phone: (202) 225-3484        
+    committee: Financial Services
+            
+  - name: Herrera Beutler, Jaime 
+    state: Washington
+    district: 3
+    party: R        
+    room: 1107 Longworth
+    phone: (202) 225-3536        
+    committee: Appropriations
+            
+  - name: Hice, Jody 
+    state: Georgia
+    district: 10
+    party: R        
+    room: 324 Cannon
+    phone: (202) 225-4101        
+    committee: Armed Services, Oversight and Government Reform, Natural Resources
+            
+  - name: Higgins, Brian 
+    state: New York
+    district: 26
+    party: D        
+    room: 2459 Rayburn
+    phone: (202) 225-3306        
+    committee: Budget, Ways and Means
+            
+  - name: Higgins, Clay 
+    state: Louisiana
+    district: 3
+    party: R        
+    room: 1711 Longworth
+    phone: (202) 225-2031        
+    committee: Homeland Security, Science, Space, and Technology, Veterans' Affairs
+            
+  - name: Hill, French 
+    state: Arkansas
+    district: 2
+    party: R        
+    room: 1229 Longworth
+    phone: (202) 225-2506        
+    committee: Financial Services
+            
+  - name: Himes, Jim 
+    state: Connecticut
+    district: 4
+    party: D        
+    room: 1227 Longworth
+    phone: (202) 225-5541        
+    committee: Financial Services, Intelligence
+            
+  - name: Holding, George 
+    state: North Carolina
+    district: 2
+    party: R        
+    room: 1110 Longworth
+    phone: (202) 225-3032        
+    committee: Ways and Means
+            
+  - name: Hollingsworth, Trey 
+    state: Indiana
+    district: 9
+    party: R        
+    room: 1641 Longworth
+    phone: (202) 225-5315        
+    committee: Financial Services
+            
+  - name: Hoyer, Steny H. 
+    state: Maryland
+    district: 5
+    party: D        
+    room: 1705 Longworth
+    phone: (202) 225-4131        
+    committee: 
+            
+  - name: Hudson, Richard 
+    state: North Carolina
+    district: 8
+    party: R        
+    room: 429 Cannon
+    phone: (202) 225-3715        
+    committee: Energy and Commerce
+            
+  - name: Huffman, Jared 
+    state: California
+    district: 2
+    party: D        
+    room: 1406 Longworth
+    phone: (202) 225-5161        
+    committee: Natural Resources, Transportation and Infrastructure
+            
+  - name: Huizenga, Bill 
+    state: Michigan
+    district: 2
+    party: R        
+    room: 2232 Rayburn
+    phone: (202) 225-4401        
+    committee: Financial Services
+            
+  - name: Hultgren, Randy 
+    state: Illinois
+    district: 14
+    party: R        
+    room: 2455 Rayburn
+    phone: (202) 225-2976        
+    committee: Financial Services, Science, Space, and Technology
+            
+  - name: Hunter, Duncan D. 
+    state: California
+    district: 50
+    party: R        
+    room: 2429 Rayburn
+    phone: (202) 225-5672        
+    committee: Armed Services, Education and the Workforce, Transportation and Infrastructure
+            
+  - name: Hurd, Will 
+    state: Texas
+    district: 23
+    party: R        
+    room: 317 Cannon
+    phone: (202) 225-4511        
+    committee: Oversight and Government Reform, Homeland Security, Intelligence
+            
+  - name: Issa, Darrell 
+    state: California
+    district: 49
+    party: R        
+    room: 2269 Rayburn
+    phone: (202) 225-3906        
+    committee: Foreign Affairs, Oversight and Government Reform, Judiciary
+            
+  - name: Jackson Lee, Sheila 
+    state: Texas
+    district: 18
+    party: D        
+    room: 2187 Rayburn
+    phone: (202) 225-3816        
+    committee: Budget, Homeland Security, Judiciary
+            
+  - name: Jayapal, Pramila 
+    state: Washington
+    district: 7
+    party: D        
+    room: 319 Cannon
+    phone: (202) 225-3106        
+    committee: Budget, Judiciary
+            
+  - name: Jeffries, Hakeem 
+    state: New York
+    district: 8
+    party: D        
+    room: 1607 Longworth
+    phone: (202) 225-5936        
+    committee: Budget, Judiciary
+            
+  - name: Jenkins, Evan 
+    state: West Virginia
+    district: 3
+    party: R        
+    room: 1609 Longworth
+    phone: (202) 225-3452        
+    committee: Appropriations
+            
+  - name: Jenkins, Lynn 
+    state: Kansas
+    district: 2
+    party: R        
+    room: 1526 Longworth
+    phone: (202) 225-6601        
+    committee: Ways and Means
+            
+  - name: Johnson, Bill 
+    state: Ohio
+    district: 6
+    party: R        
+    room: 1710 Longworth
+    phone: (202) 225-5705        
+    committee: Budget, Energy and Commerce
+            
+  - name: Johnson, Eddie Bernice 
+    state: Texas
+    district: 30
+    party: D        
+    room: 2468 Rayburn
+    phone: (202) 225-8885        
+    committee: Transportation and Infrastructure, Science, Space, and Technology
+            
+  - name: Johnson, Henry C. "Hank" Jr. 
+    state: Georgia
+    district: 4
+    party: D        
+    room: 2240 Rayburn
+    phone: (202) 225-1605        
+    committee: Judiciary, Transportation and Infrastructure
+            
+  - name: Johnson, Mike 
+    state: Louisiana
+    district: 4
+    party: R        
+    room: 327 Cannon
+    phone: (202) 225-2777        
+    committee: Natural Resources, Judiciary
+            
+  - name: Johnson, Sam 
+    state: Texas
+    district: 3
+    party: R        
+    room: 2304 Rayburn
+    phone: (202) 225-4201        
+    committee: Joint Committee on Taxation, Ways and Means
+            
+  - name: Jones, Walter B. 
+    state: North Carolina
+    district: 3
+    party: R        
+    room: 2333 Rayburn
+    phone: (202) 225-3415        
+    committee: Armed Services
+            
+  - name: Jordan, Jim 
+    state: Ohio
+    district: 4
+    party: R        
+    room: 2056 Rayburn
+    phone: (202) 225-2676        
+    committee: Oversight and Government Reform, Judiciary
+            
+  - name: Joyce, David 
+    state: Ohio
+    district: 14
+    party: R        
+    room: 1124 Longworth
+    phone: (202) 225-5731        
+    committee: Appropriations
+            
+  - name: Kaptur, Marcy 
+    state: Ohio
+    district: 9
+    party: D        
+    room: 2186 Rayburn
+    phone: (202) 225-4146        
+    committee: Appropriations
+            
+  - name: Katko, John 
+    state: New York
+    district: 24
+    party: R        
+    room: 1620 Longworth
+    phone: (202) 225-3701        
+    committee: Homeland Security, Transportation and Infrastructure
+            
+  - name: Keating, William 
+    state: Massachusetts
+    district: 9
+    party: D        
+    room: 2351 Rayburn
+    phone: (202) 225-3111        
+    committee: Foreign Affairs, Homeland Security
+            
+  - name: Kelly, Mike 
+    state: Pennsylvania
+    district: 3
+    party: R        
+    room: 1707 Longworth
+    phone: (202) 225-5406        
+    committee: Ways and Means
+            
+  - name: Kelly, Robin 
+    state: Illinois
+    district: 2
+    party: D        
+    room: 1239 Longworth
+    phone: (202) 225-0773        
+    committee: Foreign Affairs, Oversight and Government Reform
+            
+  - name: Kelly, Trent 
+    state: Mississippi
+    district: 1
+    party: R        
+    room: 1721 Longworth
+    phone: (202) 225-4306        
+    committee: Agriculture, Armed Services, Small Business
+            
+  - name: Kennedy III, Joseph P. 
+    state: Massachusetts
+    district: 4
+    party: D        
+    room: 434 Cannon
+    phone: (202) 225-5931        
+    committee: Energy and Commerce
+            
+  - name: Khanna, Ro 
+    state: California
+    district: 17
+    party: D        
+    room: 513 Cannon
+    phone: (202) 225-2631        
+    committee: Armed Services, Budget
+            
+  - name: Kihuen, Ruben J. 
+    state: Nevada
+    district: 4
+    party: D        
+    room: 313 Cannon
+    phone: (202) 225-9894        
+    committee: Financial Services
+            
+  - name: Kildee, Daniel 
+    state: Michigan
+    district: 5
+    party: D        
+    room: 227 Cannon
+    phone: (202) 225-3611        
+    committee: Financial Services
+            
+  - name: Kilmer, Derek 
+    state: Washington
+    district: 6
+    party: D        
+    room: 1520 Longworth
+    phone: (202) 225-5916        
+    committee: Appropriations, Joint Select Committee on Budget and APPNs Process Reform
+            
+  - name: Kind, Ron 
+    state: Wisconsin
+    district: 3
+    party: D        
+    room: 1502 Longworth
+    phone: (202) 225-5506        
+    committee: Ways and Means
+            
+  - name: King, Pete 
+    state: New York
+    district: 2
+    party: R        
+    room: 339 Cannon
+    phone: (202) 225-7896        
+    committee: Financial Services, Homeland Security, Intelligence
+            
+  - name: King, Steve 
+    state: Iowa
+    district: 4
+    party: R        
+    room: 2210 Rayburn
+    phone: (202) 225-4426        
+    committee: Agriculture, Judiciary, Small Business
+            
+  - name: Kinzinger, Adam 
+    state: Illinois
+    district: 16
+    party: R        
+    room: 2245 Rayburn
+    phone: (202) 225-3635        
+    committee: Foreign Affairs, Energy and Commerce
+            
+  - name: Knight, Steve 
+    state: California
+    district: 25
+    party: R        
+    room: 1023 Longworth
+    phone: (202) 225-1956        
+    committee: Armed Services, Small Business, Science, Space, and Technology
+            
+  - name: Krishnamoorthi, Raja 
+    state: Illinois
+    district: 8
+    party: D        
+    room: 515 Cannon
+    phone: (202) 225-3711        
+    committee: Education and the Workforce, Oversight and Government Reform
+            
+  - name: Kuster, Ann 
+    state: New Hampshire
+    district: 2
+    party: D        
+    room: 137 Cannon
+    phone: (202) 225-5206        
+    committee: Agriculture, Veterans' Affairs
+            
+  - name: Kustoff, David 
+    state: Tennessee
+    district: 8
+    party: R        
+    room: 508 Cannon
+    phone: (202) 225-4714        
+    committee: Financial Services
+            
+  - name: Labrador, Raul R. 
+    state: Idaho
+    district: 1
+    party: R        
+    room: 1523 Longworth
+    phone: (202) 225-6611        
+    committee: Natural Resources, Judiciary
+            
+  - name: LaHood,Darin 
+    state: Illinois
+    district: 18
+    party: R        
+    room: 1424 Longworth
+    phone: (202) 225-6201        
+    committee: Ways and Means
+            
+  - name: LaMalfa, Doug 
+    state: California
+    district: 1
+    party: R        
+    room: 322 Cannon
+    phone: (202) 225-3076        
+    committee: Agriculture, Natural Resources, Transportation and Infrastructure
+            
+  - name: Lamb, Conor 
+    state: Pennsylvania
+    district: 18
+    party: D        
+    room: 2332 Rayburn
+    phone: (202) 225-2301        
+    committee: Science, Space, and Technology, Veterans' Affairs
+            
+  - name: Lamborn, Doug 
+    state: Colorado
+    district: 5
+    party: R        
+    room: 2402 Rayburn
+    phone: (202) 225-4422        
+    committee: Armed Services, Natural Resources
+            
+  - name: Lance, Leonard 
+    state: New Jersey
+    district: 7
+    party: R        
+    room: 2352 Rayburn
+    phone: (202) 225-5361        
+    committee: Energy and Commerce, Ethics
+            
+  - name: Langevin, Jim 
+    state: Rhode Island
+    district: 2
+    party: D        
+    room: 2077 Rayburn
+    phone: (202) 225-2735        
+    committee: Armed Services, Homeland Security
+            
+  - name: Larsen, Rick 
+    state: Washington
+    district: 2
+    party: D        
+    room: 2113 Rayburn
+    phone: (202) 225-2605        
+    committee: Armed Services, Transportation and Infrastructure
+            
+  - name: Larson, John B. 
+    state: Connecticut
+    district: 1
+    party: D        
+    room: 1501 Longworth
+    phone: (202) 225-2265        
+    committee: Ways and Means
+            
+  - name: Latta, Robert E. 
+    state: Ohio
+    district: 5
+    party: R        
+    room: 2448 Rayburn
+    phone: (202) 225-6405        
+    committee: Energy and Commerce
+            
+  - name: Lawrence, Brenda 
+    state: Michigan
+    district: 14
+    party: D        
+    room: 1213 Longworth
+    phone: (202) 225-5802        
+    committee: Oversight and Government Reform, Transportation and Infrastructure
+            
+  - name: Lawson, Al 
+    state: Florida
+    district: 5
+    party: D        
+    room: 1337 Longworth
+    phone: (202) 225-0123        
+    committee: Agriculture, Small Business
+            
+  - name: Lee, Barbara 
+    state: California
+    district: 13
+    party: D        
+    room: 2267 Rayburn
+    phone: (202) 225-2661        
+    committee: Appropriations, Budget
+            
+  - name: Lesko Debbie 
+    state: Arizona
+    district: 8
+    party: R        
+    room: 2435 Rayburn
+    phone: (202) 225-4576        
+    committee: Homeland Security, Science, Space, and Technology
+            
+  - name: Levin, Sander 
+    state: Michigan
+    district: 9
+    party: D        
+    room: 1236 Longworth
+    phone: (202) 225-4961        
+    committee: Ways and Means
+            
+  - name: Lewis, Jason 
+    state: Minnesota
+    district: 2
+    party: R        
+    room: 418 Cannon
+    phone: (202) 225-2271        
+    committee: Budget, Education and the Workforce, Transportation and Infrastructure
+            
+  - name: Lewis, John 
+    state: Georgia
+    district: 5
+    party: D        
+    room: 343 Cannon
+    phone: (202) 225-3801        
+    committee: Joint Committee on Taxation, Ways and Means
+            
+  - name: Lieu, Ted 
+    state: California
+    district: 33
+    party: D        
+    room: 236 Cannon
+    phone: (202) 225-3976        
+    committee: Foreign Affairs, Judiciary
+            
+  - name: Lipinski, Daniel 
+    state: Illinois
+    district: 3
+    party: D        
+    room: 2346 Rayburn
+    phone: (202) 225-5701        
+    committee: Transportation and Infrastructure, Science, Space, and Technology
+            
+  - name: LoBiondo, Frank 
+    state: New Jersey
+    district: 2
+    party: R        
+    room: 2427 Rayburn
+    phone: (202) 225-6572        
+    committee: Armed Services, Intelligence, Transportation and Infrastructure
+            
+  - name: Loebsack, David 
+    state: Iowa
+    district: 2
+    party: D        
+    room: 1527 Longworth
+    phone: (202) 225-6576        
+    committee: Energy and Commerce
+            
+  - name: Lofgren, Zoe 
+    state: California
+    district: 19
+    party: D        
+    room: 1401 Longworth
+    phone: (202) 225-3072        
+    committee: House Administration, Joint Committee of Congress on the Library, Judiciary, Science, Space, and Technology
+            
+  - name: Long, Billy 
+    state: Missouri
+    district: 7
+    party: R        
+    room: 2454 Rayburn
+    phone: (202) 225-6536        
+    committee: Energy and Commerce
+            
+  - name: Loudermilk, Barry 
+    state: Georgia
+    district: 11
+    party: R        
+    room: 329 Cannon
+    phone: (202) 225-2931        
+    committee: Financial Services, House Administration, Joint Committee of Congress on the Library, Science, Space, and Technology
+            
+  - name: Love, Mia 
+    state: Utah
+    district: 4
+    party: R        
+    room: 217 Cannon
+    phone: (202) 225-3011        
+    committee: Financial Services
+            
+  - name: Lowenthal, Alan 
+    state: California
+    district: 47
+    party: D        
+    room: 125 Cannon
+    phone: (202) 225-7924        
+    committee: Natural Resources, Transportation and Infrastructure
+            
+  - name: Lowey, Nita 
+    state: New York
+    district: 17
+    party: D        
+    room: 2365 Rayburn
+    phone: (202) 225-6506        
+    committee: Appropriations, Joint Select Committee on Budget and APPNs Process Reform
+            
+  - name: Lucas, Frank 
+    state: Oklahoma
+    district: 3
+    party: R        
+    room: 2405 Rayburn
+    phone: (202) 225-5565        
+    committee: Agriculture, Financial Services, Science, Space, and Technology
+            
+  - name: Luetkemeyer, Blaine 
+    state: Missouri
+    district: 3
+    party: R        
+    room: 2230 Rayburn
+    phone: (202) 225-2956        
+    committee: Financial Services, Small Business
+            
+  - name: Lujan, Ben R. 
+    state: New Mexico
+    district: 3
+    party: D        
+    room: 2231 Rayburn
+    phone: (202) 225-6190        
+    committee: Energy and Commerce
+            
+  - name: Lujan Grisham, Michelle 
+    state: New Mexico
+    district: 1
+    party: D        
+    room: 214 Cannon
+    phone: (202) 225-6316        
+    committee: Agriculture, Budget
+            
+  - name: Lynch, Stephen F. 
+    state: Massachusetts
+    district: 8
+    party: D        
+    room: 2268 Rayburn
+    phone: (202) 225-8273        
+    committee: Financial Services, Oversight and Government Reform
+            
+  - name: MacArthur, Tom 
+    state: New Jersey
+    district: 3
+    party: R        
+    room: 506 Cannon
+    phone: (202) 225-4765        
+    committee: Financial Services
+            
+  - name: Maloney, Carolyn 
+    state: New York
+    district: 12
+    party: D        
+    room: 2308 Rayburn
+    phone: (202) 225-7944        
+    committee: Financial Services, Oversight and Government Reform
+            
+  - name: Maloney, Sean Patrick 
+    state: New York
+    district: 18
+    party: D        
+    room: 1027 Longworth
+    phone: (202) 225-5441        
+    committee: Agriculture, Transportation and Infrastructure
+            
+  - name: Marchant, Kenny 
+    state: Texas
+    district: 24
+    party: R        
+    room: 2369 Rayburn
+    phone: (202) 225-6605        
+    committee: Ethics, Ways and Means
+            
+  - name: Marino, Tom 
+    state: Pennsylvania
+    district: 10
+    party: R        
+    room: 2242 Rayburn
+    phone: (202) 225-3731        
+    committee: Foreign Affairs, Judiciary
+            
+  - name: Marshall, Roger 
+    state: Kansas
+    district: 1
+    party: R        
+    room: 312 Cannon
+    phone: (202) 225-2715        
+    committee: Agriculture, Small Business, Science, Space, and Technology
+            
+  - name: Massie, Thomas 
+    state: Kentucky
+    district: 4
+    party: R        
+    room: 2453 Rayburn
+    phone: (202) 225-3465        
+    committee: Oversight and Government Reform, Transportation and Infrastructure, Science, Space, and Technology
+            
+  - name: Mast, Brian 
+    state: Florida
+    district: 18
+    party: R        
+    room: 2182 Rayburn
+    phone: (202) 225-3026        
+    committee: Foreign Affairs, Transportation and Infrastructure, Veterans' Affairs
+            
+  - name: Matsui, Doris O. 
+    state: California
+    district: 6
+    party: D        
+    room: 2311 Rayburn
+    phone: (202) 225-7163        
+    committee: Energy and Commerce
+            
+  - name: McCarthy, Kevin 
+    state: California
+    district: 23
+    party: R        
+    room: 2421 Rayburn
+    phone: (202) 225-2915        
+    committee: 
+            
+  - name: McCaul, Michael T. 
+    state: Texas
+    district: 10
+    party: R        
+    room: 2001 Rayburn
+    phone: (202) 225-2401        
+    committee: Foreign Affairs, Homeland Security
+            
+  - name: McClintock, Tom 
+    state: California
+    district: 4
+    party: R        
+    room: 2312 Rayburn
+    phone: (202) 225-2511        
+    committee: Budget, Natural Resources
+            
+  - name: McCollum, Betty 
+    state: Minnesota
+    district: 4
+    party: D        
+    room: 2256 Rayburn
+    phone: (202) 225-6631        
+    committee: Appropriations
+            
+  - name: McEachin, A. Donald 
+    state: Virginia
+    district: 4
+    party: D        
+    room: 314 Cannon
+    phone: (202) 225-6365        
+    committee: Armed Services, Natural Resources
+            
+  - name: McGovern, James 
+    state: Massachusetts
+    district: 2
+    party: D        
+    room: 438 Cannon
+    phone: (202) 225-6101        
+    committee: Agriculture, Rules
+            
+  - name: McHenry, Patrick T. 
+    state: North Carolina
+    district: 10
+    party: R        
+    room: 2334 Rayburn
+    phone: (202) 225-2576        
+    committee: Financial Services
+            
+  - name: McKinley, David 
+    state: West Virginia
+    district: 1
+    party: R        
+    room: 2239 Rayburn
+    phone: (202) 225-4172        
+    committee: Energy and Commerce
+            
+  - name: McMorris Rodgers, Cathy 
+    state: Washington
+    district: 5
+    party: R        
+    room: 1314 Longworth
+    phone: (202) 225-2006        
+    committee: Energy and Commerce
+            
+  - name: McNerney, Jerry 
+    state: California
+    district: 9
+    party: D        
+    room: 2265 Rayburn
+    phone: (202) 225-1947        
+    committee: Energy and Commerce, Science, Space, and Technology
+            
+  - name: McSally, Martha 
+    state: Arizona
+    district: 2
+    party: R        
+    room: 510 Cannon
+    phone: (202) 225-2542        
+    committee: Armed Services, Homeland Security
+            
+  - name: Meadows, Mark 
+    state: North Carolina
+    district: 11
+    party: R        
+    room: 1024 Longworth
+    phone: (202) 225-6401        
+    committee: Foreign Affairs, Oversight and Government Reform, Transportation and Infrastructure
+            
+  - name: Meehan, Patrick - Vacancy        
+    state: Pennsylvania
+    district: 7
+    party: R        
+    room: 2305 Rayburn
+    phone: (202) 225-2011        
+    committee: 
+            
+  - name: Meeks, Gregory W. 
+    state: New York
+    district: 5
+    party: D        
+    room: 2234 Rayburn
+    phone: (202) 225-3461        
+    committee: Financial Services, Foreign Affairs
+            
+  - name: Meng, Grace 
+    state: New York
+    district: 6
+    party: D        
+    room: 1317 Longworth
+    phone: (202) 225-2601        
+    committee: Appropriations
+            
+  - name: Messer, Luke 
+    state: Indiana
+    district: 6
+    party: R        
+    room: 1230 Longworth
+    phone: (202) 225-3021        
+    committee: Financial Services, Education and the Workforce
+            
+  - name: Mitchell, Paul 
+    state: Michigan
+    district: 10
+    party: R        
+    room: 211 Cannon
+    phone: (202) 225-2106        
+    committee: Armed Services, Oversight and Government Reform, Transportation and Infrastructure
+            
+  - name: Moolenaar, John 
+    state: Michigan
+    district: 4
+    party: R        
+    room: 117 Cannon
+    phone: (202) 225-3561        
+    committee: Appropriations
+            
+  - name: Mooney, Alex 
+    state: West Virginia
+    district: 2
+    party: R        
+    room: 1232 Longworth
+    phone: (202) 225-2711        
+    committee: Financial Services
+            
+  - name: Moore, Gwen 
+    state: Wisconsin
+    district: 4
+    party: D        
+    room: 2252 Rayburn
+    phone: (202) 225-4572        
+    committee: Financial Services
+            
+  - name: Moulton, Seth 
+    state: Massachusetts
+    district: 6
+    party: D        
+    room: 1408 Longworth
+    phone: (202) 225-8020        
+    committee: Armed Services, Budget
+            
+  - name: Mullin, Markwayne 
+    state: Oklahoma
+    district: 2
+    party: R        
+    room: 1113 Longworth
+    phone: (202) 225-2701        
+    committee: Energy and Commerce
+            
+  - name: Murphy, Stephanie 
+    state: Florida
+    district: 7
+    party: D        
+    room: 1237 Longworth
+    phone: (202) 225-4035        
+    committee: Armed Services, Small Business
+            
+  - name: Nadler, Jerrold 
+    state: New York
+    district: 10
+    party: D        
+    room: 2109 Rayburn
+    phone: (202) 225-5635        
+    committee: Judiciary
+            
+  - name: Napolitano, Grace 
+    state: California
+    district: 32
+    party: D        
+    room: 1610 Longworth
+    phone: (202) 225-5256        
+    committee: Natural Resources, Transportation and Infrastructure
+            
+  - name: Neal, Richard E. 
+    state: Massachusetts
+    district: 1
+    party: D        
+    room: 341 Cannon
+    phone: (202) 225-5601        
+    committee: Joint Committee on Taxation, Joint Select Committee on Solvency of MPP, Ways and Means
+            
+  - name: Newhouse, Dan 
+    state: Washington
+    district: 4
+    party: R        
+    room: 1318 Longworth
+    phone: (202) 225-5816        
+    committee: Appropriations, Rules
+            
+  - name: Noem, Kristi 
+    state: South Dakota
+    district: At Large
+    party: R        
+    room: 2457 Rayburn
+    phone: (202) 225-2801        
+    committee: Ways and Means
+            
+  - name: Nolan, Rick 
+    state: Minnesota
+    district: 8
+    party: D        
+    room: 2366 Rayburn
+    phone: (202) 225-6211        
+    committee: Agriculture, Transportation and Infrastructure
+            
+  - name: Norcross, Donald 
+    state: New Jersey
+    district: 1
+    party: D        
+    room: 1531 Longworth
+    phone: (202) 225-6501        
+    committee: Armed Services, Education and the Workforce, Joint Select Committee on Solvency of MPP
+            
+  - name: Norman, Ralph 
+    state: South Carolina
+    district: 5
+    party: R        
+    room: 2350 Rayburn
+    phone: (202) 225-5501        
+    committee: Small Business, Science, Space, and Technology
+            
+  - name: Norton, Eleanor Holmes 
+    state: District of Columbia
+    district: Delegate
+    party: D        
+    room: 2136 Rayburn
+    phone: (202) 225-8050        
+    committee: Oversight and Government Reform, Transportation and Infrastructure
+            
+  - name: Nunes, Devin 
+    state: California
+    district: 22
+    party: R        
+    room: 1013 Longworth
+    phone: (202) 225-2523        
+    committee: Intelligence, Joint Committee on Taxation, Ways and Means
+            
+  - name: O'Halleran, Tom 
+    state: Arizona
+    district: 1
+    party: D        
+    room: 126 Cannon
+    phone: (202) 225-3361        
+    committee: Agriculture, Armed Services
+            
+  - name: Olson, Pete 
+    state: Texas
+    district: 22
+    party: R        
+    room: 2133 Rayburn
+    phone: (202) 225-5951        
+    committee: Energy and Commerce
+            
+  - name: O'Rourke, Beto 
+    state: Texas
+    district: 16
+    party: D        
+    room: 1330 Longworth
+    phone: (202) 225-4831        
+    committee: Armed Services, Veterans' Affairs
+            
+  - name: Palazzo, Steven 
+    state: Mississippi
+    district: 4
+    party: R        
+    room: 2349 Rayburn
+    phone: (202) 225-5772        
+    committee: Appropriations
+            
+  - name: Pallone Jr., Frank 
+    state: New Jersey
+    district: 6
+    party: D        
+    room: 237 Cannon
+    phone: (202) 225-4671        
+    committee: Energy and Commerce
+            
+  - name: Palmer, Gary 
+    state: Alabama
+    district: 6
+    party: R        
+    room: 330 Cannon
+    phone: (202) 225-4921        
+    committee: Budget, Oversight and Government Reform, Science, Space, and Technology
+            
+  - name: Panetta, Jimmy 
+    state: California
+    district: 20
+    party: D        
+    room: 228 Cannon
+    phone: (202) 225-2861        
+    committee: Agriculture, Armed Services
+            
+  - name: Pascrell Jr., Bill 
+    state: New Jersey
+    district: 9
+    party: D        
+    room: 2370 Rayburn
+    phone: (202) 225-5751        
+    committee: Ways and Means
+            
+  - name: Paulsen, Erik 
+    state: Minnesota
+    district: 3
+    party: R        
+    room: 127 Cannon
+    phone: (202) 225-2871        
+    committee: Ways and Means
+            
+  - name: Payne Jr., Donald 
+    state: New Jersey
+    district: 10
+    party: D        
+    room: 132 Cannon
+    phone: (202) 225-3436        
+    committee: Homeland Security, Transportation and Infrastructure
+            
+  - name: Pearce, Steve 
+    state: New Mexico
+    district: 2
+    party: R        
+    room: 2432 Rayburn
+    phone: (202) 225-2365        
+    committee: Financial Services, Natural Resources
+            
+  - name: Pelosi, Nancy 
+    state: California
+    district: 12
+    party: D        
+    room: 233 Cannon
+    phone: (202) 225-4965        
+    committee: 
+            
+  - name: Perlmutter, Ed 
+    state: Colorado
+    district: 7
+    party: D        
+    room: 1410 Longworth
+    phone: (202) 225-2645        
+    committee: Financial Services, Science, Space, and Technology
+            
+  - name: Perry, Scott 
+    state: Pennsylvania
+    district: 4
+    party: R        
+    room: 1207 Longworth
+    phone: (202) 225-5836        
+    committee: Foreign Affairs, Homeland Security, Transportation and Infrastructure
+            
+  - name: Peters, Scott 
+    state: California
+    district: 52
+    party: D        
+    room: 1122 Longworth
+    phone: (202) 225-0508        
+    committee: Energy and Commerce, Veterans' Affairs
+            
+  - name: Peterson, Collin C. 
+    state: Minnesota
+    district: 7
+    party: D        
+    room: 2204 Rayburn
+    phone: (202) 225-2165        
+    committee: Agriculture
+            
+  - name: Pingree, Chellie 
+    state: Maine
+    district: 1
+    party: D        
+    room: 2162 Rayburn
+    phone: (202) 225-6116        
+    committee: Appropriations
+            
+  - name: Pittenger, Robert 
+    state: North Carolina
+    district: 9
+    party: R        
+    room: 224 Cannon
+    phone: (202) 225-1976        
+    committee: Financial Services
+            
+  - name: Plaskett, Stacey 
+    state: Virgin Islands
+    district: Delegate
+    party: D        
+    room: 331 Cannon
+    phone: (202) 225-1790        
+    committee: Agriculture, Oversight and Government Reform, Transportation and Infrastructure
+            
+  - name: Pocan, Mark 
+    state: Wisconsin
+    district: 2
+    party: D        
+    room: 1421 Longworth
+    phone: (202) 225-2906        
+    committee: Appropriations
+            
+  - name: Poe, Ted 
+    state: Texas
+    district: 2
+    party: R        
+    room: 2132 Rayburn
+    phone: (202) 225-6565        
+    committee: Foreign Affairs, Judiciary
+            
+  - name: Poliquin, Bruce 
+    state: Maine
+    district: 2
+    party: R        
+    room: 1208 Longworth
+    phone: (202) 225-6306        
+    committee: Financial Services, Veterans' Affairs
+            
+  - name: Polis, Jared 
+    state: Colorado
+    district: 2
+    party: D        
+    room: 1727 Longworth
+    phone: (202) 225-2161        
+    committee: Education and the Workforce, Rules, Ethics
+            
+  - name: Posey, Bill 
+    state: Florida
+    district: 8
+    party: R        
+    room: 2150 Rayburn
+    phone: (202) 225-3671        
+    committee: Financial Services, Science, Space, and Technology
+            
+  - name: Price, David 
+    state: North Carolina
+    district: 4
+    party: D        
+    room: 2108 Rayburn
+    phone: (202) 225-1784        
+    committee: Appropriations
+            
+  - name: Quigley, Mike 
+    state: Illinois
+    district: 5
+    party: D        
+    room: 2458 Rayburn
+    phone: (202) 225-4061        
+    committee: Appropriations, Intelligence
+            
+  - name: Radewagen, Amata 
+    state: American Samoa
+    district: Delegate
+    party: R        
+    room: 1339 Longworth
+    phone: (202) 225-8577        
+    committee: Natural Resources, Small Business, Veterans' Affairs
+            
+  - name: Raskin, Jamie 
+    state: Maryland
+    district: 8
+    party: D        
+    room: 431 Cannon
+    phone: (202) 225-5341        
+    committee: Oversight and Government Reform, House Administration, Judiciary
+            
+  - name: Ratcliffe, John 
+    state: Texas
+    district: 4
+    party: R        
+    room: 325 Cannon
+    phone: (202) 225-6673        
+    committee: Homeland Security, Judiciary, Ethics
+            
+  - name: Reed, Tom 
+    state: New York
+    district: 23
+    party: R        
+    room: 2437 Rayburn
+    phone: (202) 225-3161        
+    committee: Ways and Means
+            
+  - name: Reichert, David G. 
+    state: Washington
+    district: 8
+    party: R        
+    room: 1127 Longworth
+    phone: (202) 225-7761        
+    committee: Ways and Means
+            
+  - name: Renacci, Jim 
+    state: Ohio
+    district: 16
+    party: R        
+    room: 328 Cannon
+    phone: (202) 225-3876        
+    committee: Budget, Ways and Means
+            
+  - name: Rice, Kathleen 
+    state: New York
+    district: 4
+    party: D        
+    room: 1508 Longworth
+    phone: (202) 225-5516        
+    committee: Homeland Security, Veterans' Affairs
+            
+  - name: Rice, Tom 
+    state: South Carolina
+    district: 7
+    party: R        
+    room: 223 Cannon
+    phone: (202) 225-9895        
+    committee: Ways and Means
+            
+  - name: Richmond, Cedric 
+    state: Louisiana
+    district: 2
+    party: D        
+    room: 420 Cannon
+    phone: (202) 225-6636        
+    committee: Homeland Security, Judiciary
+            
+  - name: Roby, Martha 
+    state: Alabama
+    district: 2
+    party: R        
+    room: 442 Cannon
+    phone: (202) 225-2901        
+    committee: Appropriations, Judiciary
+            
+  - name: Roe, Phil 
+    state: Tennessee
+    district: 1
+    party: R        
+    room: 336 Cannon
+    phone: (202) 225-6356        
+    committee: Education and the Workforce, Joint Select Committee on Solvency of MPP, Veterans' Affairs
+            
+  - name: Rogers, Harold 
+    state: Kentucky
+    district: 5
+    party: R        
+    room: 2406 Rayburn
+    phone: (202) 225-4601        
+    committee: Appropriations
+            
+  - name: Rogers, Mike 
+    state: Alabama
+    district: 3
+    party: R        
+    room: 2184 Rayburn
+    phone: (202) 225-3261        
+    committee: Agriculture, Armed Services, Homeland Security
+            
+  - name: Rohrabacher, Dana 
+    state: California
+    district: 48
+    party: R        
+    room: 2300 Rayburn
+    phone: (202) 225-2415        
+    committee: Foreign Affairs, Science, Space, and Technology
+            
+  - name: Rokita, Todd 
+    state: Indiana
+    district: 4
+    party: R        
+    room: 2439 Rayburn
+    phone: (202) 225-5037        
+    committee: Budget, Education and the Workforce, Transportation and Infrastructure
+            
+  - name: Rooney, Francis 
+    state: Florida
+    district: 19
+    party: R        
+    room: 120 Cannon
+    phone: (202) 225-2536        
+    committee: Education and the Workforce, Foreign Affairs
+            
+  - name: Rooney, Tom 
+    state: Florida
+    district: 17
+    party: R        
+    room: 2160 Rayburn
+    phone: (202) 225-5792        
+    committee: Appropriations, Intelligence
+            
+  - name: Rosen, Jacky 
+    state: Nevada
+    district: 3
+    party: D        
+    room: 413 Cannon
+    phone: (202) 225-3252        
+    committee: Armed Services, Science, Space, and Technology
+            
+  - name: Roskam, Peter J. 
+    state: Illinois
+    district: 6
+    party: R        
+    room: 2246 Rayburn
+    phone: (202) 225-4561        
+    committee: Ways and Means
+            
+  - name: Ros-Lehtinen, Ileana 
+    state: Florida
+    district: 27
+    party: R        
+    room: 2206 Rayburn
+    phone: (202) 225-3931        
+    committee: Foreign Affairs, Intelligence
+            
+  - name: Ross, Dennis 
+    state: Florida
+    district: 15
+    party: R        
+    room: 436 Cannon
+    phone: (202) 225-1252        
+    committee: Financial Services, Oversight and Government Reform
+            
+  - name: Rothfus, Keith 
+    state: Pennsylvania
+    district: 12
+    party: R        
+    room: 1205 Longworth
+    phone: (202) 225-2065        
+    committee: Financial Services, Judiciary
+            
+  - name: Rouzer, David 
+    state: North Carolina
+    district: 7
+    party: R        
+    room: 424 Cannon
+    phone: (202) 225-2731        
+    committee: Agriculture, Transportation and Infrastructure
+            
+  - name: Roybal-Allard, Lucille 
+    state: California
+    district: 40
+    party: D        
+    room: 2083 Rayburn
+    phone: (202) 225-1766        
+    committee: Appropriations, Joint Select Committee on Budget and APPNs Process Reform
+            
+  - name: Royce, Ed 
+    state: California
+    district: 39
+    party: R        
+    room: 2310 Rayburn
+    phone: (202) 225-4111        
+    committee: Financial Services, Foreign Affairs
+            
+  - name: Ruiz, Raul 
+    state: California
+    district: 36
+    party: D        
+    room: 1319 Longworth
+    phone: (202) 225-5330        
+    committee: Energy and Commerce
+            
+  - name: Ruppersberger, C. A. Dutch 
+    state: Maryland
+    district: 2
+    party: D        
+    room: 2416 Rayburn
+    phone: (202) 225-3061        
+    committee: Appropriations
+            
+  - name: Rush, Bobby L. 
+    state: Illinois
+    district: 1
+    party: D        
+    room: 2188 Rayburn
+    phone: (202) 225-4372        
+    committee: Energy and Commerce
+            
+  - name: Russell, Steve 
+    state: Oklahoma
+    district: 5
+    party: R        
+    room: 128 Cannon
+    phone: (202) 225-2132        
+    committee: Armed Services, Oversight and Government Reform
+            
+  - name: Rutherford, John 
+    state: Florida
+    district: 4
+    party: R        
+    room: 230 Cannon
+    phone: (202) 225-2501        
+    committee: Appropriations, Judiciary
+            
+  - name: Ryan, Paul D. 
+    state: Wisconsin
+    district: 1
+    party: R        
+    room: 1233 Longworth
+    phone: (202) 225-3031        
+    committee: 
+            
+  - name: Ryan, Tim 
+    state: Ohio
+    district: 13
+    party: D        
+    room: 1126 Longworth
+    phone: (202) 225-5261        
+    committee: Appropriations
+            
+  - name: Sablan, Gregorio 
+    state: Northern Mariana Islands
+    district: Delegate
+    party: D        
+    room: 2411 Rayburn
+    phone: (202) 225-2646        
+    committee: Education and the Workforce, Natural Resources
+            
+  - name: S·nchez, Linda 
+    state: California
+    district: 38
+    party: D        
+    room: 2329 Rayburn
+    phone: (202) 225-6676        
+    committee: Ways and Means
+            
+  - name: Sanford, Mark 
+    state: South Carolina
+    district: 1
+    party: R        
+    room: 2211 Rayburn
+    phone: (202) 225-3176        
+    committee: Budget, Oversight and Government Reform, Transportation and Infrastructure
+            
+  - name: Sarbanes, John P. 
+    state: Maryland
+    district: 3
+    party: D        
+    room: 2444 Rayburn
+    phone: (202) 225-4016        
+    committee: Oversight and Government Reform, Energy and Commerce
+            
+  - name: Scalise, Steve 
+    state: Louisiana
+    district: 1
+    party: R        
+    room: 2338 Rayburn
+    phone: (202) 225-3015        
+    committee: Energy and Commerce
+            
+  - name: Schakowsky, Jan 
+    state: Illinois
+    district: 9
+    party: D        
+    room: 2367 Rayburn
+    phone: (202) 225-2111        
+    committee: Budget, Energy and Commerce
+            
+  - name: Schiff, Adam 
+    state: California
+    district: 28
+    party: D        
+    room: 2372 Rayburn
+    phone: (202) 225-4176        
+    committee: Intelligence
+            
+  - name: Schneider, Bradley 
+    state: Illinois
+    district: 10
+    party: D        
+    room: 1432 Longworth
+    phone: (202) 225-4835        
+    committee: Foreign Affairs, Judiciary, Small Business
+            
+  - name: Schrader, Kurt 
+    state: Oregon
+    district: 5
+    party: D        
+    room: 2431 Rayburn
+    phone: (202) 225-5711        
+    committee: Energy and Commerce
+            
+  - name: Schweikert, David 
+    state: Arizona
+    district: 6
+    party: R        
+    room: 2059 Rayburn
+    phone: (202) 225-2190        
+    committee: Joint Select Committee on Solvency of MPP, Ways and Means
+            
+  - name: Scott, Austin 
+    state: Georgia
+    district: 8
+    party: R        
+    room: 2417 Rayburn
+    phone: (202) 225-6531        
+    committee: Agriculture, Armed Services
+            
+  - name: Scott, David 
+    state: Georgia
+    district: 13
+    party: D        
+    room: 225 Cannon
+    phone: (202) 225-2939        
+    committee: Agriculture, Financial Services
+            
+  - name: Scott, Robert C. 
+    state: Virginia
+    district: 3
+    party: D        
+    room: 1201 Longworth
+    phone: (202) 225-8351        
+    committee: Education and the Workforce, Joint Select Committee on Solvency of MPP
+            
+  - name: Sensenbrenner, F. James 
+    state: Wisconsin
+    district: 5
+    party: R        
+    room: 2449 Rayburn
+    phone: (202) 225-5101        
+    committee: Foreign Affairs, Judiciary
+            
+  - name: Serrano, JosÈ E. 
+    state: New York
+    district: 15
+    party: D        
+    room: 2354 Rayburn
+    phone: (202) 225-4361        
+    committee: Appropriations
+            
+  - name: Sessions, Pete 
+    state: Texas
+    district: 32
+    party: R        
+    room: 2233 Rayburn
+    phone: (202) 225-2231        
+    committee: Joint Select Committee on Budget and APPNs Process Reform, Rules
+            
+  - name: Sewell, Terri A. 
+    state: Alabama
+    district: 7
+    party: D        
+    room: 2201 Rayburn
+    phone: (202) 225-2665        
+    committee: Intelligence, Ways and Means
+            
+  - name: Shea-Porter, Carol 
+    state: New Hampshire
+    district: 1
+    party: D        
+    room: 1530 Longworth
+    phone: (202) 225-5456        
+    committee: Armed Services, Education and the Workforce
+            
+  - name: Sherman, Brad 
+    state: California
+    district: 30
+    party: D        
+    room: 2181 Rayburn
+    phone: (202) 225-5911        
+    committee: Financial Services, Foreign Affairs
+            
+  - name: Shimkus, John 
+    state: Illinois
+    district: 15
+    party: R        
+    room: 2217 Rayburn
+    phone: (202) 225-5271        
+    committee: Energy and Commerce
+            
+  - name: Shuster, Bill 
+    state: Pennsylvania
+    district: 9
+    party: R        
+    room: 2079 Rayburn
+    phone: (202) 225-2431        
+    committee: Armed Services, Transportation and Infrastructure
+            
+  - name: Simpson, Mike 
+    state: Idaho
+    district: 2
+    party: R        
+    room: 2084 Rayburn
+    phone: (202) 225-5531        
+    committee: Appropriations
+            
+  - name: Sinema, Kyrsten 
+    state: Arizona
+    district: 9
+    party: D        
+    room: 1725 Longworth
+    phone: (202) 225-9888        
+    committee: Financial Services
+            
+  - name: Sires, Albio 
+    state: New Jersey
+    district: 8
+    party: D        
+    room: 2342 Rayburn
+    phone: (202) 225-7919        
+    committee: Foreign Affairs, Transportation and Infrastructure
+            
+  - name: Slaughter, Louise McIntosh - Vacancy        
+    state: New York
+    district: 25
+    party: D        
+    room: 2469 Rayburn
+    phone: (202) 225-3615        
+    committee: 
+            
+  - name: Smith, Adam 
+    state: Washington
+    district: 9
+    party: D        
+    room: 2264 Rayburn
+    phone: (202) 225-8901        
+    committee: Armed Services
+            
+  - name: Smith, Adrian 
+    state: Nebraska
+    district: 3
+    party: R        
+    room: 320 Cannon
+    phone: (202) 225-6435        
+    committee: House Administration, Ways and Means
+            
+  - name: Smith, Chris 
+    state: New Jersey
+    district: 4
+    party: R        
+    room: 2373 Rayburn
+    phone: (202) 225-3765        
+    committee: Foreign Affairs
+            
+  - name: Smith, Jason 
+    state: Missouri
+    district: 8
+    party: R        
+    room: 1118 Longworth
+    phone: (202) 225-4404        
+    committee: Budget, Ways and Means
+            
+  - name: Smith, Lamar 
+    state: Texas
+    district: 21
+    party: R        
+    room: 2409 Rayburn
+    phone: (202) 225-4236        
+    committee: Homeland Security, Judiciary, Science, Space, and Technology
+            
+  - name: Smucker, Lloyd 
+    state: Pennsylvania
+    district: 16
+    party: R        
+    room: 516 Cannon
+    phone: (202) 225-2411        
+    committee: Budget, Education and the Workforce, Transportation and Infrastructure
+            
+  - name: Soto, Darren 
+    state: Florida
+    district: 9
+    party: D        
+    room: 1429 Longworth
+    phone: (202) 225-9889        
+    committee: Agriculture, Natural Resources
+            
+  - name: Speier, Jackie 
+    state: California
+    district: 14
+    party: D        
+    room: 2465 Rayburn
+    phone: (202) 225-3531        
+    committee: Armed Services, Intelligence
+            
+  - name: Stefanik, Elise 
+    state: New York
+    district: 21
+    party: R        
+    room: 318 Cannon
+    phone: (202) 225-4611        
+    committee: Armed Services, Education and the Workforce, Intelligence
+            
+  - name: Stewart, Chris 
+    state: Utah
+    district: 2
+    party: R        
+    room: 323 Cannon
+    phone: (202) 225-9730        
+    committee: Appropriations, Intelligence
+            
+  - name: Stivers, Steve 
+    state: Ohio
+    district: 15
+    party: R        
+    room: 1022 Longworth
+    phone: (202) 225-2015        
+    committee: Financial Services
+            
+  - name: Suozzi, Thomas 
+    state: New York
+    district: 3
+    party: D        
+    room: 226 Cannon
+    phone: (202) 225-3335        
+    committee: Armed Services, Foreign Affairs
+            
+  - name: Swalwell, Eric 
+    state: California
+    district: 15
+    party: D        
+    room: 129 Cannon
+    phone: (202) 225-5065        
+    committee: Intelligence, Judiciary
+            
+  - name: Takano, Mark 
+    state: California
+    district: 41
+    party: D        
+    room: 1507 Longworth
+    phone: (202) 225-2305        
+    committee: Education and the Workforce, Science, Space, and Technology, Veterans' Affairs
+            
+  - name: Taylor, Scott 
+    state: Virginia
+    district: 2
+    party: R        
+    room: 412 Cannon
+    phone: (202) 225-4215        
+    committee: Appropriations
+            
+  - name: Tenney, Claudia 
+    state: New York
+    district: 22
+    party: R        
+    room: 512 Cannon
+    phone: (202) 225-3665        
+    committee: Financial Services
+            
+  - name: Thompson, Bennie G. 
+    state: Mississippi
+    district: 2
+    party: D        
+    room: 2466 Rayburn
+    phone: (202) 225-5876        
+    committee: Homeland Security
+            
+  - name: Thompson, Glenn W. 
+    state: Pennsylvania
+    district: 5
+    party: R        
+    room: 124 Cannon
+    phone: (202) 225-5121        
+    committee: Agriculture, Education and the Workforce, Natural Resources
+            
+  - name: Thompson, Mike 
+    state: California
+    district: 5
+    party: D        
+    room: 231 Cannon
+    phone: (202) 225-3311        
+    committee: Ways and Means
+            
+  - name: Thornberry, Mac 
+    state: Texas
+    district: 13
+    party: R        
+    room: 2208 Rayburn
+    phone: (202) 225-3706        
+    committee: Armed Services
+            
+  - name: Tiberi, Patrick J. - Vacancy        
+    state: Ohio
+    district: 12
+    party: R        
+    room: 1203 Longworth
+    phone: (202) 225-5355        
+    committee: 
+            
+  - name: Tipton, Scott 
+    state: Colorado
+    district: 3
+    party: R        
+    room: 218 Cannon
+    phone: (202) 225-4761        
+    committee: Financial Services, Natural Resources
+            
+  - name: Titus, Dina 
+    state: Nevada
+    district: 1
+    party: D        
+    room: 2464 Rayburn
+    phone: (202) 225-5965        
+    committee: Foreign Affairs, Transportation and Infrastructure
+            
+  - name: Tonko, Paul D. 
+    state: New York
+    district: 20
+    party: D        
+    room: 2463 Rayburn
+    phone: (202) 225-5076        
+    committee: Energy and Commerce, Science, Space, and Technology
+            
+  - name: Torres, Norma 
+    state: California
+    district: 35
+    party: D        
+    room: 1713 Longworth
+    phone: (202) 225-6161        
+    committee: Foreign Affairs, Rules
+            
+  - name: Trott, Dave 
+    state: Michigan
+    district: 11
+    party: R        
+    room: 1722 Longworth
+    phone: (202) 225-8171        
+    committee: Financial Services
+            
+  - name: Tsongas, Niki 
+    state: Massachusetts
+    district: 3
+    party: D        
+    room: 1714 Longworth
+    phone: (202) 225-3411        
+    committee: Armed Services, Natural Resources
+            
+  - name: Turner, Michael 
+    state: Ohio
+    district: 10
+    party: R        
+    room: 2368 Rayburn
+    phone: (202) 225-6465        
+    committee: Armed Services, Intelligence
+            
+  - name: Upton, Fred 
+    state: Michigan
+    district: 6
+    party: R        
+    room: 2183 Rayburn
+    phone: (202) 225-3761        
+    committee: Energy and Commerce
+            
+  - name: Valadao, David 
+    state: California
+    district: 21
+    party: R        
+    room: 1728 Longworth
+    phone: (202) 225-4695        
+    committee: Appropriations
+            
+  - name: Vargas, Juan 
+    state: California
+    district: 51
+    party: D        
+    room: 1605 Longworth
+    phone: (202) 225-8045        
+    committee: Financial Services
+            
+  - name: Veasey, Marc 
+    state: Texas
+    district: 33
+    party: D        
+    room: 1519 Longworth
+    phone: (202) 225-9897        
+    committee: Armed Services, Science, Space, and Technology
+            
+  - name: Vela, Filemon 
+    state: Texas
+    district: 34
+    party: D        
+    room: 437 Cannon
+    phone: (202) 225-9901        
+    committee: Agriculture, Homeland Security
+            
+  - name: Vel·zquez, Nydia M. 
+    state: New York
+    district: 7
+    party: D        
+    room: 2302 Rayburn
+    phone: (202) 225-2361        
+    committee: Financial Services, Natural Resources, Small Business
+            
+  - name: Visclosky, Peter 
+    state: Indiana
+    district: 1
+    party: D        
+    room: 2328 Rayburn
+    phone: (202) 225-2461        
+    committee: Appropriations
+            
+  - name: Wagner, Ann 
+    state: Missouri
+    district: 2
+    party: R        
+    room: 435 Cannon
+    phone: (202) 225-1621        
+    committee: Financial Services, Foreign Affairs
+            
+  - name: Walberg, Tim 
+    state: Michigan
+    district: 7
+    party: R        
+    room: 2436 Rayburn
+    phone: (202) 225-6276        
+    committee: Education and the Workforce, Energy and Commerce
+            
+  - name: Walden, Greg 
+    state: Oregon
+    district: 2
+    party: R        
+    room: 2185 Rayburn
+    phone: (202) 225-6730        
+    committee: Energy and Commerce
+            
+  - name: Walker, Mark 
+    state: North Carolina
+    district: 6
+    party: R        
+    room: 1305 Longworth
+    phone: (202) 225-3065        
+    committee: Oversight and Government Reform, House Administration
+            
+  - name: Walorski, Jackie 
+    state: Indiana
+    district: 2
+    party: R        
+    room: 419 Cannon
+    phone: (202) 225-3915        
+    committee: Ways and Means
+            
+  - name: Walters, Mimi 
+    state: California
+    district: 45
+    party: R        
+    room: 215 Cannon
+    phone: (202) 225-5611        
+    committee: Energy and Commerce, Ethics
+            
+  - name: Walz, Timothy J. 
+    state: Minnesota
+    district: 1
+    party: D        
+    room: 2313 Rayburn
+    phone: (202) 225-2472        
+    committee: Agriculture, Veterans' Affairs
+            
+  - name: Wasserman Schultz, Debbie 
+    state: Florida
+    district: 23
+    party: D        
+    room: 1114 Longworth
+    phone: (202) 225-7931        
+    committee: Appropriations, Budget
+            
+  - name: Waters, Maxine 
+    state: California
+    district: 43
+    party: D        
+    room: 2221 Rayburn
+    phone: (202) 225-2201        
+    committee: Financial Services
+            
+  - name: Watson Coleman, Bonnie 
+    state: New Jersey
+    district: 12
+    party: D        
+    room: 1535 Longworth
+    phone: (202) 225-5801        
+    committee: Oversight and Government Reform, Homeland Security
+            
+  - name: Weber, Randy 
+    state: Texas
+    district: 14
+    party: R        
+    room: 1708 Longworth
+    phone: (202) 225-2831        
+    committee: Transportation and Infrastructure, Science, Space, and Technology
+            
+  - name: Webster, Daniel 
+    state: Florida
+    district: 11
+    party: R        
+    room: 1210 Longworth
+    phone: (202) 225-1002        
+    committee: Natural Resources, Transportation and Infrastructure, Science, Space, and Technology
+            
+  - name: Welch, Peter 
+    state: Vermont
+    district: At Large
+    party: D        
+    room: 2303 Rayburn
+    phone: (202) 225-4115        
+    committee: Oversight and Government Reform, Energy and Commerce
+            
+  - name: Wenstrup, Brad 
+    state: Ohio
+    district: 2
+    party: R        
+    room: 2419 Rayburn
+    phone: (202) 225-3164        
+    committee: Intelligence, Ways and Means
+            
+  - name: Westerman, Bruce 
+    state: Arkansas
+    district: 4
+    party: R        
+    room: 130 Cannon
+    phone: (202) 225-3772        
+    committee: Budget, Natural Resources, Transportation and Infrastructure
+            
+  - name: Williams, Roger 
+    state: Texas
+    district: 25
+    party: R        
+    room: 1323 Longworth
+    phone: (202) 225-9896        
+    committee: Financial Services
+            
+  - name: Wilson, Frederica 
+    state: Florida
+    district: 24
+    party: D        
+    room: 2445 Rayburn
+    phone: (202) 225-4506        
+    committee: Education and the Workforce, Transportation and Infrastructure
+            
+  - name: Wilson, Joe 
+    state: South Carolina
+    district: 2
+    party: R        
+    room: 1436 Longworth
+    phone: (202) 225-2452        
+    committee: Armed Services, Education and the Workforce, Foreign Affairs
+            
+  - name: Wittman, Robert J. 
+    state: Virginia
+    district: 1
+    party: R        
+    room: 2055 Rayburn
+    phone: (202) 225-4261        
+    committee: Armed Services, Natural Resources
+            
+  - name: Womack, Steve 
+    state: Arkansas
+    district: 3
+    party: R        
+    room: 2412 Rayburn
+    phone: (202) 225-4301        
+    committee: Appropriations, Budget, Joint Select Committee on Budget and APPNs Process Reform
+            
+  - name: Woodall, Robert 
+    state: Georgia
+    district: 7
+    party: R        
+    room: 1724 Longworth
+    phone: (202) 225-4272        
+    committee: Budget, Joint Select Committee on Budget and APPNs Process Reform, Transportation and Infrastructure, Rules
+            
+  - name: Yarmuth, John A. 
+    state: Kentucky
+    district: 3
+    party: D        
+    room: 131 Cannon
+    phone: (202) 225-5401        
+    committee: Budget, Joint Select Committee on Budget and APPNs Process Reform
+            
+  - name: Yoder, Kevin 
+    state: Kansas
+    district: 3
+    party: R        
+    room: 2433 Rayburn
+    phone: (202) 225-2865        
+    committee: Appropriations, Joint Committee of Congress on the Library
+            
+  - name: Yoho, Ted 
+    state: Florida
+    district: 3
+    party: R        
+    room: 511 Cannon
+    phone: (202) 225-5744        
+    committee: Agriculture, Foreign Affairs
+            
+  - name: Young, David 
+    state: Iowa
+    district: 3
+    party: R        
+    room: 240 Cannon
+    phone: (202) 225-5476        
+    committee: Appropriations
+            
+  - name: Young, Don 
+    state: Alaska
+    district: At Large
+    party: R        
+    room: 2314 Rayburn
+    phone: (202) 225-5765        
+    committee: Natural Resources, Transportation and Infrastructure
+            
+  - name: Zeldin, Lee 
+    state: New York
+    district: 1
+    party: R        
+    room: 1517 Longworth
+    phone: (202) 225-3826        
+    committee: Financial Services, Foreign Affairs
+            
