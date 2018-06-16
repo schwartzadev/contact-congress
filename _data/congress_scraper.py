@@ -162,6 +162,7 @@ def get_senate_info():
         party = s.find('party').text
         state = s.find('state').text
         address = s.find('address').text
+        address = address.replace(' Senate Office Building Washington DC 20510', '')
         phone = s.find('phone').text
         email = s.find('email').text
         website = s.find('website').text
