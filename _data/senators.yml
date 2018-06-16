@@ -196,7 +196,6 @@
     party: R
     location: TX
     address: 517 Hart
-        
     phone: (202) 224-2934
     contact: https://www.cornyn.senate.gov/contact
     website: http://www.cornyn.senate.gov/   
@@ -217,7 +216,6 @@
     party: R
     location: AR
     address: 124 Russell
-        
     phone: (202) 224-2353
     contact: http://www.cotton.senate.gov/?p=contact
     website: http://www.cotton.senate.gov   
@@ -588,7 +586,6 @@
     party: D
     location: MA
     address: 255 Dirksen
-        
     phone: (202) 224-2742
     contact: https://www.markey.senate.gov/contact
     website: http://www.markey.senate.gov/   
@@ -998,8 +995,7 @@
     firstname: Todd
     party: R
     location: IN
-    address: 400 Russell Senate Office Building Washington DC
-      20510
+    address: 400 Russell
     phone: (202) 224-5623
     contact: https://www.young.senate.gov/contact
     website: http://www.young.senate.gov   

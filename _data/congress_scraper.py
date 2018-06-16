@@ -162,7 +162,9 @@ def get_senate_info():
         party = s.find('party').text
         state = s.find('state').text
         address = s.find('address').text
-        address = address.replace(' Senate Office Building Washington DC 20510', '')
+        address = address.replace('\n', ' ')
+        address = re.sub(' +', ' ', address)
+        address = address.replace('Senate Office Building Washington DC 20510', '')
         phone = s.find('phone').text
         email = s.find('email').text
         website = s.find('website').text
@@ -177,7 +179,7 @@ def get_senate_info():
     phone: {}
     contact: {}
     website: {}   
-        """.format(full, last, first, party, state, address, phone, email, website)
+        """.format(full, last, first, party, state, address.rstrip(), phone, email, website)
         yml_info += info
 
     # logger.debug(yml_info)
