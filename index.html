@@ -56,11 +56,6 @@ title: Contact Congress
         {% endif %}
         <td>{{ senator.phone }}</td>
         <td>{{ senator.address }}</td>
-        {% if senator.special %}
-        <td>{{ senator.special }}</td>
-        {% else %}
-        <td></td>
-        {% endif %}
       </tr>
       {% endfor %}
       {% for rep in site.data.hor %}
@@ -77,7 +72,6 @@ title: Contact Congress
         {% endif %}
         <td>{{ rep.phone }}</td>     
         <td>{{ rep.room }}</td>
-        <td>{{ rep.special }}</td>
       </tr>
       {% endfor %}
     </tbody>
