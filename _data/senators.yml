@@ -37,8 +37,18 @@
     location: CO
     address: 261 Russell
     phone: (202) 224-5852
-    contact: https://www.bennet.senate.gov/public/index.cfm/write-to-michael
+    contact: https://www.bennet.senate.gov/public/index.cfm/contact
     website: http://www.bennet.senate.gov   
+        
+  - name: Blackburn (R-TN)
+    last: Blackburn
+    firstname: Marsha
+    party: R
+    location: TN
+    address: B40B Dirksen
+    phone: (202) 224-3344
+    contact: None
+    website: https://www.blackburn.senate.gov   
         
   - name: Blumenthal (D-CT)
     last: Blumenthal
@@ -80,12 +90,22 @@
     contact: https://www.boozman.senate.gov/public/index.cfm/contact
     website: http://www.boozman.senate.gov/   
         
+  - name: Braun (R-IN)
+    last: Braun
+    firstname: Mike
+    party: R
+    location: IN
+    address: B85 Russell
+    phone: (202) 224-4814
+    contact: None
+    website: https://www.braun.senate.gov   
+        
   - name: Brown (D-OH)
     last: Brown
     firstname: Sherrod
     party: D
     location: OH
-    address: 713 Hart
+    address: 503 Hart
     phone: (202) 224-2315
     contact: http://www.brown.senate.gov/contact/
     website: http://www.brown.senate.gov/   
@@ -180,16 +200,6 @@
     contact: https://www.coons.senate.gov/contact
     website: http://www.coons.senate.gov/   
         
-  - name: Corker (R-TN)
-    last: Corker
-    firstname: Bob
-    party: R
-    location: TN
-    address: 425 Dirksen
-    phone: (202) 224-3344
-    contact: https://www.corker.senate.gov/public/index.cfm/emailme
-    website: http://www.corker.senate.gov/   
-        
   - name: Cornyn (R-TX)
     last: Cornyn
     firstname: John
@@ -220,6 +230,16 @@
     contact: http://www.cotton.senate.gov/?p=contact
     website: http://www.cotton.senate.gov   
         
+  - name: Cramer (R-ND)
+    last: Cramer
+    firstname: Kevin
+    party: R
+    location: ND
+    address: B40C Dirksen
+    phone: (202) 224-2043
+    contact: None
+    website: https://www.cramer.senate.gov   
+        
   - name: Crapo (R-ID)
     last: Crapo
     firstname: Mike
@@ -249,16 +269,6 @@
     phone: (202) 224-2651
     contact: https://www.daines.senate.gov/connect/email-steve
     website: http://www.daines.senate.gov   
-        
-  - name: Donnelly (D-IN)
-    last: Donnelly
-    firstname: Joe
-    party: D
-    location: IN
-    address: 720 Hart
-    phone: (202) 224-4814
-    contact: https://www.donnelly.senate.gov/contact/email-joe
-    website: http://www.donnelly.senate.gov   
         
   - name: Duckworth (D-IL)
     last: Duckworth
@@ -320,16 +330,6 @@
     contact: http://www.fischer.senate.gov/public/index.cfm/contact
     website: http://www.fischer.senate.gov   
         
-  - name: Flake (R-AZ)
-    last: Flake
-    firstname: Jeff
-    party: R
-    location: AZ
-    address: 413 Russell
-    phone: (202) 224-4521
-    contact: https://www.flake.senate.gov/public/index.cfm/contact-jeff
-    website: http://www.flake.senate.gov   
-        
   - name: Gardner (R-CO)
     last: Gardner
     firstname: Cory
@@ -390,15 +390,15 @@
     contact: https://www.hassan.senate.gov/content/contact-senator
     website: http://www.hassan.senate.gov   
         
-  - name: Hatch (R-UT)
-    last: Hatch
-    firstname: Orrin G.
+  - name: Hawley (R-MO)
+    last: Hawley
+    firstname: Josh
     party: R
-    location: UT
-    address: 104 Hart
-    phone: (202) 224-5251
-    contact: http://www.hatch.senate.gov/public/index.cfm/contact?p=Email-Orrin
-    website: http://www.hatch.senate.gov/   
+    location: MO
+    address: B40A Dirksen
+    phone: (202) 224-6154
+    contact: None
+    website: https://www.hawley.senate.gov   
         
   - name: Heinrich (D-NM)
     last: Heinrich
@@ -409,26 +409,6 @@
     phone: (202) 224-5521
     contact: http://www.heinrich.senate.gov/contact
     website: http://www.heinrich.senate.gov/   
-        
-  - name: Heitkamp (D-ND)
-    last: Heitkamp
-    firstname: Heidi
-    party: D
-    location: ND
-    address: 516 Hart
-    phone: (202) 224-2043
-    contact: http://www.heitkamp.senate.gov/public/index.cfm/contact
-    website: http://www.heitkamp.senate.gov/   
-        
-  - name: Heller (R-NV)
-    last: Heller
-    firstname: Dean
-    party: R
-    location: NV
-    address: 324 Hart
-    phone: (202) 224-6244
-    contact: http://www.heller.senate.gov/public/index.cfm/contact-form
-    website: http://www.heller.senate.gov/   
         
   - name: Hirono (D-HI)
     last: Hirono
@@ -590,26 +570,6 @@
     contact: https://www.markey.senate.gov/contact
     website: http://www.markey.senate.gov/   
         
-  - name: McCain (R-AZ)
-    last: McCain
-    firstname: John
-    party: R
-    location: AZ
-    address: 218 Russell
-    phone: (202) 224-2235
-    contact: https://www.mccain.senate.gov/public/index.cfm/contact-form
-    website: http://www.mccain.senate.gov/   
-        
-  - name: McCaskill (D-MO)
-    last: McCaskill
-    firstname: Claire
-    party: D
-    location: MO
-    address: 503 Hart
-    phone: (202) 224-6154
-    contact: http://www.mccaskill.senate.gov/contact
-    website: http://www.mccaskill.senate.gov/   
-        
   - name: McConnell (R-KY)
     last: McConnell
     firstname: Mitch
@@ -619,6 +579,16 @@
     phone: (202) 224-2541
     contact: http://www.mcconnell.senate.gov/public/index.cfm?p=contact
     website: http://www.mcconnell.senate.gov/   
+        
+  - name: McSally (R-AZ)
+    last: McSally
+    firstname: Martha
+    party: R
+    location: AZ
+    address: B40D Dirksen
+    phone: 202-224-2235
+    contact: mailto:contact@mcsally.senate.gov
+    website: https://www.mcsally.senate.gov   
         
   - name: Menendez (D-NJ)
     last: Menendez
@@ -679,16 +649,6 @@
     phone: (202) 224-2621
     contact: http://www.murray.senate.gov/public/index.cfm/contactme
     website: http://www.murray.senate.gov/   
-        
-  - name: Nelson (D-FL)
-    last: Nelson
-    firstname: Bill
-    party: D
-    location: FL
-    address: 716 Hart
-    phone: (202) 224-5274
-    contact: https://www.billnelson.senate.gov/contact-bill
-    website: http://www.billnelson.senate.gov/   
         
   - name: Paul (R-KY)
     last: Paul
@@ -760,6 +720,26 @@
     contact: https://www.roberts.senate.gov/public/?p=EmailPat
     website: http://www.roberts.senate.gov/   
         
+  - name: Romney (R-UT)
+    last: Romney
+    firstname: Mitt
+    party: R
+    location: UT
+    address: B33 Russell
+    phone: (202) 224-5251
+    contact: None
+    website: https://www.romney.senate.gov   
+        
+  - name: Rosen (D-NV)
+    last: Rosen
+    firstname: Jacky
+    party: D
+    location: NV
+    address: G12 Dirksen
+    phone: (202) 224-6244
+    contact: None
+    website: https://www.rosen.senate.gov   
+        
   - name: Rounds (R-SD)
     last: Rounds
     firstname: Mike
@@ -820,6 +800,16 @@
     contact: https://www.schumer.senate.gov/contact/email-chuck
     website: http://www.schumer.senate.gov/   
         
+  - name: Scott (R-FL)
+    last: Scott
+    firstname: Rick
+    party: R
+    location: FL
+    address: B3 Russell
+    phone: (202) 224-5274
+    contact: None
+    website: http://www.rickscott.senate.gov/   
+        
   - name: Scott (R-SC)
     last: Scott
     firstname: Tim
@@ -849,6 +839,16 @@
     phone: (202) 224-5744
     contact: https://www.shelby.senate.gov/public/index.cfm/emailsenatorshelby
     website: http://www.shelby.senate.gov/   
+        
+  - name: Sinema (D-AZ)
+    last: Sinema
+    firstname: Kyrsten
+    party: D
+    location: AZ
+    address: 825B&C Hart
+    phone: (202) 224-4521
+    contact: mailto:contact@sinema.senate.gov
+    website: https://www.sinema.senate.gov   
         
   - name: Smith (D-MN)
     last: Smith
@@ -937,7 +937,7 @@
     location: MD
     address: 110 Hart
     phone: (202) 224-4654
-    contact: https://www.vanhollen.senate.gov/content/contact-senator
+    contact: http://www.vanhollen.senate.gov/contact/email
     website: http://www.vanhollen.senate.gov   
         
   - name: Warner (D-VA)
