@@ -58,8 +58,7 @@ def get_via_clerk():
         party: {}
         room: {}
         phone: {}
-        committee: 
-            """.format(name, state, district, party, room, phone)
+        committee: """.format(name, state, district, party, room, phone)
             yml_data += info
             # logger.debug('{} ems = {}'.format(name, len(ems)))
             # logger.debug('{}\t{}\t{}\t{}'.format(name, state, district, phone))
@@ -87,9 +86,14 @@ def get_via_house_gov():
                 rows.append(row)
     # logger.debug(rows)
     yml_data = '---\n'
+    name_fixer = re.compile(r'(\W|^)(.+)\2')
     for row in rows:
         tds = row.findAll("td")
-        name = tds[0].text
+        name = tds[0].find('a').text # returns names repeated 2x (i.e. Abraham, RalphAbraham, Ralph)
+        if name_fixer.match(name):  # if name exists
+            name = name_fixer.match(name).group(2) # fix the repeeated name
+        # else:
+            # continue # don't save if the name isn't right
 
         state_district = tds[1].text.split(' ')
         state_district = list(filter(None, state_district))
@@ -136,8 +140,7 @@ def get_via_house_gov():
     party: {}
     room: {}
     phone: {}
-    committee: {}
-            """.format(name, state, district, party, room, phone, committee_info)
+    committee: {}""".format(name.strip(), state.strip(), district.strip(), party.strip(), room.strip(), phone.strip(), committee_info.strip())
         yml_data += info
     logger.debug(yml_data)
     file_name = "hor.yml"
@@ -178,8 +181,7 @@ def get_senate_info():
     address: {}
     phone: {}
     contact: {}
-    website: {}   
-        """.format(full, last, first, party, state, address.rstrip(), phone, email, website)
+    website: {}""".format(full, last, first, party, state, address.rstrip(), phone, email, website)
         yml_info += info
 
     # logger.debug(yml_info)
@@ -190,4 +192,4 @@ def get_senate_info():
         
 
 get_via_house_gov()
-get_senate_info()
+# get_senate_info()
